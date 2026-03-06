@@ -1,0 +1,2853 @@
+[
+  {
+    "bundle": [
+      {
+        "piece_id": "p0",
+        "sat_text": "Lo que se centra mucho, o por lo que he visto, se centra mucho con la parte de eléctrica. ",
+        "start_time": 0,
+        "end_time": 5.460000038146973,
+        "duration": 5.460000038146973,
+        "whisper_text": "Lo que se centra mucho, o por lo que he visto, se centra mucho con la parte de eléctrica."
+      },
+      {
+        "piece_id": "p1",
+        "sat_text": "Esta web lo que hace es una simulación casi de pacientes, o sea, la web es un analizador de bombas de inclusión. ",
+        "start_time": 6.71999979019165,
+        "end_time": 12.199999809265137,
+        "duration": 5.480000019073486,
+        "whisper_text": "Esta web lo que hace es una simulación casi de pacientes, o sea, la web es un analizador de bombas de inclusión."
+      },
+      {
+        "piece_id": "p2",
+        "sat_text": "Permiso, ¿puedo ver las otras preguntas? ",
+        "start_time": 13.300000190734863,
+        "end_time": 14.5,
+        "duration": 1.1999998092651367,
+        "whisper_text": "Permiso, ¿puedo ver las otras preguntas?"
+      },
+      {
+        "piece_id": "p3",
+        "sat_text": "Sí, dale. ",
+        "start_time": 14.539999961853027,
+        "end_time": 14.880000114440918,
+        "duration": 0.3400001525878906,
+        "whisper_text": "Sí, dale."
+      },
+      {
+        "piece_id": "p4",
+        "sat_text": "Nada de ahí, métete ahí. ",
+        "start_time": 15.800000190734863,
+        "end_time": 16.65999984741211,
+        "duration": 0.8599996566772461,
+        "whisper_text": "Nada de ahí, métete ahí."
+      },
+      {
+        "piece_id": "p5",
+        "sat_text": "Entonces, bueno, ¿qué es lo que pasa? ",
+        "start_time": 17.420000076293945,
+        "end_time": 18.18000030517578,
+        "duration": 0.7600002288818359,
+        "whisper_text": "Entonces, bueno, ¿qué es lo que pasa?"
+      },
+      {
+        "piece_id": "p6",
+        "sat_text": "Nosotros tenemos en este momento una tecnología que tiene herramientas polacas, ¿cachai?  ",
+        "start_time": 18.239999771118164,
+        "end_time": 23.6200008392334,
+        "duration": 5.380001068115234,
+        "whisper_text": "Nosotros tenemos en este momento una tecnología que tiene herramientas polacas, ¿cachai?"
+      },
+      {
+        "piece_id": "p7",
+        "sat_text": "¿Ya? ",
+        "start_time": 24.219999313354492,
+        "end_time": 24.5,
+        "duration": 0.2800006866455078,
+        "whisper_text": "¿Ya?"
+      },
+      {
+        "piece_id": "p8",
+        "sat_text": "La herramienta es por la que me llenca llanta. ",
+        "start_time": 24.959999084472656,
+        "end_time": 26.540000915527344,
+        "duration": 1.5800018310546875,
+        "whisper_text": "La herramienta es por la que me llenca llanta."
+      },
+      {
+        "piece_id": "p9",
+        "sat_text": "Están mal hechas, muy mal. ",
+        "start_time": 26.780000686645508,
+        "end_time": 28.020000457763672,
+        "duration": 1.239999771118164,
+        "whisper_text": "Están mal hechas, muy mal."
+      },
+      {
+        "piece_id": "p10",
+        "sat_text": "Entonces un día dije a mi jefe, oye, ¿cuándo vamos a estandarizar esto? ",
+        "start_time": 28.440000534057617,
+        "end_time": 31,
+        "duration": 2.559999465942383,
+        "whisper_text": "Entonces un día dije a mi jefe, oye, ¿cuándo vamos a estandarizar esto?"
+      },
+      {
+        "piece_id": "p11",
+        "sat_text": "El otro día. ",
+        "start_time": 31.200000762939453,
+        "end_time": 31.68000030517578,
+        "duration": 0.4799995422363281,
+        "whisper_text": "El otro día."
+      },
+      {
+        "piece_id": "p12",
+        "sat_text": "Dije, porque, güey, me dio vergüenza el otro día un cliente me había preguntado, oye, ¿y qué está, güey? ",
+        "start_time": 31.979999542236328,
+        "end_time": 35.439998626708984,
+        "duration": 3.4599990844726562,
+        "whisper_text": "Dije, porque, güey, me dio vergüenza el otro día un cliente me había preguntado, oye, ¿y qué está, güey?"
+      },
+      {
+        "piece_id": "p13",
+        "sat_text": "Ya, güey. ",
+        "start_time": 36.47999954223633,
+        "end_time": 37.08000183105469,
+        "duration": 0.6000022888183594,
+        "whisper_text": "Ya, güey."
+      },
+      {
+        "piece_id": "p14",
+        "sat_text": "Oye, por si estar acá, porque no se me está haciendo eso. ",
+        "start_time": 37.279998779296875,
+        "end_time": 39.15999984741211,
+        "duration": 1.8800010681152344,
+        "whisper_text": "Oye, por si estar acá, porque no se me está haciendo eso."
+      },
+      {
+        "piece_id": "p15",
+        "sat_text": "Hoy tiene un montón de simuladores buenísimos. ",
+        "start_time": 41.20000076293945,
+        "end_time": 43.29999923706055,
+        "duration": 2.0999984741210938,
+        "whisper_text": "Hoy tiene un montón de simuladores buenísimos."
+      },
+      {
+        "piece_id": "p16",
+        "sat_text": "Sí, pues, güey, si tiene una pila de güeyes, pues.  ",
+        "start_time": 43.380001068115234,
+        "end_time": 45.060001373291016,
+        "duration": 1.6800003051757812,
+        "whisper_text": "Sí, pues, güey, si tiene una pila de güeyes, pues."
+      },
+      {
+        "piece_id": "p17",
+        "sat_text": "Por eso le van a hablar bien con la marca y ver qué pasa. ",
+        "start_time": 45.47999954223633,
+        "end_time": 47.52000045776367,
+        "duration": 2.0400009155273438,
+        "whisper_text": "Por eso le van a hablar bien con la marca y ver qué pasa."
+      },
+      {
+        "piece_id": "p18",
+        "sat_text": "¿Qué es lo que pasa? ",
+        "start_time": 48.81999969482422,
+        "end_time": 49.459999084472656,
+        "duration": 0.6399993896484375,
+        "whisper_text": "¿Qué es lo que pasa?"
+      },
+      {
+        "piece_id": "p19",
+        "sat_text": "Este nicho es caro, porque bueno, aquí en Chile, yo sé que está Fluke, que lo tiene DM, que es la empresa chilena que tiene Fluke, que es DM, y eso ya está en la calibración y todo. ",
+        "start_time": 49.560001373291016,
+        "end_time": 56.939998626708984,
+        "duration": 7.379997253417969,
+        "whisper_text": "Este nicho es caro, porque bueno, aquí en Chile, yo sé que está Fluke, que lo tiene DM, que es la empresa chilena que tiene Fluke, que es DM, y eso ya está en la calibración y todo."
+      },
+      {
+        "piece_id": "p20",
+        "sat_text": "Y luego está... ",
+        "start_time": 57.380001068115234,
+        "end_time": 58.939998626708984,
+        "duration": 1.55999755859375,
+        "whisper_text": "Y luego está..."
+      },
+      {
+        "piece_id": "p21",
+        "sat_text": "¿Cómo se llama? ",
+        "start_time": 58.939998626708984,
+        "end_time": 61.79999923706055,
+        "duration": 2.8600006103515625,
+        "whisper_text": "¿Cómo se llama?"
+      },
+      {
+        "piece_id": "p22",
+        "sat_text": "¿Mediplex? ",
+        "start_time": 62.2400016784668,
+        "end_time": 62.560001373291016,
+        "duration": 0.31999969482421875,
+        "whisper_text": "¿Mediplex?"
+      },
+      {
+        "piece_id": "p23",
+        "sat_text": "Sí, luego es Mediplex, que es el que trae Rígel Medical, que es como similar a Fluke, pero creo que es un pelín más barato. ",
+        "start_time": 62.81999969482422,
+        "end_time": 70.0199966430664,
+        "duration": 7.1999969482421875,
+        "whisper_text": "Sí, luego es Mediplex, que es el que trae Rígel Medical, que es como similar a Fluke, pero creo que es un pelín más barato."
+      },
+      {
+        "piece_id": "p24",
+        "sat_text": "Pero esto...  ",
+        "start_time": 71.12000274658203,
+        "end_time": 71.91999816894531,
+        "duration": 0.7999954223632812,
+        "whisper_text": "Pero esto..."
+      },
+      {
+        "piece_id": "p25",
+        "sat_text": "Podríamos ver que también me trae el nicho, si son más baratos, los hospitales te van a comprarlos. ",
+        "start_time": 73.48999786376953,
+        "end_time": 77.20999908447266,
+        "duration": 3.720001220703125,
+        "whisper_text": "Podríamos ver que también me trae el nicho, si son más baratos, los hospitales te van a comprarlos."
+      },
+      {
+        "piece_id": "p26",
+        "sat_text": "Es que sí, hospitales y clínicas te la van a comprar, que haga la risa, pero sí como clínicas tipo dos carreras, IMET en Punta Arena.  ",
+        "start_time": 77.44999694824219,
+        "end_time": 84.7699966430664,
+        "duration": 7.319999694824219,
+        "whisper_text": "Es que sí, hospitales y clínicas te la van a comprar, que haga la risa, pero sí como clínicas tipo dos carreras, IMET en Punta Arena."
+      },
+      {
+        "piece_id": "p27",
+        "sat_text": "clientes que no sean muy grandes como una alemana que ni cagando te va a meter una huella que no sea flujo. ",
+        "start_time": 85.94999694824219,
+        "end_time": 89.8499984741211,
+        "duration": 3.9000015258789062,
+        "whisper_text": "clientes que no sean muy grandes como una alemana que ni cagando te va a meter una huella que no sea flujo."
+      },
+      {
+        "piece_id": "p28",
+        "sat_text": "Sí, de hecho es un buen nicho porque hasta ahora esa clínica está forzada a comprar flujo o no? ",
+        "start_time": 89.87000274658203,
+        "end_time": 96.80999755859375,
+        "duration": 6.939994812011719,
+        "whisper_text": "Sí, de hecho es un buen nicho porque hasta ahora esa clínica está forzada a comprar flujo o no?"
+      },
+      {
+        "piece_id": "p29",
+        "sat_text": "No, la verdad es que en verdad es un estándar tonto porque compra esa huella y de repente ni los usuarios se van a ocupar la mierda. ",
+        "start_time": 97.43000030517578,
+        "end_time": 103.55000305175781,
+        "duration": 6.120002746582031,
+        "whisper_text": "No, la verdad es que en verdad es un estándar tonto porque compra esa huella y de repente ni los usuarios se van a ocupar la mierda."
+      },
+      {
+        "piece_id": "p30",
+        "sat_text": "Y eso pasa mucho en Alemania. ",
+        "start_time": 103.79000091552734,
+        "end_time": 106.44999694824219,
+        "duration": 2.6599960327148438,
+        "whisper_text": "Y eso pasa mucho en Alemania."
+      },
+      {
+        "piece_id": "p31",
+        "sat_text": "No, y lo mejor es que estas hueas como son más low cost puedes vendárselo hasta universidades. ",
+        "start_time": 106.56999969482422,
+        "end_time": 109.66999816894531,
+        "duration": 3.0999984741210938,
+        "whisper_text": "No, y lo mejor es que estas hueas como son más low cost puedes vendárselo hasta universidades."
+      },
+      {
+        "piece_id": "p32",
+        "sat_text": "Es que eso estaba pensando, como que nosotros podríamos ser el segundo tier.  ",
+        "start_time": 110.01000213623047,
+        "end_time": 112.7300033569336,
+        "duration": 2.720001220703125,
+        "whisper_text": "Es que eso estaba pensando, como que nosotros podríamos ser el segundo tier."
+      },
+      {
+        "piece_id": "p33",
+        "sat_text": "Porque siempre hay tier en los mercados. ",
+        "start_time": 113.16999816894531,
+        "end_time": 114.94999694824219,
+        "duration": 1.779998779296875,
+        "whisper_text": "Porque siempre hay tier en los mercados."
+      },
+      {
+        "piece_id": "p34",
+        "sat_text": "Si Fluke es el tier 1, no todo el mercado va a estar apuntando a ser el tier 1. ",
+        "start_time": 115.2699966430664,
+        "end_time": 119.20999908447266,
+        "duration": 3.94000244140625,
+        "whisper_text": "Si Fluke es el tier 1, no todo el mercado va a estar apuntando a ser el tier 1."
+      },
+      {
+        "piece_id": "p35",
+        "sat_text": "Entonces, si nosotros necesitamos el tier 2 o el tier 3, tenemos un mercado bastante grande. ",
+        "start_time": 119.58999633789062,
+        "end_time": 123.6500015258789,
+        "duration": 4.060005187988281,
+        "whisper_text": "Entonces, si nosotros necesitamos el tier 2 o el tier 3, tenemos un mercado bastante grande."
+      },
+      {
+        "piece_id": "p36",
+        "sat_text": "Bueno, entonces, ¿qué es lo que me contó mi jefe? ",
+        "start_time": 123.75,
+        "end_time": 125.51000213623047,
+        "duration": 1.7600021362304688,
+        "whisper_text": "Bueno, entonces, ¿qué es lo que me contó mi jefe?"
+      },
+      {
+        "piece_id": "p37",
+        "sat_text": "De que a esta güey nadie lo trae en Chile. ",
+        "start_time": 125.58999633789062,
+        "end_time": 127.02999877929688,
+        "duration": 1.44000244140625,
+        "whisper_text": "De que a esta güey nadie lo trae en Chile."
+      },
+      {
+        "piece_id": "p38",
+        "sat_text": "Entonces yo le dije, ¿pero y que estoy dispiando a comprarlo? ",
+        "start_time": 127.55000305175781,
+        "end_time": 129.07000732421875,
+        "duration": 1.5200042724609375,
+        "whisper_text": "Entonces yo le dije, ¿pero y que estoy dispiando a comprarlo?"
+      },
+      {
+        "piece_id": "p39",
+        "sat_text": "Me dijo, no, que alguien lo traiga en Chile. ",
+        "start_time": 129.07000732421875,
+        "end_time": 130.11000061035156,
+        "duration": 1.0399932861328125,
+        "whisper_text": "Me dijo, no, que alguien lo traiga en Chile."
+      },
+      {
+        "piece_id": "p40",
+        "sat_text": "Y yo... ",
+        "start_time": 130.7899932861328,
+        "end_time": 131.7899932861328,
+        "duration": 1,
+        "whisper_text": "Y yo..."
+      },
+      {
+        "piece_id": "p41",
+        "sat_text": "Entonces, lo que yo tengo entendido, porque creo que una vez le pregunté, me dijo, no, porque lo que necesitamos es que nos den factura, creo. ",
+        "start_time": 131.7899932861328,
+        "end_time": 139.27000427246094,
+        "duration": 7.480010986328125,
+        "whisper_text": "Entonces, lo que yo tengo entendido, porque creo que una vez le pregunté, me dijo, no, porque lo que necesitamos es que nos den factura, creo."
+      },
+      {
+        "piece_id": "p42",
+        "sat_text": "Eso es lo único que necesite. ",
+        "start_time": 139.41000366210938,
+        "end_time": 140.2899932861328,
+        "duration": 0.8799896240234375,
+        "whisper_text": "Eso es lo único que necesite."
+      },
+      {
+        "piece_id": "p43",
+        "sat_text": "Entonces, ¿qué tiene esa empresa al final?  ",
+        "start_time": 140.52999877929688,
+        "end_time": 142.14999389648438,
+        "duration": 1.6199951171875,
+        "whisper_text": "Entonces, ¿qué tiene esa empresa al final?"
+      },
+      {
+        "piece_id": "p44",
+        "sat_text": "¿Melón? ",
+        "start_time": 143.13999938964844,
+        "end_time": 143.47999572753906,
+        "duration": 0.339996337890625,
+        "whisper_text": "¿Melón?"
+      },
+      {
+        "piece_id": "p45",
+        "sat_text": "Eh, para el bicho, pero el bicho se puede sentar aquí porque si no... ",
+        "start_time": 143.67999267578125,
+        "end_time": 147.25999450683594,
+        "duration": 3.5800018310546875,
+        "whisper_text": "Eh, para el bicho, pero el bicho se puede sentar aquí porque si no..."
+      },
+      {
+        "piece_id": "p46",
+        "sat_text": "No sé, estoy sentado acá por mientras, pero cuando llegue el bicho... ",
+        "start_time": 147.25999450683594,
+        "end_time": 149.60000610351562,
+        "duration": 2.3400115966796875,
+        "whisper_text": "No sé, estoy sentado acá por mientras, pero cuando llegue el bicho..."
+      },
+      {
+        "piece_id": "p47",
+        "sat_text": "¿Esta es de melón? ",
+        "start_time": 149.60000610351562,
+        "end_time": 150.1199951171875,
+        "duration": 0.519989013671875,
+        "whisper_text": "¿Esta es de melón?"
+      },
+      {
+        "piece_id": "p48",
+        "sat_text": "Ah, esa es de melón, ¿esta es de...? ",
+        "start_time": 150.27999877929688,
+        "end_time": 151.55999755859375,
+        "duration": 1.279998779296875,
+        "whisper_text": "Ah, esa es de melón, ¿esta es de...?"
+      },
+      {
+        "piece_id": "p49",
+        "sat_text": "Es limonada. ",
+        "start_time": 151.55999755859375,
+        "end_time": 152.1199951171875,
+        "duration": 0.55999755859375,
+        "whisper_text": "Es limonada."
+      },
+      {
+        "piece_id": "p50",
+        "sat_text": "Ah, y esta es la mía. ",
+        "start_time": 152.3000030517578,
+        "end_time": 152.9199981689453,
+        "duration": 0.6199951171875,
+        "whisper_text": "Ah, y esta es la mía."
+      },
+      {
+        "piece_id": "p51",
+        "sat_text": "¿Limonada menta? ",
+        "start_time": 153.3800048828125,
+        "end_time": 153.94000244140625,
+        "duration": 0.55999755859375,
+        "whisper_text": "¿Limonada menta?"
+      },
+      {
+        "piece_id": "p52",
+        "sat_text": "Sí, por favor. ",
+        "start_time": 154.02000427246094,
+        "end_time": 154.39999389648438,
+        "duration": 0.3799896240234375,
+        "whisper_text": "Sí, por favor."
+      },
+      {
+        "piece_id": "p53",
+        "sat_text": "No, la de menta mía. ",
+        "start_time": 154.60000610351562,
+        "end_time": 155.24000549316406,
+        "duration": 0.6399993896484375,
+        "whisper_text": "No, la de menta mía."
+      },
+      {
+        "piece_id": "p54",
+        "sat_text": "La jengibre es la tuya. ",
+        "start_time": 155.6199951171875,
+        "end_time": 156.82000732421875,
+        "duration": 1.20001220703125,
+        "whisper_text": "La jengibre es la tuya."
+      },
+      {
+        "piece_id": "p55",
+        "sat_text": "Gracias. ",
+        "start_time": 158.75999450683594,
+        "end_time": 159.10000610351562,
+        "duration": 0.3400115966796875,
+        "whisper_text": "Gracias."
+      },
+      {
+        "piece_id": "p56",
+        "sat_text": "¿Tienes que endulzarla así? ",
+        "start_time": 159.39999389648438,
+        "end_time": 160.5800018310547,
+        "duration": 1.1800079345703125,
+        "whisper_text": "¿Tienes que endulzarla así?"
+      },
+      {
+        "piece_id": "p57",
+        "sat_text": "¿Qué? ",
+        "start_time": 161.16000366210938,
+        "end_time": 161.3800048828125,
+        "duration": 0.220001220703125,
+        "whisper_text": "¿Qué?"
+      },
+      {
+        "piece_id": "p58",
+        "sat_text": "¿Puede frutilla? ",
+        "start_time": 161.77999877929688,
+        "end_time": 162.5399932861328,
+        "duration": 0.7599945068359375,
+        "whisper_text": "¿Puede frutilla?"
+      },
+      {
+        "piece_id": "p59",
+        "sat_text": "Eh, ahí ya. ",
+        "start_time": 162.9600067138672,
+        "end_time": 163.67999267578125,
+        "duration": 0.7199859619140625,
+        "whisper_text": "Eh, ahí ya."
+      },
+      {
+        "piece_id": "p60",
+        "sat_text": "Gracias. ",
+        "start_time": 168.60000610351562,
+        "end_time": 168.94000244140625,
+        "duration": 0.339996337890625,
+        "whisper_text": "Gracias."
+      },
+      {
+        "piece_id": "p61",
+        "sat_text": "De nada. ",
+        "start_time": 169.33999633789062,
+        "end_time": 169.36000061035156,
+        "duration": 0.0200042724609375,
+        "whisper_text": "De nada."
+      },
+      {
+        "piece_id": "p62",
+        "sat_text": "Si he hecho un bolada...  ",
+        "start_time": 171.44000244140625,
+        "end_time": 172.86000061035156,
+        "duration": 1.4199981689453125,
+        "whisper_text": "Si he hecho un bolada..."
+      },
+      {
+        "piece_id": "p63",
+        "sat_text": "Después corremos la mesa un poco más para acá. ",
+        "start_time": 172.99000549316406,
+        "end_time": 174.69000244140625,
+        "duration": 1.6999969482421875,
+        "whisper_text": "Después corremos la mesa un poco más para acá."
+      },
+      {
+        "piece_id": "p64",
+        "sat_text": "Es que el sol ahí me llega. ",
+        "start_time": 174.8699951171875,
+        "end_time": 175.7899932861328,
+        "duration": 0.9199981689453125,
+        "whisper_text": "Es que el sol ahí me llega."
+      },
+      {
+        "piece_id": "p65",
+        "sat_text": "Y espérate, ¿empresa en un día? ",
+        "start_time": 176.22999572753906,
+        "end_time": 177.8300018310547,
+        "duration": 1.600006103515625,
+        "whisper_text": "Y espérate, ¿empresa en un día?"
+      },
+      {
+        "piece_id": "p66",
+        "sat_text": "Que eso podría ser, cacho. ",
+        "start_time": 178.9499969482422,
+        "end_time": 180.25,
+        "duration": 1.3000030517578125,
+        "whisper_text": "Que eso podría ser, cacho."
+      },
+      {
+        "piece_id": "p67",
+        "sat_text": "Eso yo sé que te pueden mentir con factura rápido. ",
+        "start_time": 180.88999938964844,
+        "end_time": 182.75,
+        "duration": 1.8600006103515625,
+        "whisper_text": "Eso yo sé que te pueden mentir con factura rápido."
+      },
+      {
+        "piece_id": "p68",
+        "sat_text": "Igual tengo un amigo que sabe dar toda la contabilidad y así nos puede ayudar a ver qué onda ahí. ",
+        "start_time": 182.91000366210938,
+        "end_time": 189.57000732421875,
+        "duration": 6.660003662109375,
+        "whisper_text": "Igual tengo un amigo que sabe dar toda la contabilidad y así nos puede ayudar a ver qué onda ahí."
+      },
+      {
+        "piece_id": "p69",
+        "sat_text": "Pero bueno, esa es la oportunidad. ",
+        "start_time": 190.4499969482422,
+        "end_time": 191.57000732421875,
+        "duration": 1.1200103759765625,
+        "whisper_text": "Pero bueno, esa es la oportunidad."
+      },
+      {
+        "piece_id": "p70",
+        "sat_text": "Y lo que estoy viendo es como, claro, esto se trae y a lo mejor podemos hacer una empresa de ese estilo, como traer solamente cosas...  analizadores porque son chiquititos los analizadores porque son para bombas de infusión quizás esta no sale más barato para importarles que un buen viaje y las traigan una maleta de hecho sí que alguien se pide vacaciones que quiera allá me voy con una mochila y con el banco ya tengo con el banco y me dan una maleta gratis de vuelta  ",
+        "start_time": 191.75,
+        "end_time": 221.77999877929688,
+        "duration": 30.029998779296875,
+        "whisper_text": "Y lo que estoy viendo es como, claro, esto se trae y a lo mejor podemos hacer una empresa de ese estilo, como traer solamente cosas... analizadores porque son chiquititos los analizadores porque son para bombas de infusión quizás esta no sale más barato para importarles que un buen viaje y las traigan una maleta de hecho sí que alguien se pide vacaciones que quiera allá me voy con una mochila y con el banco ya tengo con el banco y me dan una maleta gratis de vuelta"
+      },
+      {
+        "piece_id": "p71",
+        "sat_text": "El tema es hablar con la marca. ",
+        "start_time": 228.44000244140625,
+        "end_time": 229.89999389648438,
+        "duration": 1.459991455078125,
+        "whisper_text": "El tema es hablar con la marca."
+      },
+      {
+        "piece_id": "p72",
+        "sat_text": "Claro, habría que hacer la presentación. ",
+        "start_time": 230.72000122070312,
+        "end_time": 233.63999938964844,
+        "duration": 2.9199981689453125,
+        "whisper_text": "Claro, habría que hacer la presentación."
+      },
+      {
+        "piece_id": "p73",
+        "sat_text": "Como decirle, como, oye, mira, si, oye, que eres una empresa que queremos partirlo aquí en Chile con esto. ",
+        "start_time": 234.3800048828125,
+        "end_time": 238.63999938964844,
+        "duration": 4.2599945068359375,
+        "whisper_text": "Como decirle, como, oye, mira, si, oye, que eres una empresa que queremos partirlo aquí en Chile con esto."
+      },
+      {
+        "piece_id": "p74",
+        "sat_text": "Nos interesa tu marca y listo. ",
+        "start_time": 239.4199981689453,
+        "end_time": 240.9600067138672,
+        "duration": 1.540008544921875,
+        "whisper_text": "Nos interesa tu marca y listo."
+      },
+      {
+        "piece_id": "p75",
+        "sat_text": "Habría que armar el pitch, ¿no? ",
+        "start_time": 241.4199981689453,
+        "end_time": 242.39999389648438,
+        "duration": 0.9799957275390625,
+        "whisper_text": "Habría que armar el pitch, ¿no?"
+      },
+      {
+        "piece_id": "p76",
+        "sat_text": "Sí, y como posicionar esa marca en Chile. ",
+        "start_time": 242.66000366210938,
+        "end_time": 244.72000122070312,
+        "duration": 2.05999755859375,
+        "whisper_text": "Sí, y como posicionar esa marca en Chile."
+      },
+      {
+        "piece_id": "p77",
+        "sat_text": "No podemos perder más tiempo, tenemos que hacerlo esta semana. ",
+        "start_time": 244.72000122070312,
+        "end_time": 246.5399932861328,
+        "duration": 1.8199920654296875,
+        "whisper_text": "No podemos perder más tiempo, tenemos que hacerlo esta semana."
+      },
+      {
+        "piece_id": "p78",
+        "sat_text": "¿Ya? ",
+        "start_time": 247.13999938964844,
+        "end_time": 247.4199981689453,
+        "duration": 0.279998779296875,
+        "whisper_text": "¿Ya?"
+      },
+      {
+        "piece_id": "p79",
+        "sat_text": "¿Por qué decir eso? ",
+        "start_time": 248,
+        "end_time": 249,
+        "duration": 1,
+        "whisper_text": "¿Por qué decir eso?"
+      },
+      {
+        "piece_id": "p80",
+        "sat_text": "Porque hay que aprovechar el infinito que necesitamos del primer cliente.  ",
+        "start_time": 249.66000366210938,
+        "end_time": 253.60000610351562,
+        "duration": 3.94000244140625,
+        "whisper_text": "Porque hay que aprovechar el infinito que necesitamos del primer cliente."
+      },
+      {
+        "piece_id": "p81",
+        "sat_text": "Pero un cliente seguro, quizás podría mandarme unas muestras ",
+        "start_time": 254.36000061035156,
+        "end_time": 257.5799865722656,
+        "duration": 3.2199859619140625,
+        "whisper_text": "Pero un cliente seguro, quizás podría mandarme unas muestras"
+      },
+      {
+        "piece_id": "p82",
+        "sat_text": "Y esperar un poco más sería arriesgar a ese cliente, ya perfecto ",
+        "start_time": 257.5799865722656,
+        "end_time": 260.7799987792969,
+        "duration": 3.20001220703125,
+        "whisper_text": "Y esperar un poco más sería arriesgar a ese cliente, ya perfecto"
+      },
+      {
+        "piece_id": "p83",
+        "sat_text": "Que es un input seguro ",
+        "start_time": 260.7799987792969,
+        "end_time": 262.1000061035156,
+        "duration": 1.32000732421875,
+        "whisper_text": "Que es un input seguro"
+      },
+      {
+        "piece_id": "p84",
+        "sat_text": "Sí, pues por lo menos tenerlo y ya... ",
+        "start_time": 262.1000061035156,
+        "end_time": 266.1199951171875,
+        "duration": 4.019989013671875,
+        "whisper_text": "Sí, pues por lo menos tenerlo y ya..."
+      },
+      {
+        "piece_id": "p85",
+        "sat_text": "Sí, pues yo también le puedo preguntar a mi jefe que tan urgente lo quiere ",
+        "start_time": 266.1199951171875,
+        "end_time": 268.8999938964844,
+        "duration": 2.779998779296875,
+        "whisper_text": "Sí, pues yo también le puedo preguntar a mi jefe que tan urgente lo quiere"
+      },
+      {
+        "piece_id": "p86",
+        "sat_text": "De repente me dice sí, de repente... ",
+        "start_time": 268.8999938964844,
+        "end_time": 271.5,
+        "duration": 2.600006103515625,
+        "whisper_text": "De repente me dice sí, de repente..."
+      },
+      {
+        "piece_id": "p87",
+        "sat_text": "Ya, eso es una buena pregunta, porque en realidad lo está pensando para el próximo año ",
+        "start_time": 271.5,
+        "end_time": 274.7200012207031,
+        "duration": 3.220001220703125,
+        "whisper_text": "Ya, eso es una buena pregunta, porque en realidad lo está pensando para el próximo año"
+      },
+      {
+        "piece_id": "p88",
+        "sat_text": "Sí ",
+        "start_time": 274.7200012207031,
+        "end_time": 275.17999267578125,
+        "duration": 0.459991455078125,
+        "whisper_text": "Sí"
+      },
+      {
+        "piece_id": "p89",
+        "sat_text": "Y eso nos cagaría ",
+        "start_time": 275.17999267578125,
+        "end_time": 276.17999267578125,
+        "duration": 1,
+        "whisper_text": "Y eso nos cagaría"
+      },
+      {
+        "piece_id": "p90",
+        "sat_text": "Oye, ¿sabes que en verdad yo estaba pensando justo en eso? ",
+        "start_time": 276.17999267578125,
+        "end_time": 278.739990234375,
+        "duration": 2.55999755859375,
+        "whisper_text": "Oye, ¿sabes que en verdad yo estaba pensando justo en eso?"
+      },
+      {
+        "piece_id": "p91",
+        "sat_text": "¿Cuál es el gesto? ",
+        "start_time": 278.8399963378906,
+        "end_time": 279.32000732421875,
+        "duration": 0.480010986328125,
+        "whisper_text": "¿Cuál es el gesto?"
+      },
+      {
+        "piece_id": "p92",
+        "sat_text": "¿Cuál es el gesto?  ",
+        "start_time": 279.4599914550781,
+        "end_time": 280.17999267578125,
+        "duration": 0.720001220703125,
+        "whisper_text": "¿Cuál es el gesto?"
+      },
+      {
+        "piece_id": "p93",
+        "sat_text": "Si no, yo de hecho no hubiese podido hablar con él, ningún problema. ",
+        "start_time": 282.510009765625,
+        "end_time": 284.42999267578125,
+        "duration": 1.91998291015625,
+        "whisper_text": "Si no, yo de hecho no hubiese podido hablar con él, ningún problema."
+      },
+      {
+        "piece_id": "p94",
+        "sat_text": "Y le pregunta ahí, ¿sabes que estamos pensando en poner una empresa? ",
+        "start_time": 284.5299987792969,
+        "end_time": 287.510009765625,
+        "duration": 2.980010986328125,
+        "whisper_text": "Y le pregunta ahí, ¿sabes que estamos pensando en poner una empresa?"
+      },
+      {
+        "piece_id": "p95",
+        "sat_text": "Y ¿sabes que estamos buscando un producto? ",
+        "start_time": 287.69000244140625,
+        "end_time": 289.1499938964844,
+        "duration": 1.459991455078125,
+        "whisper_text": "Y ¿sabes que estamos buscando un producto?"
+      },
+      {
+        "piece_id": "p96",
+        "sat_text": "Y podríamos agregar el... agregarlo, no le digáis que hacer sobre eso. ",
+        "start_time": 289.4100036621094,
+        "end_time": 293.3299865722656,
+        "duration": 3.91998291015625,
+        "whisper_text": "Y podríamos agregar el... agregarlo, no le digáis que hacer sobre eso."
+      },
+      {
+        "piece_id": "p97",
+        "sat_text": "Agregar este tema de los analizadores. ",
+        "start_time": 293.8299865722656,
+        "end_time": 295.75,
+        "duration": 1.920013427734375,
+        "whisper_text": "Agregar este tema de los analizadores."
+      },
+      {
+        "piece_id": "p98",
+        "sat_text": "¿Para cuánto más o menos lo estás estimando tú? ",
+        "start_time": 296.19000244140625,
+        "end_time": 298.07000732421875,
+        "duration": 1.8800048828125,
+        "whisper_text": "¿Para cuánto más o menos lo estás estimando tú?"
+      },
+      {
+        "piece_id": "p99",
+        "sat_text": "Ya, porque nosotros estamos pensando el próximo mes ir a Estados Unidos a dar unas cositas. ",
+        "start_time": 298.69000244140625,
+        "end_time": 303.3900146484375,
+        "duration": 4.70001220703125,
+        "whisper_text": "Ya, porque nosotros estamos pensando el próximo mes ir a Estados Unidos a dar unas cositas."
+      },
+      {
+        "piece_id": "p100",
+        "sat_text": "Y si te dice, ya el próximo mes, o hagámoslo ahora.  ",
+        "start_time": 306.2900085449219,
+        "end_time": 310.0299987792969,
+        "duration": 3.739990234375,
+        "whisper_text": "Y si te dice, ya el próximo mes, o hagámoslo ahora."
+      },
+      {
+        "piece_id": "p101",
+        "sat_text": "Si quieren, como yo hablo bien inglés, me contacto con ellos, tenemos una videollamada y nos fijé Estados Unidos. ",
+        "start_time": 310.6600036621094,
+        "end_time": 317.6400146484375,
+        "duration": 6.980010986328125,
+        "whisper_text": "Si quieren, como yo hablo bien inglés, me contacto con ellos, tenemos una videollamada y nos fijé Estados Unidos."
+      },
+      {
+        "piece_id": "p102",
+        "sat_text": "Y de hecho, más allá de hablar bien inglés, ¿tú tenés las habilidades comunicacionales para ese tipo de epilúcio? ",
+        "start_time": 318.3800048828125,
+        "end_time": 322.8399963378906,
+        "duration": 4.459991455078125,
+        "whisper_text": "Y de hecho, más allá de hablar bien inglés, ¿tú tenés las habilidades comunicacionales para ese tipo de epilúcio?"
+      },
+      {
+        "piece_id": "p103",
+        "sat_text": "¿Tú igual le ponías todo el inglés? ",
+        "start_time": 324.239990234375,
+        "end_time": 325.3999938964844,
+        "duration": 1.160003662109375,
+        "whisper_text": "¿Tú igual le ponías todo el inglés?"
+      },
+      {
+        "piece_id": "p104",
+        "sat_text": "Sí. ",
+        "start_time": 325.5799865722656,
+        "end_time": 325.760009765625,
+        "duration": 0.180023193359375,
+        "whisper_text": "Sí."
+      },
+      {
+        "piece_id": "p105",
+        "sat_text": "Yo lo pongo en tres veces. ",
+        "start_time": 325.82000732421875,
+        "end_time": 326.94000244140625,
+        "duration": 1.1199951171875,
+        "whisper_text": "Yo lo pongo en tres veces."
+      },
+      {
+        "piece_id": "p106",
+        "sat_text": "Hablar inglés no tengo problema, pero lo que a mí no me están a ver todavía es que está ahí ese tipo de pitch. ",
+        "start_time": 327.1600036621094,
+        "end_time": 331.4599914550781,
+        "duration": 4.29998779296875,
+        "whisper_text": "Hablar inglés no tengo problema, pero lo que a mí no me están a ver todavía es que está ahí ese tipo de pitch."
+      },
+      {
+        "piece_id": "p107",
+        "sat_text": "No, para mí el nativo me mata un poco. ",
+        "start_time": 331.5,
+        "end_time": 333.3599853515625,
+        "duration": 1.8599853515625,
+        "whisper_text": "No, para mí el nativo me mata un poco."
+      },
+      {
+        "piece_id": "p108",
+        "sat_text": "O sea, te digo, de esa conversación que podemos tener, vamos a entender el 80%, 50%.  ",
+        "start_time": 333.6400146484375,
+        "end_time": 338.8800048828125,
+        "duration": 5.239990234375,
+        "whisper_text": "O sea, te digo, de esa conversación que podemos tener, vamos a entender el 80%, 50%."
+      },
+      {
+        "piece_id": "p109",
+        "sat_text": "Ya. ",
+        "start_time": 339.260009765625,
+        "end_time": 339.4800109863281,
+        "duration": 0.220001220703125,
+        "whisper_text": "Ya."
+      },
+      {
+        "piece_id": "p110",
+        "sat_text": "Porque el nativo me mata harto. ",
+        "start_time": 339.6199951171875,
+        "end_time": 341.17999267578125,
+        "duration": 1.55999755859375,
+        "whisper_text": "Porque el nativo me mata harto."
+      },
+      {
+        "piece_id": "p111",
+        "sat_text": "No, yo estoy acostumbrado porque el mío incluso es nativo y es nativo a francesado. ",
+        "start_time": 341.32000732421875,
+        "end_time": 346.760009765625,
+        "duration": 5.44000244140625,
+        "whisper_text": "No, yo estoy acostumbrado porque el mío incluso es nativo y es nativo a francesado."
+      },
+      {
+        "piece_id": "p112",
+        "sat_text": "A francesado. ",
+        "start_time": 347.1000061035156,
+        "end_time": 347.8999938964844,
+        "duration": 0.79998779296875,
+        "whisper_text": "A francesado."
+      },
+      {
+        "piece_id": "p113",
+        "sat_text": "Me hiciste acordar de mi clase de Power BI. ",
+        "start_time": 348.5,
+        "end_time": 351.0400085449219,
+        "duration": 2.540008544921875,
+        "whisper_text": "Me hiciste acordar de mi clase de Power BI."
+      },
+      {
+        "piece_id": "p114",
+        "sat_text": "Ya, ¿por qué? ",
+        "start_time": 351.7200012207031,
+        "end_time": 352.3399963378906,
+        "duration": 0.6199951171875,
+        "whisper_text": "Ya, ¿por qué?"
+      },
+      {
+        "piece_id": "p115",
+        "sat_text": "Porque era un indie.  ",
+        "start_time": 352.3399963378906,
+        "end_time": 353.8999938964844,
+        "duration": 1.55999755859375,
+        "whisper_text": "Porque era un indie."
+      },
+      {
+        "piece_id": "p116",
+        "sat_text": "Pero los indios tienen esa huella que igual tienen como un nativo. ",
+        "start_time": 354.8299865722656,
+        "end_time": 357.8699951171875,
+        "duration": 3.040008544921875,
+        "whisper_text": "Pero los indios tienen esa huella que igual tienen como un nativo."
+      },
+      {
+        "piece_id": "p117",
+        "sat_text": "Pero es más extraño que la mía. ",
+        "start_time": 358.0299987792969,
+        "end_time": 360.2099914550781,
+        "duration": 2.17999267578125,
+        "whisper_text": "Pero es más extraño que la mía."
+      },
+      {
+        "piece_id": "p118",
+        "sat_text": "No, fellas, are going to see this issue that we have here with your companions. ",
+        "start_time": 360.80999755859375,
+        "end_time": 366.04998779296875,
+        "duration": 5.239990234375,
+        "whisper_text": "No, fellas, are going to see this issue that we have here with your companions."
+      },
+      {
+        "piece_id": "p119",
+        "sat_text": "Pero sé que uno lo entiende re bien, me da risa eso. ",
+        "start_time": 367.57000732421875,
+        "end_time": 369.9100036621094,
+        "duration": 2.339996337890625,
+        "whisper_text": "Pero sé que uno lo entiende re bien, me da risa eso."
+      },
+      {
+        "piece_id": "p120",
+        "sat_text": "Es que como que marca muy bien las palabras en inglés de alguna manera muy parecida al español.  ",
+        "start_time": 370.45001220703125,
+        "end_time": 375.1499938964844,
+        "duration": 4.699981689453125,
+        "whisper_text": "Es que como que marca muy bien las palabras en inglés de alguna manera muy parecida al español."
+      },
+      {
+        "piece_id": "p121",
+        "sat_text": "¿Sabes cuál es el único problema de esas cosas que me decía una persona antes? ",
+        "start_time": 376.04998779296875,
+        "end_time": 378.8900146484375,
+        "duration": 2.84002685546875,
+        "whisper_text": "¿Sabes cuál es el único problema de esas cosas que me decía una persona antes?"
+      },
+      {
+        "piece_id": "p122",
+        "sat_text": "Que cuando te acostumbras mucho a ese inglés, tu inglés empieza a empeorar porque te acuerdas, te empiezas a entender palabras que de verdad no se pronuncian así, pero las entiendes porque estás tú también estudiando inglés y tu inglés se echa a perder. ",
+        "start_time": 378.9700012207031,
+        "end_time": 389.0899963378906,
+        "duration": 10.1199951171875,
+        "whisper_text": "Que cuando te acostumbras mucho a ese inglés, tu inglés empieza a empeorar porque te acuerdas, te empiezas a entender palabras que de verdad no se pronuncian así, pero las entiendes porque estás tú también estudiando inglés y tu inglés se echa a perder."
+      },
+      {
+        "piece_id": "p123",
+        "sat_text": "Y me pasaba mucho que Menon, que era un chino que estaba ahí, él hablaba inglés pero hablaba mal. ",
+        "start_time": 389.5899963378906,
+        "end_time": 394.04998779296875,
+        "duration": 4.459991455078125,
+        "whisper_text": "Y me pasaba mucho que Menon, que era un chino que estaba ahí, él hablaba inglés pero hablaba mal."
+      },
+      {
+        "piece_id": "p124",
+        "sat_text": "Porque yo lo entendía todo, pero él decía, oye Menon lo entiende todo, me decía sí, pero no te acostumbría él porque él habla mal. ",
+        "start_time": 394.54998779296875,
+        "end_time": 399.45001220703125,
+        "duration": 4.9000244140625,
+        "whisper_text": "Porque yo lo entendía todo, pero él decía, oye Menon lo entiende todo, me decía sí, pero no te acostumbría él porque él habla mal."
+      },
+      {
+        "piece_id": "p125",
+        "sat_text": "Él pronuncia mal, entonces, claro, tú lo entiendes porque estás recién aprendiendo. ",
+        "start_time": 399.7900085449219,
+        "end_time": 403.4100036621094,
+        "duration": 3.6199951171875,
+        "whisper_text": "Él pronuncia mal, entonces, claro, tú lo entiendes porque estás recién aprendiendo."
+      },
+      {
+        "piece_id": "p126",
+        "sat_text": "Ah, pero es que...  pero igual hay gente que tiene mal inglés por defecto por ejemplo los alemanes como que no les sale y hablen nomás por lo que tienen claro y aparte todo es como que han estudiado demasiado tienen un vocabulario muy amplio en inglés pero el acento como que les vale si como capucca o el otro día vi un streamer vi un streamer como puteando el alemán fue maravilloso fue maravilloso mi amiga Polangelo que vive en Alemania todavía no se acostumbra  ¿Qué va? ",
+        "start_time": 403.6300048828125,
+        "end_time": 435.510009765625,
+        "duration": 31.8800048828125,
+        "whisper_text": "Ah, pero es que... pero igual hay gente que tiene mal inglés por defecto por ejemplo los alemanes como que no les sale y hablen nomás por lo que tienen claro y aparte todo es como que han estudiado demasiado tienen un vocabulario muy amplio en inglés pero el acento como que les vale si como capucca o el otro día vi un streamer vi un streamer como puteando el alemán fue maravilloso fue maravilloso mi amiga Polangelo que vive en Alemania todavía no se acostumbra ¿Qué va?"
+      },
+      {
+        "piece_id": "p127",
+        "sat_text": "¿Va desde su terça cañón ya? ",
+        "start_time": 435.6099853515625,
+        "end_time": 437.0299987792969,
+        "duration": 1.420013427734375,
+        "whisper_text": "¿Va desde su terça cañón ya?"
+      },
+      {
+        "piece_id": "p128",
+        "sat_text": "Nada, de más. ",
+        "start_time": 437.30999755859375,
+        "end_time": 437.92999267578125,
+        "duration": 0.6199951171875,
+        "whisper_text": "Nada, de más."
+      },
+      {
+        "piece_id": "p129",
+        "sat_text": "Y que tampoco debe ser simple, otra manera de pensar en el idioma. ",
+        "start_time": 438.30999755859375,
+        "end_time": 440.57000732421875,
+        "duration": 2.260009765625,
+        "whisper_text": "Y que tampoco debe ser simple, otra manera de pensar en el idioma."
+      },
+      {
+        "piece_id": "p130",
+        "sat_text": "Es que me dice que el tema de los pronombres y los artículos es un culo. ",
+        "start_time": 440.92999267578125,
+        "end_time": 444.8500061035156,
+        "duration": 3.920013427734375,
+        "whisper_text": "Es que me dice que el tema de los pronombres y los artículos es un culo."
+      },
+      {
+        "piece_id": "p131",
+        "sat_text": "Tienen una tabla. ",
+        "start_time": 445.3500061035156,
+        "end_time": 446.510009765625,
+        "duration": 1.160003662109375,
+        "whisper_text": "Tienen una tabla."
+      },
+      {
+        "piece_id": "p132",
+        "sat_text": "El Miss Gender es normal allá. ",
+        "start_time": 450.19000244140625,
+        "end_time": 452.4700012207031,
+        "duration": 2.279998779296875,
+        "whisper_text": "El Miss Gender es normal allá."
+      },
+      {
+        "piece_id": "p133",
+        "sat_text": "Hacían Miss Gender antes que fuera popular. ",
+        "start_time": 454.57000732421875,
+        "end_time": 456.80999755859375,
+        "duration": 2.239990234375,
+        "whisper_text": "Hacían Miss Gender antes que fuera popular."
+      },
+      {
+        "piece_id": "p134",
+        "sat_text": "Antes que fuera mainstream. ",
+        "start_time": 458.57000732421875,
+        "end_time": 459.6300048828125,
+        "duration": 1.05999755859375,
+        "whisper_text": "Antes que fuera mainstream."
+      },
+      {
+        "piece_id": "p135",
+        "sat_text": "Ya, pues entonces hagamos eso, ¿les parece? ",
+        "start_time": 459.75,
+        "end_time": 461.19000244140625,
+        "duration": 1.44000244140625,
+        "whisper_text": "Ya, pues entonces hagamos eso, ¿les parece?"
+      },
+      {
+        "piece_id": "p136",
+        "sat_text": "¿Todo el rato? ",
+        "start_time": 461.4100036621094,
+        "end_time": 461.8299865722656,
+        "duration": 0.41998291015625,
+        "whisper_text": "¿Todo el rato?"
+      },
+      {
+        "piece_id": "p137",
+        "sat_text": "Entonces el Calle te dice sí.  ",
+        "start_time": 462.1300048828125,
+        "end_time": 463.6099853515625,
+        "duration": 1.47998046875,
+        "whisper_text": "Entonces el Calle te dice sí."
+      },
+      {
+        "piece_id": "p138",
+        "sat_text": "Y hacemos la empresa en un día ",
+        "start_time": 464.2900085449219,
+        "end_time": 465.8900146484375,
+        "duration": 1.600006103515625,
+        "whisper_text": "Y hacemos la empresa en un día"
+      },
+      {
+        "piece_id": "p139",
+        "sat_text": "¿Qué es lo que más nos conviene? ",
+        "start_time": 465.8900146484375,
+        "end_time": 469.0899963378906,
+        "duration": 3.199981689453125,
+        "whisper_text": "¿Qué es lo que más nos conviene?"
+      },
+      {
+        "piece_id": "p140",
+        "sat_text": "Es que si no tenéis que... ",
+        "start_time": 470.95001220703125,
+        "end_time": 472.2099914550781,
+        "duration": 1.259979248046875,
+        "whisper_text": "Es que si no tenéis que..."
+      },
+      {
+        "piece_id": "p141",
+        "sat_text": "Mira, la diferencia entre hacerle a la empresa en un día es una página web del servicio impuesto interno ",
+        "start_time": 472.2099914550781,
+        "end_time": 476.5899963378906,
+        "duration": 4.3800048828125,
+        "whisper_text": "Mira, la diferencia entre hacerle a la empresa en un día es una página web del servicio impuesto interno"
+      },
+      {
+        "piece_id": "p142",
+        "sat_text": "Si no tenéis que ir al servicio impuesto interno y te cobran todos los costos notariales y todo lo que coño ",
+        "start_time": 476.5899963378906,
+        "end_time": 480.8299865722656,
+        "duration": 4.239990234375,
+        "whisper_text": "Si no tenéis que ir al servicio impuesto interno y te cobran todos los costos notariales y todo lo que coño"
+      },
+      {
+        "piece_id": "p143",
+        "sat_text": "Ya mira, los locos están en California ",
+        "start_time": 480.8299865722656,
+        "end_time": 486.04998779296875,
+        "duration": 5.220001220703125,
+        "whisper_text": "Ya mira, los locos están en California"
+      },
+      {
+        "piece_id": "p144",
+        "sat_text": "Y podéis pagar entre 500 lucas y un millón ",
+        "start_time": 486.04998779296875,
+        "end_time": 488.95001220703125,
+        "duration": 2.9000244140625,
+        "whisper_text": "Y podéis pagar entre 500 lucas y un millón"
+      },
+      {
+        "piece_id": "p145",
+        "sat_text": "O sea, más que pagar, en declarar  ",
+        "start_time": 488.95001220703125,
+        "end_time": 491.75,
+        "duration": 2.79998779296875,
+        "whisper_text": "O sea, más que pagar, en declarar"
+      },
+      {
+        "piece_id": "p146",
+        "sat_text": "Como eso, como acción básica de la empresa. ",
+        "start_time": 492.29998779296875,
+        "end_time": 494.20001220703125,
+        "duration": 1.9000244140625,
+        "whisper_text": "Como eso, como acción básica de la empresa."
+      },
+      {
+        "piece_id": "p147",
+        "sat_text": "¿Cachai? ",
+        "start_time": 494.44000244140625,
+        "end_time": 494.6199951171875,
+        "duration": 0.17999267578125,
+        "whisper_text": "¿Cachai?"
+      },
+      {
+        "piece_id": "p148",
+        "sat_text": "Nosotros empezamos Pablo Vega, Nico Chapagase y Loro Ginosa. ",
+        "start_time": 495.70001220703125,
+        "end_time": 500.55999755859375,
+        "duration": 4.8599853515625,
+        "whisper_text": "Nosotros empezamos Pablo Vega, Nico Chapagase y Loro Ginosa."
+      },
+      {
+        "piece_id": "p149",
+        "sat_text": "Constituyen como la SPA, que es una sociedad por acciones. ",
+        "start_time": 501.8599853515625,
+        "end_time": 505.3800048828125,
+        "duration": 3.52001953125,
+        "whisper_text": "Constituyen como la SPA, que es una sociedad por acciones."
+      },
+      {
+        "piece_id": "p150",
+        "sat_text": "XYZ y todos pusieron en total un millón. ",
+        "start_time": 506.82000732421875,
+        "end_time": 510.17999267578125,
+        "duration": 3.3599853515625,
+        "whisper_text": "XYZ y todos pusieron en total un millón."
+      },
+      {
+        "piece_id": "p151",
+        "sat_text": "Y ese es como el capital de inversión inicial. ",
+        "start_time": 510.739990234375,
+        "end_time": 512.6799926757812,
+        "duration": 1.94000244140625,
+        "whisper_text": "Y ese es como el capital de inversión inicial."
+      },
+      {
+        "piece_id": "p152",
+        "sat_text": "A ver si tú le vayas a pasar más platos después, ya voy a tu guía. ",
+        "start_time": 512.9199829101562,
+        "end_time": 515.7999877929688,
+        "duration": 2.8800048828125,
+        "whisper_text": "A ver si tú le vayas a pasar más platos después, ya voy a tu guía."
+      },
+      {
+        "piece_id": "p153",
+        "sat_text": "¡Claro! ",
+        "start_time": 516.1599731445312,
+        "end_time": 516.6400146484375,
+        "duration": 0.48004150390625,
+        "whisper_text": "¡Claro!"
+      },
+      {
+        "piece_id": "p154",
+        "sat_text": "¡Aca, bicho! ",
+        "start_time": 519.3599853515625,
+        "end_time": 520.3800048828125,
+        "duration": 1.02001953125,
+        "whisper_text": "¡Aca, bicho!"
+      },
+      {
+        "piece_id": "p155",
+        "sat_text": "¡A la sombra!  ",
+        "start_time": 520.739990234375,
+        "end_time": 521.5399780273438,
+        "duration": 0.79998779296875,
+        "whisper_text": "¡A la sombra!"
+      },
+      {
+        "piece_id": "p156",
+        "sat_text": "Gracias. ",
+        "start_time": 524.2000122070312,
+        "end_time": 524.6400146484375,
+        "duration": 0.44000244140625,
+        "whisper_text": "Gracias."
+      },
+      {
+        "piece_id": "p157",
+        "sat_text": "Vamos por el rato. ",
+        "start_time": 524.9600219726562,
+        "end_time": 525.6599731445312,
+        "duration": 0.699951171875,
+        "whisper_text": "Vamos por el rato."
+      },
+      {
+        "piece_id": "p158",
+        "sat_text": "Gracias, Luis. ",
+        "start_time": 526.0399780273438,
+        "end_time": 526.7000122070312,
+        "duration": 0.6600341796875,
+        "whisper_text": "Gracias, Luis."
+      },
+      {
+        "piece_id": "p159",
+        "sat_text": "A Estados Unidos nos vamos por 300 lucas. ",
+        "start_time": 528.52001953125,
+        "end_time": 532.0800170898438,
+        "duration": 3.55999755859375,
+        "whisper_text": "A Estados Unidos nos vamos por 300 lucas."
+      },
+      {
+        "piece_id": "p160",
+        "sat_text": "Terrible low cost. ",
+        "start_time": 532.8800048828125,
+        "end_time": 533.6799926757812,
+        "duration": 0.79998779296875,
+        "whisper_text": "Terrible low cost."
+      },
+      {
+        "piece_id": "p161",
+        "sat_text": "Estamos hablando de negocio. ",
+        "start_time": 535.5599975585938,
+        "end_time": 536.97998046875,
+        "duration": 1.41998291015625,
+        "whisper_text": "Estamos hablando de negocio."
+      },
+      {
+        "piece_id": "p162",
+        "sat_text": "Sí, ese es el tema. ",
+        "start_time": 538.1799926757812,
+        "end_time": 539.3599853515625,
+        "duration": 1.17999267578125,
+        "whisper_text": "Sí, ese es el tema."
+      },
+      {
+        "piece_id": "p163",
+        "sat_text": "También está low cost. ",
+        "start_time": 539.52001953125,
+        "end_time": 540.1400146484375,
+        "duration": 0.6199951171875,
+        "whisper_text": "También está low cost."
+      },
+      {
+        "piece_id": "p164",
+        "sat_text": "Te vais con low cost por 300 lucas, la pasas como la... ",
+        "start_time": 541.5800170898438,
+        "end_time": 545.9199829101562,
+        "duration": 4.3399658203125,
+        "whisper_text": "Te vais con low cost por 300 lucas, la pasas como la..."
+      },
+      {
+        "piece_id": "p165",
+        "sat_text": "Pero... ",
+        "start_time": 545.9199829101562,
+        "end_time": 548.0599975585938,
+        "duration": 2.1400146484375,
+        "whisper_text": "Pero..."
+      },
+      {
+        "piece_id": "p166",
+        "sat_text": "Somos jóvenes. ",
+        "start_time": 548.0599975585938,
+        "end_time": 548.8599853515625,
+        "duration": 0.79998779296875,
+        "whisper_text": "Somos jóvenes."
+      },
+      {
+        "piece_id": "p167",
+        "sat_text": "Y yo, por ejemplo, tengo la esta.  ",
+        "start_time": 548.97998046875,
+        "end_time": 550.260009765625,
+        "duration": 1.280029296875,
+        "whisper_text": "Y yo, por ejemplo, tengo la esta."
+      },
+      {
+        "piece_id": "p168",
+        "sat_text": "La tengo vigente por dos años. ",
+        "start_time": 550.6199951171875,
+        "end_time": 552,
+        "duration": 1.3800048828125,
+        "whisper_text": "La tengo vigente por dos años."
+      },
+      {
+        "piece_id": "p169",
+        "sat_text": "La visa waiver. ",
+        "start_time": 552.0599975585938,
+        "end_time": 552.7000122070312,
+        "duration": 0.6400146484375,
+        "whisper_text": "La visa waiver."
+      },
+      {
+        "piece_id": "p170",
+        "sat_text": "Oh, ya. ",
+        "start_time": 553.0999755859375,
+        "end_time": 553.9000244140625,
+        "duration": 0.800048828125,
+        "whisper_text": "Oh, ya."
+      },
+      {
+        "piece_id": "p171",
+        "sat_text": "La tengo vigente por dos años, entonces... ",
+        "start_time": 554.2999877929688,
+        "end_time": 555.8400268554688,
+        "duration": 1.5400390625,
+        "whisper_text": "La tengo vigente por dos años, entonces..."
+      },
+      {
+        "piece_id": "p172",
+        "sat_text": "Ah, pero también por... ",
+        "start_time": 555.8400268554688,
+        "end_time": 557.1799926757812,
+        "duration": 1.3399658203125,
+        "whisper_text": "Ah, pero también por..."
+      },
+      {
+        "piece_id": "p173",
+        "sat_text": "Por Japón, entonces... ",
+        "start_time": 557.1799926757812,
+        "end_time": 558.9400024414062,
+        "duration": 1.760009765625,
+        "whisper_text": "Por Japón, entonces..."
+      },
+      {
+        "piece_id": "p174",
+        "sat_text": "¿Ahora está más difícil sacarla? ",
+        "start_time": 558.9400024414062,
+        "end_time": 560.5399780273438,
+        "duration": 1.5999755859375,
+        "whisper_text": "¿Ahora está más difícil sacarla?"
+      },
+      {
+        "piece_id": "p175",
+        "sat_text": "Sí, po. ",
+        "start_time": 561.2000122070312,
+        "end_time": 561.7999877929688,
+        "duration": 0.5999755859375,
+        "whisper_text": "Sí, po."
+      },
+      {
+        "piece_id": "p176",
+        "sat_text": "Ahora está más difícil sacarla. ",
+        "start_time": 562.7999877929688,
+        "end_time": 563.739990234375,
+        "duration": 0.94000244140625,
+        "whisper_text": "Ahora está más difícil sacarla."
+      },
+      {
+        "piece_id": "p177",
+        "sat_text": "Primero está más cara y segundo te piden más cosas. ",
+        "start_time": 563.760009765625,
+        "end_time": 566.0399780273438,
+        "duration": 2.27996826171875,
+        "whisper_text": "Primero está más cara y segundo te piden más cosas."
+      },
+      {
+        "piece_id": "p178",
+        "sat_text": "¿Y van a probar pronto quizás eso de que te tienes que empezar a reasociar? ",
+        "start_time": 566.8200073242188,
+        "end_time": 570.739990234375,
+        "duration": 3.91998291015625,
+        "whisper_text": "¿Y van a probar pronto quizás eso de que te tienes que empezar a reasociar?"
+      },
+      {
+        "piece_id": "p179",
+        "sat_text": "Hay que pasar incluso, creo que... ",
+        "start_time": 571.280029296875,
+        "end_time": 573.4000244140625,
+        "duration": 2.1199951171875,
+        "whisper_text": "Hay que pasar incluso, creo que..."
+      },
+      {
+        "piece_id": "p180",
+        "sat_text": "Contactas de tu familia. ",
+        "start_time": 573.4000244140625,
+        "end_time": 574.739990234375,
+        "duration": 1.3399658203125,
+        "whisper_text": "Contactas de tu familia."
+      },
+      {
+        "piece_id": "p181",
+        "sat_text": "¿Hay alguna idea?  de que se puede registrar los correos, no se si eso lo voy a poner pero alguien se le ocurrió ya como que a usted le esta preguntando a ChatGPT de hecho lo traeré, lo puse hoy y dame una forma rápida de instalar bomba y me la puse sin infusión y me la mando a la mierda, entonces me llama la pb no, porque tenes que ocupar dips para eso, los chinos si o cloud, tambien, tambien pero por que tu preferis copilot o ChatGPT? ",
+        "start_time": 575.02001953125,
+        "end_time": 601.0800170898438,
+        "duration": 26.05999755859375,
+        "whisper_text": "¿Hay alguna idea? de que se puede registrar los correos, no se si eso lo voy a poner pero alguien se le ocurrió ya como que a usted le esta preguntando a ChatGPT de hecho lo traeré, lo puse hoy y dame una forma rápida de instalar bomba y me la puse sin infusión y me la mando a la mierda, entonces me llama la pb no, porque tenes que ocupar dips para eso, los chinos si o cloud, tambien, tambien pero por que tu preferis copilot o ChatGPT?"
+      },
+      {
+        "piece_id": "p182",
+        "sat_text": "lo que pasa es que yo en la pega tengo copilot  entonces lo que más uso es Copilot porque como dice el entorno seguro, el empresarial pero al fin y al cabo es como lo mismo para lo que uno ocupa o sea que yo lo ocupo más que nada como redactame bien eso no yo también eso que me redacte de repente cuando tengo muchos correos que me haga un resumen de los correos y ahora lo estoy usando para Power BI por ejemplo es que ya voy en el siguiente paso ya no estoy mostrándote el dashboard de un Excel que se va actualizando sino que estoy juntando varios pasos de datos  Y le estoy diciendo cómo puedo de esta información, por ejemplo, sacar cuál es la causa. ",
+        "start_time": 601.6199951171875,
+        "end_time": 638.3300170898438,
+        "duration": 36.71002197265625,
+        "whisper_text": "lo que pasa es que yo en la pega tengo copilot entonces lo que más uso es Copilot porque como dice el entorno seguro, el empresarial pero al fin y al cabo es como lo mismo para lo que uno ocupa o sea que yo lo ocupo más que nada como redactame bien eso no yo también eso que me redacte de repente cuando tengo muchos correos que me haga un resumen de los correos y ahora lo estoy usando para Power BI por ejemplo es que ya voy en el siguiente paso ya no estoy mostrándote el dashboard de un Excel que se va actualizando sino que estoy juntando varios pasos de datos Y le estoy diciendo cómo puedo de esta información, por ejemplo, sacar cuál es la causa."
+      },
+      {
+        "piece_id": "p183",
+        "sat_text": "Diga que un Excel es una base de datos, por favor. ",
+        "start_time": 638.3300170898438,
+        "end_time": 640.3300170898438,
+        "duration": 2,
+        "whisper_text": "Diga que un Excel es una base de datos, por favor."
+      },
+      {
+        "piece_id": "p184",
+        "sat_text": "No, estoy hablando de bases de datos. ",
+        "start_time": 640.5700073242188,
+        "end_time": 642.22998046875,
+        "duration": 1.65997314453125,
+        "whisper_text": "No, estoy hablando de bases de datos."
+      },
+      {
+        "piece_id": "p185",
+        "sat_text": "Ya, muy bien. ",
+        "start_time": 642.5499877929688,
+        "end_time": 643.0700073242188,
+        "duration": 0.52001953125,
+        "whisper_text": "Ya, muy bien."
+      },
+      {
+        "piece_id": "p186",
+        "sat_text": "No, yo asumí que estabais hablando de bases de datos. ",
+        "start_time": 643.5900268554688,
+        "end_time": 645.3699951171875,
+        "duration": 1.77996826171875,
+        "whisper_text": "No, yo asumí que estabais hablando de bases de datos."
+      },
+      {
+        "piece_id": "p187",
+        "sat_text": "No, de un Excel fue de base de datos, dije. ",
+        "start_time": 645.6699829101562,
+        "end_time": 647.489990234375,
+        "duration": 1.82000732421875,
+        "whisper_text": "No, de un Excel fue de base de datos, dije."
+      },
+      {
+        "piece_id": "p188",
+        "sat_text": "El paso cero Power BI es que tú agarrís un Excel y lo pongáis bonito en Power BI. ",
+        "start_time": 648.22998046875,
+        "end_time": 653.6300048828125,
+        "duration": 5.4000244140625,
+        "whisper_text": "El paso cero Power BI es que tú agarrís un Excel y lo pongáis bonito en Power BI."
+      },
+      {
+        "piece_id": "p189",
+        "sat_text": "Después ya empezáis a sacar, la segunda que aprendí fue el tema de varios Excel, sacar como una información. ",
+        "start_time": 654.7899780273438,
+        "end_time": 661.7100219726562,
+        "duration": 6.9200439453125,
+        "whisper_text": "Después ya empezáis a sacar, la segunda que aprendí fue el tema de varios Excel, sacar como una información."
+      },
+      {
+        "piece_id": "p190",
+        "sat_text": "Claro.  ",
+        "start_time": 662.0700073242188,
+        "end_time": 662.3099975585938,
+        "duration": 0.239990234375,
+        "whisper_text": "Claro."
+      },
+      {
+        "piece_id": "p191",
+        "sat_text": "Y ahora yo voy en la fase de datos. ",
+        "start_time": 662.8800048828125,
+        "end_time": 664.4000244140625,
+        "duration": 1.52001953125,
+        "whisper_text": "Y ahora yo voy en la fase de datos."
+      },
+      {
+        "piece_id": "p192",
+        "sat_text": "Pues igual, con Python lo podía hacer, ¿no? ",
+        "start_time": 664.7999877929688,
+        "end_time": 666.1400146484375,
+        "duration": 1.34002685546875,
+        "whisper_text": "Pues igual, con Python lo podía hacer, ¿no?"
+      },
+      {
+        "piece_id": "p193",
+        "sat_text": "Sí, pero yo no puedo usarlo. ",
+        "start_time": 666.47998046875,
+        "end_time": 667.7999877929688,
+        "duration": 1.32000732421875,
+        "whisper_text": "Sí, pero yo no puedo usarlo."
+      },
+      {
+        "piece_id": "p194",
+        "sat_text": "O sea, no, no. ",
+        "start_time": 668.4400024414062,
+        "end_time": 669.0599975585938,
+        "duration": 0.6199951171875,
+        "whisper_text": "O sea, no, no."
+      },
+      {
+        "piece_id": "p195",
+        "sat_text": "¿Por qué no? ",
+        "start_time": 669.8800048828125,
+        "end_time": 670.4600219726562,
+        "duration": 0.58001708984375,
+        "whisper_text": "¿Por qué no?"
+      },
+      {
+        "piece_id": "p196",
+        "sat_text": "Es que hermano, mi PowerPoint es carísima la licencia pensando de que me voy a tener la red de ratita que te hace todo vos. ",
+        "start_time": 670.9600219726562,
+        "end_time": 675.9199829101562,
+        "duration": 4.9599609375,
+        "whisper_text": "Es que hermano, mi PowerPoint es carísima la licencia pensando de que me voy a tener la red de ratita que te hace todo vos."
+      },
+      {
+        "piece_id": "p197",
+        "sat_text": "Onda, le voy a pedir algo para que te haga el script en Python para que te conecte la fase de datos y está ahí. ",
+        "start_time": 676.1400146484375,
+        "end_time": 679.3800048828125,
+        "duration": 3.239990234375,
+        "whisper_text": "Onda, le voy a pedir algo para que te haga el script en Python para que te conecte la fase de datos y está ahí."
+      },
+      {
+        "piece_id": "p198",
+        "sat_text": "Bueno, no hablen con Simmons, no hablen conmigo. ",
+        "start_time": 682.3400268554688,
+        "end_time": 685.780029296875,
+        "duration": 3.44000244140625,
+        "whisper_text": "Bueno, no hablen con Simmons, no hablen conmigo."
+      },
+      {
+        "piece_id": "p199",
+        "sat_text": "Pues sí, yo tampoco puedo ocupar nada. ",
+        "start_time": 686.2000122070312,
+        "end_time": 687.260009765625,
+        "duration": 1.05999755859375,
+        "whisper_text": "Pues sí, yo tampoco puedo ocupar nada."
+      },
+      {
+        "piece_id": "p200",
+        "sat_text": "Sé lo frustrante que es, bueno. ",
+        "start_time": 688.52001953125,
+        "end_time": 689.7000122070312,
+        "duration": 1.17999267578125,
+        "whisper_text": "Sé lo frustrante que es, bueno."
+      },
+      {
+        "piece_id": "p201",
+        "sat_text": "¿Qué pasa, bicho?  ",
+        "start_time": 689.9199829101562,
+        "end_time": 690.4199829101562,
+        "duration": 0.5,
+        "whisper_text": "¿Qué pasa, bicho?"
+      },
+      {
+        "piece_id": "p202",
+        "sat_text": "Oye, tenéis sed, bicho. ",
+        "start_time": 691.5700073242188,
+        "end_time": 692.8300170898438,
+        "duration": 1.260009765625,
+        "whisper_text": "Oye, tenéis sed, bicho."
+      },
+      {
+        "piece_id": "p203",
+        "sat_text": "Y la cosa es que... ",
+        "start_time": 695.969970703125,
+        "end_time": 697.989990234375,
+        "duration": 2.02001953125,
+        "whisper_text": "Y la cosa es que..."
+      },
+      {
+        "piece_id": "p204",
+        "sat_text": "Ahora, por ejemplo, descubrí que hay gráficos que te hacen... ",
+        "start_time": 697.989990234375,
+        "end_time": 702.22998046875,
+        "duration": 4.239990234375,
+        "whisper_text": "Ahora, por ejemplo, descubrí que hay gráficos que te hacen..."
+      },
+      {
+        "piece_id": "p205",
+        "sat_text": "¿Qué te pasó en el brazo, mi amor? ",
+        "start_time": 702.22998046875,
+        "end_time": 703.6699829101562,
+        "duration": 1.44000244140625,
+        "whisper_text": "¿Qué te pasó en el brazo, mi amor?"
+      },
+      {
+        "piece_id": "p206",
+        "sat_text": "¿Qué te dejaste? ",
+        "start_time": 703.8499755859375,
+        "end_time": 704.469970703125,
+        "duration": 0.6199951171875,
+        "whisper_text": "¿Qué te dejaste?"
+      },
+      {
+        "piece_id": "p207",
+        "sat_text": "En el izquierdo, justo. ",
+        "start_time": 704.77001953125,
+        "end_time": 705.989990234375,
+        "duration": 1.219970703125,
+        "whisper_text": "En el izquierdo, justo."
+      },
+      {
+        "piece_id": "p208",
+        "sat_text": "Aquí, en toda esta parte, tengo... ",
+        "start_time": 706.75,
+        "end_time": 708.3099975585938,
+        "duration": 1.55999755859375,
+        "whisper_text": "Aquí, en toda esta parte, tengo..."
+      },
+      {
+        "piece_id": "p209",
+        "sat_text": "Ah, te apoyaste. ",
+        "start_time": 708.3099975585938,
+        "end_time": 709.9099731445312,
+        "duration": 1.5999755859375,
+        "whisper_text": "Ah, te apoyaste."
+      },
+      {
+        "piece_id": "p210",
+        "sat_text": "Lo más probable es que te apoyaste en algo. ",
+        "start_time": 710.0900268554688,
+        "end_time": 711.1900024414062,
+        "duration": 1.0999755859375,
+        "whisper_text": "Lo más probable es que te apoyaste en algo."
+      },
+      {
+        "piece_id": "p211",
+        "sat_text": "Entonces, este fue una bici, anoche. ",
+        "start_time": 711.3300170898438,
+        "end_time": 713.3499755859375,
+        "duration": 2.01995849609375,
+        "whisper_text": "Entonces, este fue una bici, anoche."
+      },
+      {
+        "piece_id": "p212",
+        "sat_text": "¿Te acuerdas? ",
+        "start_time": 713.4299926757812,
+        "end_time": 713.6300048828125,
+        "duration": 0.20001220703125,
+        "whisper_text": "¿Te acuerdas?"
+      },
+      {
+        "piece_id": "p213",
+        "sat_text": "Hay unos gráficos que te muestran causalidad, por ejemplo... ",
+        "start_time": 716.3499755859375,
+        "end_time": 720.010009765625,
+        "duration": 3.6600341796875,
+        "whisper_text": "Hay unos gráficos que te muestran causalidad, por ejemplo..."
+      },
+      {
+        "piece_id": "p214",
+        "sat_text": "Causalidad?  ",
+        "start_time": 720.010009765625,
+        "end_time": 720.6699829101562,
+        "duration": 0.65997314453125,
+        "whisper_text": "Causalidad?"
+      },
+      {
+        "piece_id": "p215",
+        "sat_text": "Causalidad. ",
+        "start_time": 721.1500244140625,
+        "end_time": 721.6300048828125,
+        "duration": 0.47998046875,
+        "whisper_text": "Causalidad."
+      },
+      {
+        "piece_id": "p216",
+        "sat_text": "Por ejemplo, explica la demora. ",
+        "start_time": 721.75,
+        "end_time": 725.1099853515625,
+        "duration": 3.3599853515625,
+        "whisper_text": "Por ejemplo, explica la demora."
+      },
+      {
+        "piece_id": "p217",
+        "sat_text": "Tú le dices, explica por qué tenemos una demora tan alta que está en resolución cuando tenemos este tipo de fallas. ",
+        "start_time": 725.4099731445312,
+        "end_time": 732.0499877929688,
+        "duration": 6.6400146484375,
+        "whisper_text": "Tú le dices, explica por qué tenemos una demora tan alta que está en resolución cuando tenemos este tipo de fallas."
+      },
+      {
+        "piece_id": "p218",
+        "sat_text": "Y busca la información en la que tú le subiste. ",
+        "start_time": 733.3699951171875,
+        "end_time": 736.1900024414062,
+        "duration": 2.82000732421875,
+        "whisper_text": "Y busca la información en la que tú le subiste."
+      },
+      {
+        "piece_id": "p219",
+        "sat_text": "Y te dice, ah, la mayor cantidad de días que demoramos en reparar es cuando la falla es de este tipo. ",
+        "start_time": 736.8099975585938,
+        "end_time": 742.469970703125,
+        "duration": 5.65997314453125,
+        "whisper_text": "Y te dice, ah, la mayor cantidad de días que demoramos en reparar es cuando la falla es de este tipo."
+      },
+      {
+        "piece_id": "p220",
+        "sat_text": "Oh, qué magia.  ",
+        "start_time": 742.6699829101562,
+        "end_time": 743.8099975585938,
+        "duration": 1.1400146484375,
+        "whisper_text": "Oh, qué magia."
+      },
+      {
+        "piece_id": "p221",
+        "sat_text": "Por ejemplo en una encontré un resonador que está declarado como un ultrasonido. ",
+        "start_time": 761.0599975585938,
+        "end_time": 765.0399780273438,
+        "duration": 3.97998046875,
+        "whisper_text": "Por ejemplo en una encontré un resonador que está declarado como un ultrasonido."
+      },
+      {
+        "piece_id": "p222",
+        "sat_text": "Porque vi un error era un monto demasiado alto en ultrasonido y dije...  ya en chile tenemos 1198  ",
+        "start_time": 768.8400268554688,
+        "end_time": 782.6099853515625,
+        "duration": 13.76995849609375,
+        "whisper_text": "Porque vi un error era un monto demasiado alto en ultrasonido y dije... ya en chile tenemos 1198"
+      },
+      {
+        "piece_id": "p223",
+        "sat_text": "No, pues entonces... ",
+        "start_time": 803.5800170898438,
+        "end_time": 805.1599731445312,
+        "duration": 1.5799560546875,
+        "whisper_text": "No, pues entonces..."
+      },
+      {
+        "piece_id": "p224",
+        "sat_text": "Oye, ¿le tenéis metido intervalos de confianza a las variables? ",
+        "start_time": 805.1599731445312,
+        "end_time": 807.0599975585938,
+        "duration": 1.9000244140625,
+        "whisper_text": "Oye, ¿le tenéis metido intervalos de confianza a las variables?"
+      },
+      {
+        "piece_id": "p225",
+        "sat_text": "No. ",
+        "start_time": 809.1799926757812,
+        "end_time": 809.5800170898438,
+        "duration": 0.4000244140625,
+        "whisper_text": "No."
+      },
+      {
+        "piece_id": "p226",
+        "sat_text": "Esa pues es reútil para cachar los outliers. ",
+        "start_time": 810.02001953125,
+        "end_time": 811.7000122070312,
+        "duration": 1.67999267578125,
+        "whisper_text": "Esa pues es reútil para cachar los outliers."
+      },
+      {
+        "piece_id": "p227",
+        "sat_text": "Sí, pero es que el tema es que aquí me están pidiendo hacer lo más precisa posible. ",
+        "start_time": 812.1799926757812,
+        "end_time": 815.6799926757812,
+        "duration": 3.5,
+        "whisper_text": "Sí, pero es que el tema es que aquí me están pidiendo hacer lo más precisa posible."
+      },
+      {
+        "piece_id": "p228",
+        "sat_text": "Pero naturalmente hoy no vienen con un P menor a 0.5. ",
+        "start_time": 816.97998046875,
+        "end_time": 820.97998046875,
+        "duration": 4,
+        "whisper_text": "Pero naturalmente hoy no vienen con un P menor a 0 .5."
+      },
+      {
+        "piece_id": "p229",
+        "sat_text": "No, no.  ",
+        "start_time": 821.239990234375,
+        "end_time": 821.52001953125,
+        "duration": 0.280029296875,
+        "whisper_text": "No, no."
+      },
+      {
+        "piece_id": "p230",
+        "sat_text": "no se viene súper alto yo creo que eso es mucho eso es muy bien yo creo que la carrera no mostró mucho ese giro así que es importante es que yo me acuerdo que nos dijeron así que no se puede venir a 0.5 siempre que dejarle a 0.5 y yo siempre quejalo a ese punto pero nunca viene a ese punto siempre lo viene más alta si voy a poner al lado, ¿cierto? ",
+        "start_time": 821.77001953125,
+        "end_time": 842.010009765625,
+        "duration": 20.239990234375,
+        "whisper_text": "no se viene súper alto yo creo que eso es mucho eso es muy bien yo creo que la carrera no mostró mucho ese giro así que es importante es que yo me acuerdo que nos dijeron así que no se puede venir a 0 .5 siempre que dejarle a 0 .5 y yo siempre quejalo a ese punto pero nunca viene a ese punto siempre lo viene más alta si voy a poner al lado, ¿cierto?"
+      },
+      {
+        "piece_id": "p231",
+        "sat_text": "oye, ahí estamos el rato y te esperamos, le veo por un helado vayan pues, ahí te conito  Qué sabor? ",
+        "start_time": 844.1300048828125,
+        "end_time": 852.1599731445312,
+        "duration": 8.02996826171875,
+        "whisper_text": "oye, ahí estamos el rato y te esperamos, le veo por un helado vayan pues, ahí te conito Qué sabor?"
+      },
+      {
+        "piece_id": "p232",
+        "sat_text": "Qué sabor? ",
+        "start_time": 854.0399780273438,
+        "end_time": 855.0399780273438,
+        "duration": 1,
+        "whisper_text": "Qué sabor?"
+      },
+      {
+        "piece_id": "p233",
+        "sat_text": "Qué sabor? ",
+        "start_time": 856.1199951171875,
+        "end_time": 857,
+        "duration": 0.8800048828125,
+        "whisper_text": "Qué sabor?"
+      },
+      {
+        "piece_id": "p234",
+        "sat_text": "Qué sabor? ",
+        "start_time": 857.4400024414062,
+        "end_time": 858.4600219726562,
+        "duration": 1.02001953125,
+        "whisper_text": "Qué sabor?"
+      },
+      {
+        "piece_id": "p235",
+        "sat_text": "Qué sabor?  ",
+        "start_time": 862.280029296875,
+        "end_time": 863.6199951171875,
+        "duration": 1.3399658203125,
+        "whisper_text": "Qué sabor?"
+      },
+      {
+        "piece_id": "p236",
+        "sat_text": "ah bueno primero antes de contarle la mierda",
+        "start_time": 880.6400146484375,
+        "end_time": 882.5,
+        "duration": 1.8599853515625,
+        "whisper_text": "ah bueno primero antes de contarle la mierda"
+      }
+    ],
+    "pieces": [
+      {
+        "pid": "p0",
+        "text": "Lo que se centra mucho, o por lo que he visto, se centra mucho con la parte de eléctrica."
+      },
+      {
+        "pid": "p1",
+        "text": "Esta web lo que hace es una simulación casi de pacientes, o sea, la web es un analizador de bombas de inclusión."
+      },
+      {
+        "pid": "p2",
+        "text": "Permiso, ¿puedo ver las otras preguntas?"
+      },
+      {
+        "pid": "p3",
+        "text": "Sí, dale."
+      },
+      {
+        "pid": "p4",
+        "text": "Nada de ahí, métete ahí."
+      },
+      {
+        "pid": "p5",
+        "text": "Entonces, bueno, ¿qué es lo que pasa?"
+      },
+      {
+        "pid": "p6",
+        "text": "Nosotros tenemos en este momento una tecnología que tiene herramientas polacas, ¿cachai?"
+      },
+      {
+        "pid": "p7",
+        "text": "¿Ya?"
+      },
+      {
+        "pid": "p8",
+        "text": "La herramienta es por la que me llenca llanta."
+      },
+      {
+        "pid": "p9",
+        "text": "Están mal hechas, muy mal."
+      },
+      {
+        "pid": "p10",
+        "text": "Entonces un día dije a mi jefe, oye, ¿cuándo vamos a estandarizar esto?"
+      },
+      {
+        "pid": "p11",
+        "text": "El otro día."
+      },
+      {
+        "pid": "p12",
+        "text": "Dije, porque, güey, me dio vergüenza el otro día un cliente me había preguntado, oye, ¿y qué está, güey?"
+      },
+      {
+        "pid": "p13",
+        "text": "Ya, güey."
+      },
+      {
+        "pid": "p14",
+        "text": "Oye, por si estar acá, porque no se me está haciendo eso."
+      },
+      {
+        "pid": "p15",
+        "text": "Hoy tiene un montón de simuladores buenísimos."
+      },
+      {
+        "pid": "p16",
+        "text": "Sí, pues, güey, si tiene una pila de güeyes, pues."
+      },
+      {
+        "pid": "p17",
+        "text": "Por eso le van a hablar bien con la marca y ver qué pasa."
+      },
+      {
+        "pid": "p18",
+        "text": "¿Qué es lo que pasa?"
+      },
+      {
+        "pid": "p19",
+        "text": "Este nicho es caro, porque bueno, aquí en Chile, yo sé que está Fluke, que lo tiene DM, que es la empresa chilena que tiene Fluke, que es DM, y eso ya está en la calibración y todo."
+      },
+      {
+        "pid": "p20",
+        "text": "Y luego está..."
+      },
+      {
+        "pid": "p21",
+        "text": "¿Cómo se llama?"
+      },
+      {
+        "pid": "p22",
+        "text": "¿Mediplex?"
+      },
+      {
+        "pid": "p23",
+        "text": "Sí, luego es Mediplex, que es el que trae Rígel Medical, que es como similar a Fluke, pero creo que es un pelín más barato."
+      },
+      {
+        "pid": "p24",
+        "text": "Pero esto..."
+      },
+      {
+        "pid": "p25",
+        "text": "Podríamos ver que también me trae el nicho, si son más baratos, los hospitales te van a comprarlos."
+      },
+      {
+        "pid": "p26",
+        "text": "Es que sí, hospitales y clínicas te la van a comprar, que haga la risa, pero sí como clínicas tipo dos carreras, IMET en Punta Arena."
+      },
+      {
+        "pid": "p27",
+        "text": "clientes que no sean muy grandes como una alemana que ni cagando te va a meter una huella que no sea flujo."
+      },
+      {
+        "pid": "p28",
+        "text": "Sí, de hecho es un buen nicho porque hasta ahora esa clínica está forzada a comprar flujo o no?"
+      },
+      {
+        "pid": "p29",
+        "text": "No, la verdad es que en verdad es un estándar tonto porque compra esa huella y de repente ni los usuarios se van a ocupar la mierda."
+      },
+      {
+        "pid": "p30",
+        "text": "Y eso pasa mucho en Alemania."
+      },
+      {
+        "pid": "p31",
+        "text": "No, y lo mejor es que estas hueas como son más low cost puedes vendárselo hasta universidades."
+      },
+      {
+        "pid": "p32",
+        "text": "Es que eso estaba pensando, como que nosotros podríamos ser el segundo tier."
+      },
+      {
+        "pid": "p33",
+        "text": "Porque siempre hay tier en los mercados."
+      },
+      {
+        "pid": "p34",
+        "text": "Si Fluke es el tier 1, no todo el mercado va a estar apuntando a ser el tier 1."
+      },
+      {
+        "pid": "p35",
+        "text": "Entonces, si nosotros necesitamos el tier 2 o el tier 3, tenemos un mercado bastante grande."
+      },
+      {
+        "pid": "p36",
+        "text": "Bueno, entonces, ¿qué es lo que me contó mi jefe?"
+      },
+      {
+        "pid": "p37",
+        "text": "De que a esta güey nadie lo trae en Chile."
+      },
+      {
+        "pid": "p38",
+        "text": "Entonces yo le dije, ¿pero y que estoy dispiando a comprarlo?"
+      },
+      {
+        "pid": "p39",
+        "text": "Me dijo, no, que alguien lo traiga en Chile."
+      },
+      {
+        "pid": "p40",
+        "text": "Y yo..."
+      },
+      {
+        "pid": "p41",
+        "text": "Entonces, lo que yo tengo entendido, porque creo que una vez le pregunté, me dijo, no, porque lo que necesitamos es que nos den factura, creo."
+      },
+      {
+        "pid": "p42",
+        "text": "Eso es lo único que necesite."
+      },
+      {
+        "pid": "p43",
+        "text": "Entonces, ¿qué tiene esa empresa al final?"
+      },
+      {
+        "pid": "p44",
+        "text": "¿Melón?"
+      },
+      {
+        "pid": "p45",
+        "text": "Eh, para el bicho, pero el bicho se puede sentar aquí porque si no..."
+      },
+      {
+        "pid": "p46",
+        "text": "No sé, estoy sentado acá por mientras, pero cuando llegue el bicho..."
+      },
+      {
+        "pid": "p47",
+        "text": "¿Esta es de melón?"
+      },
+      {
+        "pid": "p48",
+        "text": "Ah, esa es de melón, ¿esta es de...?"
+      },
+      {
+        "pid": "p49",
+        "text": "Es limonada."
+      },
+      {
+        "pid": "p50",
+        "text": "Ah, y esta es la mía."
+      },
+      {
+        "pid": "p51",
+        "text": "¿Limonada menta?"
+      },
+      {
+        "pid": "p52",
+        "text": "Sí, por favor."
+      },
+      {
+        "pid": "p53",
+        "text": "No, la de menta mía."
+      },
+      {
+        "pid": "p54",
+        "text": "La jengibre es la tuya."
+      },
+      {
+        "pid": "p55",
+        "text": "Gracias."
+      },
+      {
+        "pid": "p56",
+        "text": "¿Tienes que endulzarla así?"
+      },
+      {
+        "pid": "p57",
+        "text": "¿Qué?"
+      },
+      {
+        "pid": "p58",
+        "text": "¿Puede frutilla?"
+      },
+      {
+        "pid": "p59",
+        "text": "Eh, ahí ya."
+      },
+      {
+        "pid": "p60",
+        "text": "Gracias."
+      },
+      {
+        "pid": "p61",
+        "text": "De nada."
+      },
+      {
+        "pid": "p62",
+        "text": "Si he hecho un bolada..."
+      },
+      {
+        "pid": "p63",
+        "text": "Después corremos la mesa un poco más para acá."
+      },
+      {
+        "pid": "p64",
+        "text": "Es que el sol ahí me llega."
+      },
+      {
+        "pid": "p65",
+        "text": "Y espérate, ¿empresa en un día?"
+      },
+      {
+        "pid": "p66",
+        "text": "Que eso podría ser, cacho."
+      },
+      {
+        "pid": "p67",
+        "text": "Eso yo sé que te pueden mentir con factura rápido."
+      },
+      {
+        "pid": "p68",
+        "text": "Igual tengo un amigo que sabe dar toda la contabilidad y así nos puede ayudar a ver qué onda ahí."
+      },
+      {
+        "pid": "p69",
+        "text": "Pero bueno, esa es la oportunidad."
+      },
+      {
+        "pid": "p70",
+        "text": "Y lo que estoy viendo es como, claro, esto se trae y a lo mejor podemos hacer una empresa de ese estilo, como traer solamente cosas... analizadores porque son chiquititos los analizadores porque son para bombas de infusión quizás esta no sale más barato para importarles que un buen viaje y las traigan una maleta de hecho sí que alguien se pide vacaciones que quiera allá me voy con una mochila y con el banco ya tengo con el banco y me dan una maleta gratis de vuelta"
+      },
+      {
+        "pid": "p71",
+        "text": "El tema es hablar con la marca."
+      },
+      {
+        "pid": "p72",
+        "text": "Claro, habría que hacer la presentación."
+      },
+      {
+        "pid": "p73",
+        "text": "Como decirle, como, oye, mira, si, oye, que eres una empresa que queremos partirlo aquí en Chile con esto."
+      },
+      {
+        "pid": "p74",
+        "text": "Nos interesa tu marca y listo."
+      },
+      {
+        "pid": "p75",
+        "text": "Habría que armar el pitch, ¿no?"
+      },
+      {
+        "pid": "p76",
+        "text": "Sí, y como posicionar esa marca en Chile."
+      },
+      {
+        "pid": "p77",
+        "text": "No podemos perder más tiempo, tenemos que hacerlo esta semana."
+      },
+      {
+        "pid": "p78",
+        "text": "¿Ya?"
+      },
+      {
+        "pid": "p79",
+        "text": "¿Por qué decir eso?"
+      },
+      {
+        "pid": "p80",
+        "text": "Porque hay que aprovechar el infinito que necesitamos del primer cliente."
+      },
+      {
+        "pid": "p81",
+        "text": "Pero un cliente seguro, quizás podría mandarme unas muestras"
+      },
+      {
+        "pid": "p82",
+        "text": "Y esperar un poco más sería arriesgar a ese cliente, ya perfecto"
+      },
+      {
+        "pid": "p83",
+        "text": "Que es un input seguro"
+      },
+      {
+        "pid": "p84",
+        "text": "Sí, pues por lo menos tenerlo y ya..."
+      },
+      {
+        "pid": "p85",
+        "text": "Sí, pues yo también le puedo preguntar a mi jefe que tan urgente lo quiere"
+      },
+      {
+        "pid": "p86",
+        "text": "De repente me dice sí, de repente..."
+      },
+      {
+        "pid": "p87",
+        "text": "Ya, eso es una buena pregunta, porque en realidad lo está pensando para el próximo año"
+      },
+      {
+        "pid": "p88",
+        "text": "Sí"
+      },
+      {
+        "pid": "p89",
+        "text": "Y eso nos cagaría"
+      },
+      {
+        "pid": "p90",
+        "text": "Oye, ¿sabes que en verdad yo estaba pensando justo en eso?"
+      },
+      {
+        "pid": "p91",
+        "text": "¿Cuál es el gesto?"
+      },
+      {
+        "pid": "p92",
+        "text": "¿Cuál es el gesto?"
+      },
+      {
+        "pid": "p93",
+        "text": "Si no, yo de hecho no hubiese podido hablar con él, ningún problema."
+      },
+      {
+        "pid": "p94",
+        "text": "Y le pregunta ahí, ¿sabes que estamos pensando en poner una empresa?"
+      },
+      {
+        "pid": "p95",
+        "text": "Y ¿sabes que estamos buscando un producto?"
+      },
+      {
+        "pid": "p96",
+        "text": "Y podríamos agregar el... agregarlo, no le digáis que hacer sobre eso."
+      },
+      {
+        "pid": "p97",
+        "text": "Agregar este tema de los analizadores."
+      },
+      {
+        "pid": "p98",
+        "text": "¿Para cuánto más o menos lo estás estimando tú?"
+      },
+      {
+        "pid": "p99",
+        "text": "Ya, porque nosotros estamos pensando el próximo mes ir a Estados Unidos a dar unas cositas."
+      },
+      {
+        "pid": "p100",
+        "text": "Y si te dice, ya el próximo mes, o hagámoslo ahora."
+      },
+      {
+        "pid": "p101",
+        "text": "Si quieren, como yo hablo bien inglés, me contacto con ellos, tenemos una videollamada y nos fijé Estados Unidos."
+      },
+      {
+        "pid": "p102",
+        "text": "Y de hecho, más allá de hablar bien inglés, ¿tú tenés las habilidades comunicacionales para ese tipo de epilúcio?"
+      },
+      {
+        "pid": "p103",
+        "text": "¿Tú igual le ponías todo el inglés?"
+      },
+      {
+        "pid": "p104",
+        "text": "Sí."
+      },
+      {
+        "pid": "p105",
+        "text": "Yo lo pongo en tres veces."
+      },
+      {
+        "pid": "p106",
+        "text": "Hablar inglés no tengo problema, pero lo que a mí no me están a ver todavía es que está ahí ese tipo de pitch."
+      },
+      {
+        "pid": "p107",
+        "text": "No, para mí el nativo me mata un poco."
+      },
+      {
+        "pid": "p108",
+        "text": "O sea, te digo, de esa conversación que podemos tener, vamos a entender el 80%, 50%."
+      },
+      {
+        "pid": "p109",
+        "text": "Ya."
+      },
+      {
+        "pid": "p110",
+        "text": "Porque el nativo me mata harto."
+      },
+      {
+        "pid": "p111",
+        "text": "No, yo estoy acostumbrado porque el mío incluso es nativo y es nativo a francesado."
+      },
+      {
+        "pid": "p112",
+        "text": "A francesado."
+      },
+      {
+        "pid": "p113",
+        "text": "Me hiciste acordar de mi clase de Power BI."
+      },
+      {
+        "pid": "p114",
+        "text": "Ya, ¿por qué?"
+      },
+      {
+        "pid": "p115",
+        "text": "Porque era un indie."
+      },
+      {
+        "pid": "p116",
+        "text": "Pero los indios tienen esa huella que igual tienen como un nativo."
+      },
+      {
+        "pid": "p117",
+        "text": "Pero es más extraño que la mía."
+      },
+      {
+        "pid": "p118",
+        "text": "No, fellas, are going to see this issue that we have here with your companions."
+      },
+      {
+        "pid": "p119",
+        "text": "Pero sé que uno lo entiende re bien, me da risa eso."
+      },
+      {
+        "pid": "p120",
+        "text": "Es que como que marca muy bien las palabras en inglés de alguna manera muy parecida al español."
+      },
+      {
+        "pid": "p121",
+        "text": "¿Sabes cuál es el único problema de esas cosas que me decía una persona antes?"
+      },
+      {
+        "pid": "p122",
+        "text": "Que cuando te acostumbras mucho a ese inglés, tu inglés empieza a empeorar porque te acuerdas, te empiezas a entender palabras que de verdad no se pronuncian así, pero las entiendes porque estás tú también estudiando inglés y tu inglés se echa a perder."
+      },
+      {
+        "pid": "p123",
+        "text": "Y me pasaba mucho que Menon, que era un chino que estaba ahí, él hablaba inglés pero hablaba mal."
+      },
+      {
+        "pid": "p124",
+        "text": "Porque yo lo entendía todo, pero él decía, oye Menon lo entiende todo, me decía sí, pero no te acostumbría él porque él habla mal."
+      },
+      {
+        "pid": "p125",
+        "text": "Él pronuncia mal, entonces, claro, tú lo entiendes porque estás recién aprendiendo."
+      },
+      {
+        "pid": "p126",
+        "text": "Ah, pero es que... pero igual hay gente que tiene mal inglés por defecto por ejemplo los alemanes como que no les sale y hablen nomás por lo que tienen claro y aparte todo es como que han estudiado demasiado tienen un vocabulario muy amplio en inglés pero el acento como que les vale si como capucca o el otro día vi un streamer vi un streamer como puteando el alemán fue maravilloso fue maravilloso mi amiga Polangelo que vive en Alemania todavía no se acostumbra ¿Qué va?"
+      },
+      {
+        "pid": "p127",
+        "text": "¿Va desde su terça cañón ya?"
+      },
+      {
+        "pid": "p128",
+        "text": "Nada, de más."
+      },
+      {
+        "pid": "p129",
+        "text": "Y que tampoco debe ser simple, otra manera de pensar en el idioma."
+      },
+      {
+        "pid": "p130",
+        "text": "Es que me dice que el tema de los pronombres y los artículos es un culo."
+      },
+      {
+        "pid": "p131",
+        "text": "Tienen una tabla."
+      },
+      {
+        "pid": "p132",
+        "text": "El Miss Gender es normal allá."
+      },
+      {
+        "pid": "p133",
+        "text": "Hacían Miss Gender antes que fuera popular."
+      },
+      {
+        "pid": "p134",
+        "text": "Antes que fuera mainstream."
+      },
+      {
+        "pid": "p135",
+        "text": "Ya, pues entonces hagamos eso, ¿les parece?"
+      },
+      {
+        "pid": "p136",
+        "text": "¿Todo el rato?"
+      },
+      {
+        "pid": "p137",
+        "text": "Entonces el Calle te dice sí."
+      },
+      {
+        "pid": "p138",
+        "text": "Y hacemos la empresa en un día"
+      },
+      {
+        "pid": "p139",
+        "text": "¿Qué es lo que más nos conviene?"
+      },
+      {
+        "pid": "p140",
+        "text": "Es que si no tenéis que..."
+      },
+      {
+        "pid": "p141",
+        "text": "Mira, la diferencia entre hacerle a la empresa en un día es una página web del servicio impuesto interno"
+      },
+      {
+        "pid": "p142",
+        "text": "Si no tenéis que ir al servicio impuesto interno y te cobran todos los costos notariales y todo lo que coño"
+      },
+      {
+        "pid": "p143",
+        "text": "Ya mira, los locos están en California"
+      },
+      {
+        "pid": "p144",
+        "text": "Y podéis pagar entre 500 lucas y un millón"
+      },
+      {
+        "pid": "p145",
+        "text": "O sea, más que pagar, en declarar"
+      },
+      {
+        "pid": "p146",
+        "text": "Como eso, como acción básica de la empresa."
+      },
+      {
+        "pid": "p147",
+        "text": "¿Cachai?"
+      },
+      {
+        "pid": "p148",
+        "text": "Nosotros empezamos Pablo Vega, Nico Chapagase y Loro Ginosa."
+      },
+      {
+        "pid": "p149",
+        "text": "Constituyen como la SPA, que es una sociedad por acciones."
+      },
+      {
+        "pid": "p150",
+        "text": "XYZ y todos pusieron en total un millón."
+      },
+      {
+        "pid": "p151",
+        "text": "Y ese es como el capital de inversión inicial."
+      },
+      {
+        "pid": "p152",
+        "text": "A ver si tú le vayas a pasar más platos después, ya voy a tu guía."
+      },
+      {
+        "pid": "p153",
+        "text": "¡Claro!"
+      },
+      {
+        "pid": "p154",
+        "text": "¡Aca, bicho!"
+      },
+      {
+        "pid": "p155",
+        "text": "¡A la sombra!"
+      },
+      {
+        "pid": "p156",
+        "text": "Gracias."
+      },
+      {
+        "pid": "p157",
+        "text": "Vamos por el rato."
+      },
+      {
+        "pid": "p158",
+        "text": "Gracias, Luis."
+      },
+      {
+        "pid": "p159",
+        "text": "A Estados Unidos nos vamos por 300 lucas."
+      },
+      {
+        "pid": "p160",
+        "text": "Terrible low cost."
+      },
+      {
+        "pid": "p161",
+        "text": "Estamos hablando de negocio."
+      },
+      {
+        "pid": "p162",
+        "text": "Sí, ese es el tema."
+      },
+      {
+        "pid": "p163",
+        "text": "También está low cost."
+      },
+      {
+        "pid": "p164",
+        "text": "Te vais con low cost por 300 lucas, la pasas como la..."
+      },
+      {
+        "pid": "p165",
+        "text": "Pero..."
+      },
+      {
+        "pid": "p166",
+        "text": "Somos jóvenes."
+      },
+      {
+        "pid": "p167",
+        "text": "Y yo, por ejemplo, tengo la esta."
+      },
+      {
+        "pid": "p168",
+        "text": "La tengo vigente por dos años."
+      },
+      {
+        "pid": "p169",
+        "text": "La visa waiver."
+      },
+      {
+        "pid": "p170",
+        "text": "Oh, ya."
+      },
+      {
+        "pid": "p171",
+        "text": "La tengo vigente por dos años, entonces..."
+      },
+      {
+        "pid": "p172",
+        "text": "Ah, pero también por..."
+      },
+      {
+        "pid": "p173",
+        "text": "Por Japón, entonces..."
+      },
+      {
+        "pid": "p174",
+        "text": "¿Ahora está más difícil sacarla?"
+      },
+      {
+        "pid": "p175",
+        "text": "Sí, po."
+      },
+      {
+        "pid": "p176",
+        "text": "Ahora está más difícil sacarla."
+      },
+      {
+        "pid": "p177",
+        "text": "Primero está más cara y segundo te piden más cosas."
+      },
+      {
+        "pid": "p178",
+        "text": "¿Y van a probar pronto quizás eso de que te tienes que empezar a reasociar?"
+      },
+      {
+        "pid": "p179",
+        "text": "Hay que pasar incluso, creo que..."
+      },
+      {
+        "pid": "p180",
+        "text": "Contactas de tu familia."
+      },
+      {
+        "pid": "p181",
+        "text": "¿Hay alguna idea? de que se puede registrar los correos, no se si eso lo voy a poner pero alguien se le ocurrió ya como que a usted le esta preguntando a ChatGPT de hecho lo traeré, lo puse hoy y dame una forma rápida de instalar bomba y me la puse sin infusión y me la mando a la mierda, entonces me llama la pb no, porque tenes que ocupar dips para eso, los chinos si o cloud, tambien, tambien pero por que tu preferis copilot o ChatGPT?"
+      },
+      {
+        "pid": "p182",
+        "text": "lo que pasa es que yo en la pega tengo copilot entonces lo que más uso es Copilot porque como dice el entorno seguro, el empresarial pero al fin y al cabo es como lo mismo para lo que uno ocupa o sea que yo lo ocupo más que nada como redactame bien eso no yo también eso que me redacte de repente cuando tengo muchos correos que me haga un resumen de los correos y ahora lo estoy usando para Power BI por ejemplo es que ya voy en el siguiente paso ya no estoy mostrándote el dashboard de un Excel que se va actualizando sino que estoy juntando varios pasos de datos Y le estoy diciendo cómo puedo de esta información, por ejemplo, sacar cuál es la causa."
+      },
+      {
+        "pid": "p183",
+        "text": "Diga que un Excel es una base de datos, por favor."
+      },
+      {
+        "pid": "p184",
+        "text": "No, estoy hablando de bases de datos."
+      },
+      {
+        "pid": "p185",
+        "text": "Ya, muy bien."
+      },
+      {
+        "pid": "p186",
+        "text": "No, yo asumí que estabais hablando de bases de datos."
+      },
+      {
+        "pid": "p187",
+        "text": "No, de un Excel fue de base de datos, dije."
+      },
+      {
+        "pid": "p188",
+        "text": "El paso cero Power BI es que tú agarrís un Excel y lo pongáis bonito en Power BI."
+      },
+      {
+        "pid": "p189",
+        "text": "Después ya empezáis a sacar, la segunda que aprendí fue el tema de varios Excel, sacar como una información."
+      },
+      {
+        "pid": "p190",
+        "text": "Claro."
+      },
+      {
+        "pid": "p191",
+        "text": "Y ahora yo voy en la fase de datos."
+      },
+      {
+        "pid": "p192",
+        "text": "Pues igual, con Python lo podía hacer, ¿no?"
+      },
+      {
+        "pid": "p193",
+        "text": "Sí, pero yo no puedo usarlo."
+      },
+      {
+        "pid": "p194",
+        "text": "O sea, no, no."
+      },
+      {
+        "pid": "p195",
+        "text": "¿Por qué no?"
+      },
+      {
+        "pid": "p196",
+        "text": "Es que hermano, mi PowerPoint es carísima la licencia pensando de que me voy a tener la red de ratita que te hace todo vos."
+      },
+      {
+        "pid": "p197",
+        "text": "Onda, le voy a pedir algo para que te haga el script en Python para que te conecte la fase de datos y está ahí."
+      },
+      {
+        "pid": "p198",
+        "text": "Bueno, no hablen con Simmons, no hablen conmigo."
+      },
+      {
+        "pid": "p199",
+        "text": "Pues sí, yo tampoco puedo ocupar nada."
+      },
+      {
+        "pid": "p200",
+        "text": "Sé lo frustrante que es, bueno."
+      },
+      {
+        "pid": "p201",
+        "text": "¿Qué pasa, bicho?"
+      },
+      {
+        "pid": "p202",
+        "text": "Oye, tenéis sed, bicho."
+      },
+      {
+        "pid": "p203",
+        "text": "Y la cosa es que..."
+      },
+      {
+        "pid": "p204",
+        "text": "Ahora, por ejemplo, descubrí que hay gráficos que te hacen..."
+      },
+      {
+        "pid": "p205",
+        "text": "¿Qué te pasó en el brazo, mi amor?"
+      },
+      {
+        "pid": "p206",
+        "text": "¿Qué te dejaste?"
+      },
+      {
+        "pid": "p207",
+        "text": "En el izquierdo, justo."
+      },
+      {
+        "pid": "p208",
+        "text": "Aquí, en toda esta parte, tengo..."
+      },
+      {
+        "pid": "p209",
+        "text": "Ah, te apoyaste."
+      },
+      {
+        "pid": "p210",
+        "text": "Lo más probable es que te apoyaste en algo."
+      },
+      {
+        "pid": "p211",
+        "text": "Entonces, este fue una bici, anoche."
+      },
+      {
+        "pid": "p212",
+        "text": "¿Te acuerdas?"
+      },
+      {
+        "pid": "p213",
+        "text": "Hay unos gráficos que te muestran causalidad, por ejemplo..."
+      },
+      {
+        "pid": "p214",
+        "text": "Causalidad?"
+      },
+      {
+        "pid": "p215",
+        "text": "Causalidad."
+      },
+      {
+        "pid": "p216",
+        "text": "Por ejemplo, explica la demora."
+      },
+      {
+        "pid": "p217",
+        "text": "Tú le dices, explica por qué tenemos una demora tan alta que está en resolución cuando tenemos este tipo de fallas."
+      },
+      {
+        "pid": "p218",
+        "text": "Y busca la información en la que tú le subiste."
+      },
+      {
+        "pid": "p219",
+        "text": "Y te dice, ah, la mayor cantidad de días que demoramos en reparar es cuando la falla es de este tipo."
+      },
+      {
+        "pid": "p220",
+        "text": "Oh, qué magia."
+      },
+      {
+        "pid": "p221",
+        "text": "Por ejemplo en una encontré un resonador que está declarado como un ultrasonido."
+      },
+      {
+        "pid": "p222",
+        "text": "Porque vi un error era un monto demasiado alto en ultrasonido y dije... ya en chile tenemos 1198"
+      },
+      {
+        "pid": "p223",
+        "text": "No, pues entonces..."
+      },
+      {
+        "pid": "p224",
+        "text": "Oye, ¿le tenéis metido intervalos de confianza a las variables?"
+      },
+      {
+        "pid": "p225",
+        "text": "No."
+      },
+      {
+        "pid": "p226",
+        "text": "Esa pues es reútil para cachar los outliers."
+      },
+      {
+        "pid": "p227",
+        "text": "Sí, pero es que el tema es que aquí me están pidiendo hacer lo más precisa posible."
+      },
+      {
+        "pid": "p228",
+        "text": "Pero naturalmente hoy no vienen con un P menor a 0 .5."
+      },
+      {
+        "pid": "p229",
+        "text": "No, no."
+      },
+      {
+        "pid": "p230",
+        "text": "no se viene súper alto yo creo que eso es mucho eso es muy bien yo creo que la carrera no mostró mucho ese giro así que es importante es que yo me acuerdo que nos dijeron así que no se puede venir a 0 .5 siempre que dejarle a 0 .5 y yo siempre quejalo a ese punto pero nunca viene a ese punto siempre lo viene más alta si voy a poner al lado, ¿cierto?"
+      },
+      {
+        "pid": "p231",
+        "text": "oye, ahí estamos el rato y te esperamos, le veo por un helado vayan pues, ahí te conito Qué sabor?"
+      },
+      {
+        "pid": "p232",
+        "text": "Qué sabor?"
+      },
+      {
+        "pid": "p233",
+        "text": "Qué sabor?"
+      },
+      {
+        "pid": "p234",
+        "text": "Qué sabor?"
+      },
+      {
+        "pid": "p235",
+        "text": "Qué sabor?"
+      },
+      {
+        "pid": "p236",
+        "text": "ah bueno primero antes de contarle la mierda"
+      }
+    ],
+    "count": 237
+  }
+]

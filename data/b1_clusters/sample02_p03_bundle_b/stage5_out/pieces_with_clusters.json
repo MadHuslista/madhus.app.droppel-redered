@@ -1,0 +1,2135 @@
+[
+  {
+    "pid": "p0",
+    "start_time": 0.0,
+    "end_time": 5.460000038146973,
+    "sha1": "63a9f713a24bb8efabcba6819eb69eccb7a2993d",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Lo que se centra mucho, o por lo que he visto, se centra mucho con la parte de eléctrica."
+  },
+  {
+    "pid": "p1",
+    "start_time": 6.71999979019165,
+    "end_time": 12.199999809265137,
+    "sha1": "cba305c851598c16abb563177fe74d6d377539eb",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Esta web lo que hace es una simulación casi de pacientes, o sea, la web es un analizador de bombas de inclusión."
+  },
+  {
+    "pid": "p2",
+    "start_time": 13.300000190734863,
+    "end_time": 14.5,
+    "sha1": "d9bbe2d0ab95e5b10c2e68d31e7dcbeed2c6a4aa",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Permiso, ¿puedo ver las otras preguntas?"
+  },
+  {
+    "pid": "p3",
+    "start_time": 14.539999961853027,
+    "end_time": 14.880000114440918,
+    "sha1": "63334e17aade057e387b5f5f840a43e069cbcc9c",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Sí, dale."
+  },
+  {
+    "pid": "p4",
+    "start_time": 15.800000190734863,
+    "end_time": 16.65999984741211,
+    "sha1": "258a9a5c2f049697332e32f9d3deeacfddb23c17",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Nada de ahí, métete ahí."
+  },
+  {
+    "pid": "p5",
+    "start_time": 17.420000076293945,
+    "end_time": 18.18000030517578,
+    "sha1": "57a5c1d992360cf3f86ebcfe9e2fa8613c634c17",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Entonces, bueno, ¿qué es lo que pasa?"
+  },
+  {
+    "pid": "p6",
+    "start_time": 18.239999771118164,
+    "end_time": 23.6200008392334,
+    "sha1": "02efdecfabeaef0f792697aaab20c357bf7a2ae4",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Nosotros tenemos en este momento una tecnología que tiene herramientas polacas, ¿cachai?"
+  },
+  {
+    "pid": "p7",
+    "start_time": 24.219999313354492,
+    "end_time": 24.5,
+    "sha1": "18111d5ffea96e0ed5a4f4456121de5e2717de1a",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Ya?"
+  },
+  {
+    "pid": "p8",
+    "start_time": 24.959999084472656,
+    "end_time": 26.540000915527344,
+    "sha1": "d4368ee44dd027ab34d3647a5ed02659857096eb",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "La herramienta es por la que me llenca llanta."
+  },
+  {
+    "pid": "p9",
+    "start_time": 26.780000686645508,
+    "end_time": 28.020000457763672,
+    "sha1": "906e437c92211e7002d33b4abe33d99ce42a14dc",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Están mal hechas, muy mal."
+  },
+  {
+    "pid": "p10",
+    "start_time": 28.440000534057617,
+    "end_time": 31.0,
+    "sha1": "c339d529c6eb0c649cc3369c6d3b6621cf6ee97e",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Entonces un día dije a mi jefe, oye, ¿cuándo vamos a estandarizar esto?"
+  },
+  {
+    "pid": "p11",
+    "start_time": 31.200000762939453,
+    "end_time": 31.68000030517578,
+    "sha1": "e956b057f213a5a90439ffa92efd258d388b0f60",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "El otro día."
+  },
+  {
+    "pid": "p12",
+    "start_time": 31.979999542236328,
+    "end_time": 35.439998626708984,
+    "sha1": "ff74c5c30e99f26c67a035a8c82654f04adb610f",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Dije, porque, güey, me dio vergüenza el otro día un cliente me había preguntado, oye, ¿y qué está, güey?"
+  },
+  {
+    "pid": "p13",
+    "start_time": 36.47999954223633,
+    "end_time": 37.08000183105469,
+    "sha1": "e3e08506414810b0e3ff2ac1103bad503973595a",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Ya, güey."
+  },
+  {
+    "pid": "p14",
+    "start_time": 37.279998779296875,
+    "end_time": 39.15999984741211,
+    "sha1": "752f416b217f0184829a2fa78959ba56544d467b",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Oye, por si estar acá, porque no se me está haciendo eso."
+  },
+  {
+    "pid": "p15",
+    "start_time": 41.20000076293945,
+    "end_time": 43.29999923706055,
+    "sha1": "6cd9350b32b6b7b0646bd92f7dd213c54c67a524",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Hoy tiene un montón de simuladores buenísimos."
+  },
+  {
+    "pid": "p16",
+    "start_time": 43.380001068115234,
+    "end_time": 45.060001373291016,
+    "sha1": "f13fb66fca156be4b59541a3da72c509e8576cc2",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Sí, pues, güey, si tiene una pila de güeyes, pues."
+  },
+  {
+    "pid": "p17",
+    "start_time": 45.47999954223633,
+    "end_time": 47.52000045776367,
+    "sha1": "c4bb5d4eda120a845157734d4e29eb35ba0abe9a",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Por eso le van a hablar bien con la marca y ver qué pasa."
+  },
+  {
+    "pid": "p18",
+    "start_time": 48.81999969482422,
+    "end_time": 49.459999084472656,
+    "sha1": "5c8b8620c2d42d6b2884239a638be3230bd94363",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Qué es lo que pasa?"
+  },
+  {
+    "pid": "p19",
+    "start_time": 49.560001373291016,
+    "end_time": 56.939998626708984,
+    "sha1": "7dee4f551002be4e2230d1769398461b3d2058c5",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Este nicho es caro, porque bueno, aquí en Chile, yo sé que está Fluke, que lo tiene DM, que es la empresa chilena que tiene Fluke, que es DM, y eso ya está en la calibración y todo."
+  },
+  {
+    "pid": "p20",
+    "start_time": 57.380001068115234,
+    "end_time": 58.939998626708984,
+    "sha1": "b0ced3b110a6a07a8ef8a97515d01b8a4c9d8dfc",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Y luego está..."
+  },
+  {
+    "pid": "p21",
+    "start_time": 58.939998626708984,
+    "end_time": 61.79999923706055,
+    "sha1": "b67ffd533dceeab94e8adb2ba3aaab97eb8850b0",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Cómo se llama?"
+  },
+  {
+    "pid": "p22",
+    "start_time": 62.2400016784668,
+    "end_time": 62.560001373291016,
+    "sha1": "9ea178b3440456ae9ab5c332455041b8c4b122ae",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Mediplex?"
+  },
+  {
+    "pid": "p23",
+    "start_time": 62.81999969482422,
+    "end_time": 70.0199966430664,
+    "sha1": "469c08db860c0606c52d3a28a29b8eb6be6f700f",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Sí, luego es Mediplex, que es el que trae Rígel Medical, que es como similar a Fluke, pero creo que es un pelín más barato."
+  },
+  {
+    "pid": "p24",
+    "start_time": 71.12000274658203,
+    "end_time": 71.91999816894531,
+    "sha1": "18ad62a19cfc752571c56b68c18d8433cb31050e",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Pero esto..."
+  },
+  {
+    "pid": "p25",
+    "start_time": 73.48999786376953,
+    "end_time": 77.20999908447266,
+    "sha1": "c86f87c8012986d0fcf5fdab828bf3e25ab93b97",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Podríamos ver que también me trae el nicho, si son más baratos, los hospitales te van a comprarlos."
+  },
+  {
+    "pid": "p26",
+    "start_time": 77.44999694824219,
+    "end_time": 84.7699966430664,
+    "sha1": "f2d5e1349d7faddc25d83a3082ce53c6c3e7ffe1",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Es que sí, hospitales y clínicas te la van a comprar, que haga la risa, pero sí como clínicas tipo dos carreras, IMET en Punta Arena."
+  },
+  {
+    "pid": "p27",
+    "start_time": 85.94999694824219,
+    "end_time": 89.8499984741211,
+    "sha1": "244c1f6adcad09567180487537381f6806096f55",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "clientes que no sean muy grandes como una alemana que ni cagando te va a meter una huella que no sea flujo."
+  },
+  {
+    "pid": "p28",
+    "start_time": 89.87000274658203,
+    "end_time": 96.80999755859375,
+    "sha1": "46ecdfd106c7824ce377ba1610ff2f093c26eaea",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Sí, de hecho es un buen nicho porque hasta ahora esa clínica está forzada a comprar flujo o no?"
+  },
+  {
+    "pid": "p29",
+    "start_time": 97.43000030517578,
+    "end_time": 103.55000305175781,
+    "sha1": "7625b5e925803e9df6a17afd634814e9459db106",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "No, la verdad es que en verdad es un estándar tonto porque compra esa huella y de repente ni los usuarios se van a ocupar la mierda."
+  },
+  {
+    "pid": "p30",
+    "start_time": 103.79000091552734,
+    "end_time": 106.44999694824219,
+    "sha1": "f86d6ad649fd9b53aa8ef374b6060ad81973dbae",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Y eso pasa mucho en Alemania."
+  },
+  {
+    "pid": "p31",
+    "start_time": 106.56999969482422,
+    "end_time": 109.66999816894531,
+    "sha1": "bdf761ae927fd53b2e252d638d7f8e9f2312483d",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "No, y lo mejor es que estas hueas como son más low cost puedes vendárselo hasta universidades."
+  },
+  {
+    "pid": "p32",
+    "start_time": 110.01000213623047,
+    "end_time": 112.7300033569336,
+    "sha1": "b704b69c8e6b33d05b204590eed4b31cc178f5bf",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Es que eso estaba pensando, como que nosotros podríamos ser el segundo tier."
+  },
+  {
+    "pid": "p33",
+    "start_time": 113.16999816894531,
+    "end_time": 114.94999694824219,
+    "sha1": "2163f73a36bfb46aac71a4fbd24cb8515fc9cde2",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Porque siempre hay tier en los mercados."
+  },
+  {
+    "pid": "p34",
+    "start_time": 115.2699966430664,
+    "end_time": 119.20999908447266,
+    "sha1": "fca206d84e10cc3e7c6ce58553dbce8308700906",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Si Fluke es el tier 1, no todo el mercado va a estar apuntando a ser el tier 1."
+  },
+  {
+    "pid": "p35",
+    "start_time": 119.58999633789062,
+    "end_time": 123.6500015258789,
+    "sha1": "d4e8584b1936c659a0fc351ac93db3cdee660e43",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Entonces, si nosotros necesitamos el tier 2 o el tier 3, tenemos un mercado bastante grande."
+  },
+  {
+    "pid": "p36",
+    "start_time": 123.75,
+    "end_time": 125.51000213623047,
+    "sha1": "39e93358bf9d9208d6e86e9809f8cec5cf5d93e3",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Bueno, entonces, ¿qué es lo que me contó mi jefe?"
+  },
+  {
+    "pid": "p37",
+    "start_time": 125.58999633789062,
+    "end_time": 127.02999877929688,
+    "sha1": "61ffc731f38956f766336f7d5f278e1c7d7e8681",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "De que a esta güey nadie lo trae en Chile."
+  },
+  {
+    "pid": "p38",
+    "start_time": 127.55000305175781,
+    "end_time": 129.07000732421875,
+    "sha1": "77b2c6d1547e0edb797d59cff1179db5d1cb42d0",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Entonces yo le dije, ¿pero y que estoy dispiando a comprarlo?"
+  },
+  {
+    "pid": "p39",
+    "start_time": 129.07000732421875,
+    "end_time": 130.11000061035156,
+    "sha1": "ce99d3a1fbb5da0e5083eab7ad613ae08ad6a061",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Me dijo, no, que alguien lo traiga en Chile."
+  },
+  {
+    "pid": "p40",
+    "start_time": 130.7899932861328,
+    "end_time": 131.7899932861328,
+    "sha1": "e85c674df582611089349fc828416674357d159e",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Y yo..."
+  },
+  {
+    "pid": "p41",
+    "start_time": 131.7899932861328,
+    "end_time": 139.27000427246094,
+    "sha1": "1a4ec1fc4f8b5d66d4a98fe24a318bec477fd26d",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Entonces, lo que yo tengo entendido, porque creo que una vez le pregunté, me dijo, no, porque lo que necesitamos es que nos den factura, creo."
+  },
+  {
+    "pid": "p42",
+    "start_time": 139.41000366210938,
+    "end_time": 140.2899932861328,
+    "sha1": "587aea070cfdbe3c07022f0bf8743982a2f04639",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Eso es lo único que necesite."
+  },
+  {
+    "pid": "p43",
+    "start_time": 140.52999877929688,
+    "end_time": 142.14999389648438,
+    "sha1": "3269524aca6c9ff640674cf923224afb2234737e",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Entonces, ¿qué tiene esa empresa al final?"
+  },
+  {
+    "pid": "p44",
+    "start_time": 143.13999938964844,
+    "end_time": 143.47999572753906,
+    "sha1": "3d6ebb98bf40943cbe2fef67fd2f885bc786f4cd",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Melón?"
+  },
+  {
+    "pid": "p45",
+    "start_time": 143.67999267578125,
+    "end_time": 147.25999450683594,
+    "sha1": "33e2cd6d751c41f07fb2bbf5d1e2e1679061bea7",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Eh, para el bicho, pero el bicho se puede sentar aquí porque si no..."
+  },
+  {
+    "pid": "p46",
+    "start_time": 147.25999450683594,
+    "end_time": 149.60000610351562,
+    "sha1": "d3163b962131dba8f96107e63bdb5c2ad5868391",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "No sé, estoy sentado acá por mientras, pero cuando llegue el bicho..."
+  },
+  {
+    "pid": "p47",
+    "start_time": 149.60000610351562,
+    "end_time": 150.1199951171875,
+    "sha1": "fd0ba76f2a285d38f041b33b038b77eb44f49b2d",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Esta es de melón?"
+  },
+  {
+    "pid": "p48",
+    "start_time": 150.27999877929688,
+    "end_time": 151.55999755859375,
+    "sha1": "67b58cc9cad0183d0aefc85247fd6cac6cd2a1e4",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Ah, esa es de melón, ¿esta es de...?"
+  },
+  {
+    "pid": "p49",
+    "start_time": 151.55999755859375,
+    "end_time": 152.1199951171875,
+    "sha1": "5ff6b5399a0babb86cdd97e2dea56a83cca1556a",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Es limonada."
+  },
+  {
+    "pid": "p50",
+    "start_time": 152.3000030517578,
+    "end_time": 152.9199981689453,
+    "sha1": "a976784525052f5c9f3fb584f7bb661563dfd129",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Ah, y esta es la mía."
+  },
+  {
+    "pid": "p51",
+    "start_time": 153.3800048828125,
+    "end_time": 153.94000244140625,
+    "sha1": "726012bc6098c908491a8097c366a3d95a9ceaa5",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Limonada menta?"
+  },
+  {
+    "pid": "p52",
+    "start_time": 154.02000427246094,
+    "end_time": 154.39999389648438,
+    "sha1": "e62910dfb51ef0690d49eeb8a4ee821f1de06c0c",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Sí, por favor."
+  },
+  {
+    "pid": "p53",
+    "start_time": 154.60000610351562,
+    "end_time": 155.24000549316406,
+    "sha1": "328e51cf21fd3abb75fe8d9221e78f8527653d7a",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "No, la de menta mía."
+  },
+  {
+    "pid": "p54",
+    "start_time": 155.6199951171875,
+    "end_time": 156.82000732421875,
+    "sha1": "37e11b8a05633ef8f0aa6b0bcf016c0c11232402",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "La jengibre es la tuya."
+  },
+  {
+    "pid": "p55",
+    "start_time": 158.75999450683594,
+    "end_time": 159.10000610351562,
+    "sha1": "3eec18fc97959e5196a9414a35dcf205563ff593",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Gracias."
+  },
+  {
+    "pid": "p56",
+    "start_time": 159.39999389648438,
+    "end_time": 160.5800018310547,
+    "sha1": "417a5ff6e2be19bf0bba739e1b8b58c60198d162",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Tienes que endulzarla así?"
+  },
+  {
+    "pid": "p57",
+    "start_time": 161.16000366210938,
+    "end_time": 161.3800048828125,
+    "sha1": "051c7ddce8b7a515531138981585ff3f14089d21",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Qué?"
+  },
+  {
+    "pid": "p58",
+    "start_time": 161.77999877929688,
+    "end_time": 162.5399932861328,
+    "sha1": "b07b4f262a8a300150008a852439d0f5dbb8fc2d",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Puede frutilla?"
+  },
+  {
+    "pid": "p59",
+    "start_time": 162.9600067138672,
+    "end_time": 163.67999267578125,
+    "sha1": "8b40ec2045d271e2f4334e0fd9d7562a3bbda935",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Eh, ahí ya."
+  },
+  {
+    "pid": "p60",
+    "start_time": 168.60000610351562,
+    "end_time": 168.94000244140625,
+    "sha1": "3eec18fc97959e5196a9414a35dcf205563ff593",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Gracias."
+  },
+  {
+    "pid": "p61",
+    "start_time": 169.33999633789062,
+    "end_time": 169.36000061035156,
+    "sha1": "c310b65511aceee776ffffb1c522e267d4ec06b6",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "De nada."
+  },
+  {
+    "pid": "p62",
+    "start_time": 171.44000244140625,
+    "end_time": 172.86000061035156,
+    "sha1": "7f476fb3ebe2415fd4fcd1c8d86079c41af4eef0",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Si he hecho un bolada..."
+  },
+  {
+    "pid": "p63",
+    "start_time": 172.99000549316406,
+    "end_time": 174.69000244140625,
+    "sha1": "dfccc0c15464a98a1b838e754c16f2da83145b37",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Después corremos la mesa un poco más para acá."
+  },
+  {
+    "pid": "p64",
+    "start_time": 174.8699951171875,
+    "end_time": 175.7899932861328,
+    "sha1": "76255793d60b6d96c41c4f05d7a69c2143c88586",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Es que el sol ahí me llega."
+  },
+  {
+    "pid": "p65",
+    "start_time": 176.22999572753906,
+    "end_time": 177.8300018310547,
+    "sha1": "ef89a94a9ae5bea433ee16f415ce16c282499ed9",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Y espérate, ¿empresa en un día?"
+  },
+  {
+    "pid": "p66",
+    "start_time": 178.9499969482422,
+    "end_time": 180.25,
+    "sha1": "77c1af065f12cb03d3d6f11e3ed5a0431054d5ec",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Que eso podría ser, cacho."
+  },
+  {
+    "pid": "p67",
+    "start_time": 180.88999938964844,
+    "end_time": 182.75,
+    "sha1": "4b5fb73e18a6d9c92568ba12da994c56485638ba",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Eso yo sé que te pueden mentir con factura rápido."
+  },
+  {
+    "pid": "p68",
+    "start_time": 182.91000366210938,
+    "end_time": 189.57000732421875,
+    "sha1": "6d6a9fe241a7bda3d2ad4c86e031cee6e94b625e",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Igual tengo un amigo que sabe dar toda la contabilidad y así nos puede ayudar a ver qué onda ahí."
+  },
+  {
+    "pid": "p69",
+    "start_time": 190.4499969482422,
+    "end_time": 191.57000732421875,
+    "sha1": "3cdb005fc2386e24f51d69aa69de11d42281d101",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Pero bueno, esa es la oportunidad."
+  },
+  {
+    "pid": "p70",
+    "start_time": 191.75,
+    "end_time": 221.77999877929688,
+    "sha1": "a3ad2f5b7dc198d53aadba11f33e3df9111537c8",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y lo que estoy viendo es como, claro, esto se trae y a lo mejor podemos hacer una empresa de ese estilo, como traer solamente cosas... analizadores porque son chiquititos los analizadores porque son para bombas de infusión quizás esta no sale más barato para importarles que un buen viaje y las traigan una maleta de hecho sí que alguien se pide vacaciones que quiera allá me voy con una mochila y con el banco ya tengo con el banco y me dan una maleta gratis de vuelta"
+  },
+  {
+    "pid": "p71",
+    "start_time": 228.44000244140625,
+    "end_time": 229.89999389648438,
+    "sha1": "34d4ea595c9ae8ac0c5c4d73ffadee2d899e1d54",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "El tema es hablar con la marca."
+  },
+  {
+    "pid": "p72",
+    "start_time": 230.72000122070312,
+    "end_time": 233.63999938964844,
+    "sha1": "a820931fd6bd81cdc73b64ea566a27368ad1238e",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Claro, habría que hacer la presentación."
+  },
+  {
+    "pid": "p73",
+    "start_time": 234.3800048828125,
+    "end_time": 238.63999938964844,
+    "sha1": "70ff1118e310081b41a7c1beb8eb0e896092fc03",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Como decirle, como, oye, mira, si, oye, que eres una empresa que queremos partirlo aquí en Chile con esto."
+  },
+  {
+    "pid": "p74",
+    "start_time": 239.4199981689453,
+    "end_time": 240.9600067138672,
+    "sha1": "f639fbd278853d75224cd93b18ad84bf98668863",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Nos interesa tu marca y listo."
+  },
+  {
+    "pid": "p75",
+    "start_time": 241.4199981689453,
+    "end_time": 242.39999389648438,
+    "sha1": "0bc3d3ea03a2d180da924a48ef3d1c98a5d1c935",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Habría que armar el pitch, ¿no?"
+  },
+  {
+    "pid": "p76",
+    "start_time": 242.66000366210938,
+    "end_time": 244.72000122070312,
+    "sha1": "1a38982adb536c1b725d2ce194e83b4ffba90f40",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Sí, y como posicionar esa marca en Chile."
+  },
+  {
+    "pid": "p77",
+    "start_time": 244.72000122070312,
+    "end_time": 246.5399932861328,
+    "sha1": "ee1b5ce3c73af3dbb188c2d7bd19ede96681aa6b",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "No podemos perder más tiempo, tenemos que hacerlo esta semana."
+  },
+  {
+    "pid": "p78",
+    "start_time": 247.13999938964844,
+    "end_time": 247.4199981689453,
+    "sha1": "18111d5ffea96e0ed5a4f4456121de5e2717de1a",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "¿Ya?"
+  },
+  {
+    "pid": "p79",
+    "start_time": 248.0,
+    "end_time": 249.0,
+    "sha1": "10656f3c76f3a5e0c6e5d3e91d43bbd4a2c3367f",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "¿Por qué decir eso?"
+  },
+  {
+    "pid": "p80",
+    "start_time": 249.66000366210938,
+    "end_time": 253.60000610351562,
+    "sha1": "fb11ebb4f364e53ab82806ad5183c0217618a18b",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Porque hay que aprovechar el infinito que necesitamos del primer cliente."
+  },
+  {
+    "pid": "p81",
+    "start_time": 254.36000061035156,
+    "end_time": 257.5799865722656,
+    "sha1": "b8d31588094dacf1a7ca4c39666bdd6a28101204",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Pero un cliente seguro, quizás podría mandarme unas muestras"
+  },
+  {
+    "pid": "p82",
+    "start_time": 257.5799865722656,
+    "end_time": 260.7799987792969,
+    "sha1": "b9e453244f8a6eeaa354c70a4f4d394a5fecc62a",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y esperar un poco más sería arriesgar a ese cliente, ya perfecto"
+  },
+  {
+    "pid": "p83",
+    "start_time": 260.7799987792969,
+    "end_time": 262.1000061035156,
+    "sha1": "5d8de2eebdfde0f5b0b7441a69abac987e836c9e",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Que es un input seguro"
+  },
+  {
+    "pid": "p84",
+    "start_time": 262.1000061035156,
+    "end_time": 266.1199951171875,
+    "sha1": "ee3149d898ac751efbba0fb5c6a14bf1d2c8669b",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Sí, pues por lo menos tenerlo y ya..."
+  },
+  {
+    "pid": "p85",
+    "start_time": 266.1199951171875,
+    "end_time": 268.8999938964844,
+    "sha1": "8326ee3f40b7594d9cc69822fc2bd45742b197bc",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Sí, pues yo también le puedo preguntar a mi jefe que tan urgente lo quiere"
+  },
+  {
+    "pid": "p86",
+    "start_time": 268.8999938964844,
+    "end_time": 271.5,
+    "sha1": "f29e95a4e261895c5b87d6a75edef72beabc8415",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "De repente me dice sí, de repente..."
+  },
+  {
+    "pid": "p87",
+    "start_time": 271.5,
+    "end_time": 274.7200012207031,
+    "sha1": "95f963841ec0baee9fa47ac6526e57bba4d0b9a8",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Ya, eso es una buena pregunta, porque en realidad lo está pensando para el próximo año"
+  },
+  {
+    "pid": "p88",
+    "start_time": 274.7200012207031,
+    "end_time": 275.17999267578125,
+    "sha1": "873caab4d0a013609156735636299e4ae94b06b1",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Sí"
+  },
+  {
+    "pid": "p89",
+    "start_time": 275.17999267578125,
+    "end_time": 276.17999267578125,
+    "sha1": "f28ae77b516bb9fbb77b0067e245cb4532ecee6b",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Y eso nos cagaría"
+  },
+  {
+    "pid": "p90",
+    "start_time": 276.17999267578125,
+    "end_time": 278.739990234375,
+    "sha1": "88f77f5a06d91f07847c6c93989949f670286df6",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Oye, ¿sabes que en verdad yo estaba pensando justo en eso?"
+  },
+  {
+    "pid": "p91",
+    "start_time": 278.8399963378906,
+    "end_time": 279.32000732421875,
+    "sha1": "648dd8e6b380da5728c54c17b8df1b380be4ef4f",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Cuál es el gesto?"
+  },
+  {
+    "pid": "p92",
+    "start_time": 279.4599914550781,
+    "end_time": 280.17999267578125,
+    "sha1": "648dd8e6b380da5728c54c17b8df1b380be4ef4f",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Cuál es el gesto?"
+  },
+  {
+    "pid": "p93",
+    "start_time": 282.510009765625,
+    "end_time": 284.42999267578125,
+    "sha1": "d84369f55c24c8b4dfb728d9903a254555b362d8",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Si no, yo de hecho no hubiese podido hablar con él, ningún problema."
+  },
+  {
+    "pid": "p94",
+    "start_time": 284.5299987792969,
+    "end_time": 287.510009765625,
+    "sha1": "bc93e91538917854736fcd935771147af571d054",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Y le pregunta ahí, ¿sabes que estamos pensando en poner una empresa?"
+  },
+  {
+    "pid": "p95",
+    "start_time": 287.69000244140625,
+    "end_time": 289.1499938964844,
+    "sha1": "94f46a8321c553e4410a4ed4c59cfb12c15ff0d8",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y ¿sabes que estamos buscando un producto?"
+  },
+  {
+    "pid": "p96",
+    "start_time": 289.4100036621094,
+    "end_time": 293.3299865722656,
+    "sha1": "25f68f43b663dd87266c873f4b4c6f8010d85f18",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y podríamos agregar el... agregarlo, no le digáis que hacer sobre eso."
+  },
+  {
+    "pid": "p97",
+    "start_time": 293.8299865722656,
+    "end_time": 295.75,
+    "sha1": "80d47fb0a4fdcdbf658e69c2563539347fdbc52b",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Agregar este tema de los analizadores."
+  },
+  {
+    "pid": "p98",
+    "start_time": 296.19000244140625,
+    "end_time": 298.07000732421875,
+    "sha1": "7980a55f576ffa42215fc09a3f308b463073e023",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "¿Para cuánto más o menos lo estás estimando tú?"
+  },
+  {
+    "pid": "p99",
+    "start_time": 298.69000244140625,
+    "end_time": 303.3900146484375,
+    "sha1": "12016b8c18c5123ed978ae4bd44402647def330a",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Ya, porque nosotros estamos pensando el próximo mes ir a Estados Unidos a dar unas cositas."
+  },
+  {
+    "pid": "p100",
+    "start_time": 306.2900085449219,
+    "end_time": 310.0299987792969,
+    "sha1": "013283601ac8db4d4de41823c4e969e35f86f9b6",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y si te dice, ya el próximo mes, o hagámoslo ahora."
+  },
+  {
+    "pid": "p101",
+    "start_time": 310.6600036621094,
+    "end_time": 317.6400146484375,
+    "sha1": "9fa0d456f95a05e73ad81476d591a3b36cfdd601",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Si quieren, como yo hablo bien inglés, me contacto con ellos, tenemos una videollamada y nos fijé Estados Unidos."
+  },
+  {
+    "pid": "p102",
+    "start_time": 318.3800048828125,
+    "end_time": 322.8399963378906,
+    "sha1": "4c920b910ff77998f8303ea67017b07c270a6a53",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Y de hecho, más allá de hablar bien inglés, ¿tú tenés las habilidades comunicacionales para ese tipo de epilúcio?"
+  },
+  {
+    "pid": "p103",
+    "start_time": 324.239990234375,
+    "end_time": 325.3999938964844,
+    "sha1": "2b65aec936f97a1db723b55bd9cffd1144075b80",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Tú igual le ponías todo el inglés?"
+  },
+  {
+    "pid": "p104",
+    "start_time": 325.5799865722656,
+    "end_time": 325.760009765625,
+    "sha1": "e5d896c3969c99fa01780a72c4314987f35b3e88",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Sí."
+  },
+  {
+    "pid": "p105",
+    "start_time": 325.82000732421875,
+    "end_time": 326.94000244140625,
+    "sha1": "c8c7cdf810cff8d62504284df2ec68cb978f7440",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Yo lo pongo en tres veces."
+  },
+  {
+    "pid": "p106",
+    "start_time": 327.1600036621094,
+    "end_time": 331.4599914550781,
+    "sha1": "e51b23d17cd5b013740ef88336a00979217dad09",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Hablar inglés no tengo problema, pero lo que a mí no me están a ver todavía es que está ahí ese tipo de pitch."
+  },
+  {
+    "pid": "p107",
+    "start_time": 331.5,
+    "end_time": 333.3599853515625,
+    "sha1": "e687f03217713f76db398ba4af75369112258a2f",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "No, para mí el nativo me mata un poco."
+  },
+  {
+    "pid": "p108",
+    "start_time": 333.6400146484375,
+    "end_time": 338.8800048828125,
+    "sha1": "ba5da324a941fe4afd9edd0b5a677ed5353a1739",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "O sea, te digo, de esa conversación que podemos tener, vamos a entender el 80%, 50%."
+  },
+  {
+    "pid": "p109",
+    "start_time": 339.260009765625,
+    "end_time": 339.4800109863281,
+    "sha1": "0dc3e97067b8159d2e953bc2f2987ab90af7cd64",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Ya."
+  },
+  {
+    "pid": "p110",
+    "start_time": 339.6199951171875,
+    "end_time": 341.17999267578125,
+    "sha1": "13bae7b77ecd54e34805af84fdf5371032a74955",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Porque el nativo me mata harto."
+  },
+  {
+    "pid": "p111",
+    "start_time": 341.32000732421875,
+    "end_time": 346.760009765625,
+    "sha1": "4414c9ddb2531ffa82b2a33e8ec0b25871efa6ba",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "No, yo estoy acostumbrado porque el mío incluso es nativo y es nativo a francesado."
+  },
+  {
+    "pid": "p112",
+    "start_time": 347.1000061035156,
+    "end_time": 347.8999938964844,
+    "sha1": "c23f5d71e9776db4fe10f4fd3035e357baeb08da",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "A francesado."
+  },
+  {
+    "pid": "p113",
+    "start_time": 348.5,
+    "end_time": 351.0400085449219,
+    "sha1": "6c56b4d261c5499b614d5ef931d638b399a55979",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Me hiciste acordar de mi clase de Power BI."
+  },
+  {
+    "pid": "p114",
+    "start_time": 351.7200012207031,
+    "end_time": 352.3399963378906,
+    "sha1": "ca66dfef01e96b4805638271c6c47f249937ab82",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Ya, ¿por qué?"
+  },
+  {
+    "pid": "p115",
+    "start_time": 352.3399963378906,
+    "end_time": 353.8999938964844,
+    "sha1": "c35b5d8e791e9ae79004da671f7b13ce428f097c",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Porque era un indie."
+  },
+  {
+    "pid": "p116",
+    "start_time": 354.8299865722656,
+    "end_time": 357.8699951171875,
+    "sha1": "7c2586b917760fc3656af39709cfe0afa8167302",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Pero los indios tienen esa huella que igual tienen como un nativo."
+  },
+  {
+    "pid": "p117",
+    "start_time": 358.0299987792969,
+    "end_time": 360.2099914550781,
+    "sha1": "bec177d4c0d185b8b1f905ff0a0f300e1eb222e8",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Pero es más extraño que la mía."
+  },
+  {
+    "pid": "p118",
+    "start_time": 360.80999755859375,
+    "end_time": 366.04998779296875,
+    "sha1": "342e8f03dcd3a4f4c68e0ef211dea168cd418f76",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "No, fellas, are going to see this issue that we have here with your companions."
+  },
+  {
+    "pid": "p119",
+    "start_time": 367.57000732421875,
+    "end_time": 369.9100036621094,
+    "sha1": "408b7885bd43db18ddc0ac6c5a37081df1859cdd",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Pero sé que uno lo entiende re bien, me da risa eso."
+  },
+  {
+    "pid": "p120",
+    "start_time": 370.45001220703125,
+    "end_time": 375.1499938964844,
+    "sha1": "2e21129c15c260085441788924f354a140cfcb5c",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Es que como que marca muy bien las palabras en inglés de alguna manera muy parecida al español."
+  },
+  {
+    "pid": "p121",
+    "start_time": 376.04998779296875,
+    "end_time": 378.8900146484375,
+    "sha1": "5562e8352f53b8261d848ccc4e17aa483b3241f1",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "¿Sabes cuál es el único problema de esas cosas que me decía una persona antes?"
+  },
+  {
+    "pid": "p122",
+    "start_time": 378.9700012207031,
+    "end_time": 389.0899963378906,
+    "sha1": "f6eb414e0e5d8de6d8c43ffc47d287ec705a41ee",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Que cuando te acostumbras mucho a ese inglés, tu inglés empieza a empeorar porque te acuerdas, te empiezas a entender palabras que de verdad no se pronuncian así, pero las entiendes porque estás tú también estudiando inglés y tu inglés se echa a perder."
+  },
+  {
+    "pid": "p123",
+    "start_time": 389.5899963378906,
+    "end_time": 394.04998779296875,
+    "sha1": "242fe137d2de3037cea196f7569169e10669821f",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Y me pasaba mucho que Menon, que era un chino que estaba ahí, él hablaba inglés pero hablaba mal."
+  },
+  {
+    "pid": "p124",
+    "start_time": 394.54998779296875,
+    "end_time": 399.45001220703125,
+    "sha1": "229411ba18fcba6ddf833e0866b65be12641cd8e",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Porque yo lo entendía todo, pero él decía, oye Menon lo entiende todo, me decía sí, pero no te acostumbría él porque él habla mal."
+  },
+  {
+    "pid": "p125",
+    "start_time": 399.7900085449219,
+    "end_time": 403.4100036621094,
+    "sha1": "159511d0527cd3fbbd0aa5250e86e581972770ee",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Él pronuncia mal, entonces, claro, tú lo entiendes porque estás recién aprendiendo."
+  },
+  {
+    "pid": "p126",
+    "start_time": 403.6300048828125,
+    "end_time": 435.510009765625,
+    "sha1": "706ed7523011081c3806bbc6be7956cf49552836",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Ah, pero es que... pero igual hay gente que tiene mal inglés por defecto por ejemplo los alemanes como que no les sale y hablen nomás por lo que tienen claro y aparte todo es como que han estudiado demasiado tienen un vocabulario muy amplio en inglés pero el acento como que les vale si como capucca o el otro día vi un streamer vi un streamer como puteando el alemán fue maravilloso fue maravilloso mi amiga Polangelo que vive en Alemania todavía no se acostumbra ¿Qué va?"
+  },
+  {
+    "pid": "p127",
+    "start_time": 435.6099853515625,
+    "end_time": 437.0299987792969,
+    "sha1": "8c527c9e2aa7d326d6c66f6da577d29331fbc087",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Va desde su terça cañón ya?"
+  },
+  {
+    "pid": "p128",
+    "start_time": 437.30999755859375,
+    "end_time": 437.92999267578125,
+    "sha1": "771f935a3daa9cc38d398de57378bc5d7e6a5eb9",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Nada, de más."
+  },
+  {
+    "pid": "p129",
+    "start_time": 438.30999755859375,
+    "end_time": 440.57000732421875,
+    "sha1": "033646933860b83fc47a71b671cf40b928a48cbc",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Y que tampoco debe ser simple, otra manera de pensar en el idioma."
+  },
+  {
+    "pid": "p130",
+    "start_time": 440.92999267578125,
+    "end_time": 444.8500061035156,
+    "sha1": "bfa3a16c9d724db5f6346bc725f39a65b4833292",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Es que me dice que el tema de los pronombres y los artículos es un culo."
+  },
+  {
+    "pid": "p131",
+    "start_time": 445.3500061035156,
+    "end_time": 446.510009765625,
+    "sha1": "79e670f512c2bd054250abb5578bca8088ee5d5a",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Tienen una tabla."
+  },
+  {
+    "pid": "p132",
+    "start_time": 450.19000244140625,
+    "end_time": 452.4700012207031,
+    "sha1": "9944905caea83468c3604bb2eb0bea7b516115a4",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "El Miss Gender es normal allá."
+  },
+  {
+    "pid": "p133",
+    "start_time": 454.57000732421875,
+    "end_time": 456.80999755859375,
+    "sha1": "08f75b95db3127450e59ddf76590e4a67a381d13",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Hacían Miss Gender antes que fuera popular."
+  },
+  {
+    "pid": "p134",
+    "start_time": 458.57000732421875,
+    "end_time": 459.6300048828125,
+    "sha1": "e2e89f054a279ed83cf5ec4f965aa6332a7f36db",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Antes que fuera mainstream."
+  },
+  {
+    "pid": "p135",
+    "start_time": 459.75,
+    "end_time": 461.19000244140625,
+    "sha1": "bcbdd9f03b9a1856865641752e00d823d7fe8f79",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Ya, pues entonces hagamos eso, ¿les parece?"
+  },
+  {
+    "pid": "p136",
+    "start_time": 461.4100036621094,
+    "end_time": 461.8299865722656,
+    "sha1": "8ec72e43127a176270fc42b9dcef606230405866",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "¿Todo el rato?"
+  },
+  {
+    "pid": "p137",
+    "start_time": 462.1300048828125,
+    "end_time": 463.6099853515625,
+    "sha1": "4d085c857e2e1ca3ec3a4927c27f87a575a12e72",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Entonces el Calle te dice sí."
+  },
+  {
+    "pid": "p138",
+    "start_time": 464.2900085449219,
+    "end_time": 465.8900146484375,
+    "sha1": "cc4b8fc3d2665c0b5b8c9ec9292b3ba985022710",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Y hacemos la empresa en un día"
+  },
+  {
+    "pid": "p139",
+    "start_time": 465.8900146484375,
+    "end_time": 469.0899963378906,
+    "sha1": "55da4db9764f918ad3d60843f89e8579401c2572",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "¿Qué es lo que más nos conviene?"
+  },
+  {
+    "pid": "p140",
+    "start_time": 470.95001220703125,
+    "end_time": 472.2099914550781,
+    "sha1": "fe8e177e3999a62d985571db11ffe99012ea00f7",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Es que si no tenéis que..."
+  },
+  {
+    "pid": "p141",
+    "start_time": 472.2099914550781,
+    "end_time": 476.5899963378906,
+    "sha1": "6fcfd5066cbf1b1733dcc7cadf5f36247f50a7d1",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Mira, la diferencia entre hacerle a la empresa en un día es una página web del servicio impuesto interno"
+  },
+  {
+    "pid": "p142",
+    "start_time": 476.5899963378906,
+    "end_time": 480.8299865722656,
+    "sha1": "9751e5a02c94eed63de519ef26a38bb583a2abb7",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Si no tenéis que ir al servicio impuesto interno y te cobran todos los costos notariales y todo lo que coño"
+  },
+  {
+    "pid": "p143",
+    "start_time": 480.8299865722656,
+    "end_time": 486.04998779296875,
+    "sha1": "425e4135bda1693c4ff6eba90d8614e64339a3d1",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Ya mira, los locos están en California"
+  },
+  {
+    "pid": "p144",
+    "start_time": 486.04998779296875,
+    "end_time": 488.95001220703125,
+    "sha1": "8ca367cb2af48c18587d947eac20f61a954344ad",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Y podéis pagar entre 500 lucas y un millón"
+  },
+  {
+    "pid": "p145",
+    "start_time": 488.95001220703125,
+    "end_time": 491.75,
+    "sha1": "6641b042df5c7562ea8a86d5d56a50ae31e589e5",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "O sea, más que pagar, en declarar"
+  },
+  {
+    "pid": "p146",
+    "start_time": 492.29998779296875,
+    "end_time": 494.20001220703125,
+    "sha1": "db3ad3895f1da64b0e91267f57160c27f25d491f",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Como eso, como acción básica de la empresa."
+  },
+  {
+    "pid": "p147",
+    "start_time": 494.44000244140625,
+    "end_time": 494.6199951171875,
+    "sha1": "73adf257f650c5193859c1e7e6b57eeb5fa3971c",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "¿Cachai?"
+  },
+  {
+    "pid": "p148",
+    "start_time": 495.70001220703125,
+    "end_time": 500.55999755859375,
+    "sha1": "134bafd607ba0cd77c96501a074479aa218623dc",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Nosotros empezamos Pablo Vega, Nico Chapagase y Loro Ginosa."
+  },
+  {
+    "pid": "p149",
+    "start_time": 501.8599853515625,
+    "end_time": 505.3800048828125,
+    "sha1": "0ff903fa1cc56cf2e3d82a8a0adbf8e432d98688",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Constituyen como la SPA, que es una sociedad por acciones."
+  },
+  {
+    "pid": "p150",
+    "start_time": 506.82000732421875,
+    "end_time": 510.17999267578125,
+    "sha1": "34178a4c21c66502eaa533839aa10c928f485743",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "XYZ y todos pusieron en total un millón."
+  },
+  {
+    "pid": "p151",
+    "start_time": 510.739990234375,
+    "end_time": 512.6799926757812,
+    "sha1": "d454f8cadc6f1f026d2ebdc42bf6d13b5348b25d",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "Y ese es como el capital de inversión inicial."
+  },
+  {
+    "pid": "p152",
+    "start_time": 512.9199829101562,
+    "end_time": 515.7999877929688,
+    "sha1": "9e2df815523c7d3d2605745f08d575865890f80c",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "A ver si tú le vayas a pasar más platos después, ya voy a tu guía."
+  },
+  {
+    "pid": "p153",
+    "start_time": 516.1599731445312,
+    "end_time": 516.6400146484375,
+    "sha1": "4d7095993eabadcbd51ab89a4173424267994acd",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¡Claro!"
+  },
+  {
+    "pid": "p154",
+    "start_time": 519.3599853515625,
+    "end_time": 520.3800048828125,
+    "sha1": "a6a67af43f92460197401aef1bf8d4bf9bcfb001",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¡Aca, bicho!"
+  },
+  {
+    "pid": "p155",
+    "start_time": 520.739990234375,
+    "end_time": 521.5399780273438,
+    "sha1": "f2e62c4b13c4d18b37952474e31d0b3f03ba87c3",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¡A la sombra!"
+  },
+  {
+    "pid": "p156",
+    "start_time": 524.2000122070312,
+    "end_time": 524.6400146484375,
+    "sha1": "3eec18fc97959e5196a9414a35dcf205563ff593",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Gracias."
+  },
+  {
+    "pid": "p157",
+    "start_time": 524.9600219726562,
+    "end_time": 525.6599731445312,
+    "sha1": "37b35f926a9fcdc88e200c39c4803f9a801e0674",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Vamos por el rato."
+  },
+  {
+    "pid": "p158",
+    "start_time": 526.0399780273438,
+    "end_time": 526.7000122070312,
+    "sha1": "b322c4bad38f7db7ca328713c2f8bdb3dc60d0b8",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Gracias, Luis."
+  },
+  {
+    "pid": "p159",
+    "start_time": 528.52001953125,
+    "end_time": 532.0800170898438,
+    "sha1": "91b71c80dccd8736aa8dd68e92677dc26eb23015",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "A Estados Unidos nos vamos por 300 lucas."
+  },
+  {
+    "pid": "p160",
+    "start_time": 532.8800048828125,
+    "end_time": 533.6799926757812,
+    "sha1": "8b1c4353e97197d8a9509d73169ba84222740e8d",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Terrible low cost."
+  },
+  {
+    "pid": "p161",
+    "start_time": 535.5599975585938,
+    "end_time": 536.97998046875,
+    "sha1": "47f653be8cdbe4a0993a77d48b3a46a7da164711",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Estamos hablando de negocio."
+  },
+  {
+    "pid": "p162",
+    "start_time": 538.1799926757812,
+    "end_time": 539.3599853515625,
+    "sha1": "05169e06fc65291b70e32b44aa87b97fc7573984",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Sí, ese es el tema."
+  },
+  {
+    "pid": "p163",
+    "start_time": 539.52001953125,
+    "end_time": 540.1400146484375,
+    "sha1": "b2467fb4b678925f1a22c47da160715d9f45608c",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "También está low cost."
+  },
+  {
+    "pid": "p164",
+    "start_time": 541.5800170898438,
+    "end_time": 545.9199829101562,
+    "sha1": "bfd97258d16b8442a8828c063e1a90b73fa59d38",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Te vais con low cost por 300 lucas, la pasas como la..."
+  },
+  {
+    "pid": "p165",
+    "start_time": 545.9199829101562,
+    "end_time": 548.0599975585938,
+    "sha1": "bbff63b8d8649aff2e54b6cdeb71891e11f36336",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Pero..."
+  },
+  {
+    "pid": "p166",
+    "start_time": 548.0599975585938,
+    "end_time": 548.8599853515625,
+    "sha1": "ff6575c05ad51bb91aaf674bb905826fcc1fe894",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Somos jóvenes."
+  },
+  {
+    "pid": "p167",
+    "start_time": 548.97998046875,
+    "end_time": 550.260009765625,
+    "sha1": "e985faa61ab28bc28e5e20815e48791c6391571e",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y yo, por ejemplo, tengo la esta."
+  },
+  {
+    "pid": "p168",
+    "start_time": 550.6199951171875,
+    "end_time": 552.0,
+    "sha1": "510b9f170de3eb9cbf746661e427c9851e668368",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "La tengo vigente por dos años."
+  },
+  {
+    "pid": "p169",
+    "start_time": 552.0599975585938,
+    "end_time": 552.7000122070312,
+    "sha1": "282433f9806c32db9c65b04f19fc2e1d58ff993b",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "La visa waiver."
+  },
+  {
+    "pid": "p170",
+    "start_time": 553.0999755859375,
+    "end_time": 553.9000244140625,
+    "sha1": "2fa3a4ba37e2d1d9bbc4b6d1a9e5fb0a62c1b16a",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Oh, ya."
+  },
+  {
+    "pid": "p171",
+    "start_time": 554.2999877929688,
+    "end_time": 555.8400268554688,
+    "sha1": "d740bfa7a5de2a2fd8f5653bcab6582d89687e4e",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "La tengo vigente por dos años, entonces..."
+  },
+  {
+    "pid": "p172",
+    "start_time": 555.8400268554688,
+    "end_time": 557.1799926757812,
+    "sha1": "cd873990f70ac1acd5dc578f9f493f927380c507",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Ah, pero también por..."
+  },
+  {
+    "pid": "p173",
+    "start_time": 557.1799926757812,
+    "end_time": 558.9400024414062,
+    "sha1": "20685310276c3d41ae696256d416b36b3277c8d9",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Por Japón, entonces..."
+  },
+  {
+    "pid": "p174",
+    "start_time": 558.9400024414062,
+    "end_time": 560.5399780273438,
+    "sha1": "0e2518c2f91f16506b163541fc330c649299e650",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Ahora está más difícil sacarla?"
+  },
+  {
+    "pid": "p175",
+    "start_time": 561.2000122070312,
+    "end_time": 561.7999877929688,
+    "sha1": "97cbda599b6c3b6995b6506e748e266942f3f90e",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Sí, po."
+  },
+  {
+    "pid": "p176",
+    "start_time": 562.7999877929688,
+    "end_time": 563.739990234375,
+    "sha1": "03347fdc418c7adb779579058e87283a34222b28",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Ahora está más difícil sacarla."
+  },
+  {
+    "pid": "p177",
+    "start_time": 563.760009765625,
+    "end_time": 566.0399780273438,
+    "sha1": "e8190462e2c7992297e63d29c52fbcc99461aadc",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Primero está más cara y segundo te piden más cosas."
+  },
+  {
+    "pid": "p178",
+    "start_time": 566.8200073242188,
+    "end_time": 570.739990234375,
+    "sha1": "19059f7c66b6ad865d5bca7c44ee5b70fc88b624",
+    "cluster": "c001",
+    "cluster_label": "Discusión sobre creación de empresa",
+    "text": "¿Y van a probar pronto quizás eso de que te tienes que empezar a reasociar?"
+  },
+  {
+    "pid": "p179",
+    "start_time": 571.280029296875,
+    "end_time": 573.4000244140625,
+    "sha1": "0bc9f50e34e2d882f001cca2f13eeb4a11893a37",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Hay que pasar incluso, creo que..."
+  },
+  {
+    "pid": "p180",
+    "start_time": 573.4000244140625,
+    "end_time": 574.739990234375,
+    "sha1": "f532a6cfd257d0cdc1feff5c5ac5a560d30dc7a8",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Contactas de tu familia."
+  },
+  {
+    "pid": "p181",
+    "start_time": 575.02001953125,
+    "end_time": 601.0800170898438,
+    "sha1": "68d3617702870310fe03df1bc633626e6cb51fd9",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "¿Hay alguna idea? de que se puede registrar los correos, no se si eso lo voy a poner pero alguien se le ocurrió ya como que a usted le esta preguntando a ChatGPT de hecho lo traeré, lo puse hoy y dame una forma rápida de instalar bomba y me la puse sin infusión y me la mando a la mierda, entonces me llama la pb no, porque tenes que ocupar dips para eso, los chinos si o cloud, tambien, tambien pero por que tu preferis copilot o ChatGPT?"
+  },
+  {
+    "pid": "p182",
+    "start_time": 601.6199951171875,
+    "end_time": 638.3300170898438,
+    "sha1": "d2541613780bd1ad3ee044dcf53fd339697d7acc",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "lo que pasa es que yo en la pega tengo copilot entonces lo que más uso es Copilot porque como dice el entorno seguro, el empresarial pero al fin y al cabo es como lo mismo para lo que uno ocupa o sea que yo lo ocupo más que nada como redactame bien eso no yo también eso que me redacte de repente cuando tengo muchos correos que me haga un resumen de los correos y ahora lo estoy usando para Power BI por ejemplo es que ya voy en el siguiente paso ya no estoy mostrándote el dashboard de un Excel que se va actualizando sino que estoy juntando varios pasos de datos Y le estoy diciendo cómo puedo de esta información, por ejemplo, sacar cuál es la causa."
+  },
+  {
+    "pid": "p183",
+    "start_time": 638.3300170898438,
+    "end_time": 640.3300170898438,
+    "sha1": "5433fa41ff3dac389c2d727d87d22ef3d1a2a26d",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Diga que un Excel es una base de datos, por favor."
+  },
+  {
+    "pid": "p184",
+    "start_time": 640.5700073242188,
+    "end_time": 642.22998046875,
+    "sha1": "ddd96b7cc99ed413978e71d839c3195586ca0b80",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "No, estoy hablando de bases de datos."
+  },
+  {
+    "pid": "p185",
+    "start_time": 642.5499877929688,
+    "end_time": 643.0700073242188,
+    "sha1": "b96b83252323e413cf250716a84d113a532a8035",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Ya, muy bien."
+  },
+  {
+    "pid": "p186",
+    "start_time": 643.5900268554688,
+    "end_time": 645.3699951171875,
+    "sha1": "55906d5ce39ff5b7a7fc41e4caa457f6c383e30e",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "No, yo asumí que estabais hablando de bases de datos."
+  },
+  {
+    "pid": "p187",
+    "start_time": 645.6699829101562,
+    "end_time": 647.489990234375,
+    "sha1": "25befcc879e57544db60f814cb317704c5206dc3",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "No, de un Excel fue de base de datos, dije."
+  },
+  {
+    "pid": "p188",
+    "start_time": 648.22998046875,
+    "end_time": 653.6300048828125,
+    "sha1": "fc3c8671c71bbaea66fdb4b271fad71eb7e5a0a7",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "El paso cero Power BI es que tú agarrís un Excel y lo pongáis bonito en Power BI."
+  },
+  {
+    "pid": "p189",
+    "start_time": 654.7899780273438,
+    "end_time": 661.7100219726562,
+    "sha1": "de87318056b6b3b40b3fbfee50b1b3fefb0974f1",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Después ya empezáis a sacar, la segunda que aprendí fue el tema de varios Excel, sacar como una información."
+  },
+  {
+    "pid": "p190",
+    "start_time": 662.0700073242188,
+    "end_time": 662.3099975585938,
+    "sha1": "4ea4d2957fd39ace29687a11b2dff44592e1732d",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Claro."
+  },
+  {
+    "pid": "p191",
+    "start_time": 662.8800048828125,
+    "end_time": 664.4000244140625,
+    "sha1": "65f849b65a0abd4664ac27b7b0944fd892e4d639",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Y ahora yo voy en la fase de datos."
+  },
+  {
+    "pid": "p192",
+    "start_time": 664.7999877929688,
+    "end_time": 666.1400146484375,
+    "sha1": "737fb138b49f164a2efe0980c627dda75905ac3f",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Pues igual, con Python lo podía hacer, ¿no?"
+  },
+  {
+    "pid": "p193",
+    "start_time": 666.47998046875,
+    "end_time": 667.7999877929688,
+    "sha1": "ca973a2b748bb9a3b3f379c4c81897c8a5d0073f",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Sí, pero yo no puedo usarlo."
+  },
+  {
+    "pid": "p194",
+    "start_time": 668.4400024414062,
+    "end_time": 669.0599975585938,
+    "sha1": "0fb2b3287c174afc6bc2c5d2cbb874608099c4d5",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "O sea, no, no."
+  },
+  {
+    "pid": "p195",
+    "start_time": 669.8800048828125,
+    "end_time": 670.4600219726562,
+    "sha1": "d9a8dd19e0f00276f1a89a61659624cb66a36900",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Por qué no?"
+  },
+  {
+    "pid": "p196",
+    "start_time": 670.9600219726562,
+    "end_time": 675.9199829101562,
+    "sha1": "44e67156543d39bb71325bdf2c55103d7b25f430",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Es que hermano, mi PowerPoint es carísima la licencia pensando de que me voy a tener la red de ratita que te hace todo vos."
+  },
+  {
+    "pid": "p197",
+    "start_time": 676.1400146484375,
+    "end_time": 679.3800048828125,
+    "sha1": "8aff974052a119f7e31e6a0be8b5578f76e5d42b",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Onda, le voy a pedir algo para que te haga el script en Python para que te conecte la fase de datos y está ahí."
+  },
+  {
+    "pid": "p198",
+    "start_time": 682.3400268554688,
+    "end_time": 685.780029296875,
+    "sha1": "5bc38b777432006c342bc05cc8a2a54299b30dbb",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Bueno, no hablen con Simmons, no hablen conmigo."
+  },
+  {
+    "pid": "p199",
+    "start_time": 686.2000122070312,
+    "end_time": 687.260009765625,
+    "sha1": "98c9b1e8c0cfb15957fafe456bfc5955d2d81f0c",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Pues sí, yo tampoco puedo ocupar nada."
+  },
+  {
+    "pid": "p200",
+    "start_time": 688.52001953125,
+    "end_time": 689.7000122070312,
+    "sha1": "ee3ef15dc5aa76ea51712bb7bc10c7b08aa61426",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Sé lo frustrante que es, bueno."
+  },
+  {
+    "pid": "p201",
+    "start_time": 689.9199829101562,
+    "end_time": 690.4199829101562,
+    "sha1": "473eb37b29edeab602f714b92c67dda7150460ef",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Qué pasa, bicho?"
+  },
+  {
+    "pid": "p202",
+    "start_time": 691.5700073242188,
+    "end_time": 692.8300170898438,
+    "sha1": "ae1a810622555d535f1bc30ed3f045d95dc8f4a4",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Oye, tenéis sed, bicho."
+  },
+  {
+    "pid": "p203",
+    "start_time": 695.969970703125,
+    "end_time": 697.989990234375,
+    "sha1": "f660fe8bd2e5ebd84970d2ef8493135b94de01d0",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Y la cosa es que..."
+  },
+  {
+    "pid": "p204",
+    "start_time": 697.989990234375,
+    "end_time": 702.22998046875,
+    "sha1": "bdd66beea246d1cefc2c0411c1146af1aeb3c1d6",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Ahora, por ejemplo, descubrí que hay gráficos que te hacen..."
+  },
+  {
+    "pid": "p205",
+    "start_time": 702.22998046875,
+    "end_time": 703.6699829101562,
+    "sha1": "6b3fb1a35e9889122a76b230dcf61fa118f04bec",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Qué te pasó en el brazo, mi amor?"
+  },
+  {
+    "pid": "p206",
+    "start_time": 703.8499755859375,
+    "end_time": 704.469970703125,
+    "sha1": "c5227c566b0be00be9d5a410319076761a4b3932",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "¿Qué te dejaste?"
+  },
+  {
+    "pid": "p207",
+    "start_time": 704.77001953125,
+    "end_time": 705.989990234375,
+    "sha1": "e963aa756e35c3a2499e789327a58a2db8a0c351",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "En el izquierdo, justo."
+  },
+  {
+    "pid": "p208",
+    "start_time": 706.75,
+    "end_time": 708.3099975585938,
+    "sha1": "e122ea48ae3c500e9d9fd27c1c6cbf3b76f734dd",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Aquí, en toda esta parte, tengo..."
+  },
+  {
+    "pid": "p209",
+    "start_time": 708.3099975585938,
+    "end_time": 709.9099731445312,
+    "sha1": "2e522b3c1450f998679f9f61ba55d4f0f28ca125",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Ah, te apoyaste."
+  },
+  {
+    "pid": "p210",
+    "start_time": 710.0900268554688,
+    "end_time": 711.1900024414062,
+    "sha1": "58c79bffd729686c02460433fab10942fe656712",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Lo más probable es que te apoyaste en algo."
+  },
+  {
+    "pid": "p211",
+    "start_time": 711.3300170898438,
+    "end_time": 713.3499755859375,
+    "sha1": "5f4dea331f08f8e823ceb97de6282c3f848a6815",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Entonces, este fue una bici, anoche."
+  },
+  {
+    "pid": "p212",
+    "start_time": 713.4299926757812,
+    "end_time": 713.6300048828125,
+    "sha1": "64e95566fe71db30f671d3f75fcc9ed816e862c9",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "¿Te acuerdas?"
+  },
+  {
+    "pid": "p213",
+    "start_time": 716.3499755859375,
+    "end_time": 720.010009765625,
+    "sha1": "f468596c9abccb66cb9d31eb136248f6a2ed9065",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Hay unos gráficos que te muestran causalidad, por ejemplo..."
+  },
+  {
+    "pid": "p214",
+    "start_time": 720.010009765625,
+    "end_time": 720.6699829101562,
+    "sha1": "788506b932a3b6d2e1242fc2437b500ff4034b87",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Causalidad?"
+  },
+  {
+    "pid": "p215",
+    "start_time": 721.1500244140625,
+    "end_time": 721.6300048828125,
+    "sha1": "f62511b8db57099c6498f32deb7d7b7263b61448",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Causalidad."
+  },
+  {
+    "pid": "p216",
+    "start_time": 721.75,
+    "end_time": 725.1099853515625,
+    "sha1": "33790e13c7fe212e1eed9d6a4a695f4f80937fba",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Por ejemplo, explica la demora."
+  },
+  {
+    "pid": "p217",
+    "start_time": 725.4099731445312,
+    "end_time": 732.0499877929688,
+    "sha1": "c5d8c5b5ead17105400f4f7bad899a0d431557a3",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Tú le dices, explica por qué tenemos una demora tan alta que está en resolución cuando tenemos este tipo de fallas."
+  },
+  {
+    "pid": "p218",
+    "start_time": 733.3699951171875,
+    "end_time": 736.1900024414062,
+    "sha1": "3c2e0551f019bf053d5cca08d6f3b4ad3478ba79",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y busca la información en la que tú le subiste."
+  },
+  {
+    "pid": "p219",
+    "start_time": 736.8099975585938,
+    "end_time": 742.469970703125,
+    "sha1": "108405b67494a9d639b1d2a87d8a0d9e8c1076e4",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y te dice, ah, la mayor cantidad de días que demoramos en reparar es cuando la falla es de este tipo."
+  },
+  {
+    "pid": "p220",
+    "start_time": 742.6699829101562,
+    "end_time": 743.8099975585938,
+    "sha1": "d9e3e73d6da311b32aee66b9e6287b9fe6897afb",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Oh, qué magia."
+  },
+  {
+    "pid": "p221",
+    "start_time": 761.0599975585938,
+    "end_time": 765.0399780273438,
+    "sha1": "7873a6f8c8f4c2a2389e07352b78bcad2dea2d07",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Por ejemplo en una encontré un resonador que está declarado como un ultrasonido."
+  },
+  {
+    "pid": "p222",
+    "start_time": 768.8400268554688,
+    "end_time": 782.6099853515625,
+    "sha1": "c84cfe3990573958084569254d06fb748e8b3e60",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Porque vi un error era un monto demasiado alto en ultrasonido y dije... ya en chile tenemos 1198"
+  },
+  {
+    "pid": "p223",
+    "start_time": 803.5800170898438,
+    "end_time": 805.1599731445312,
+    "sha1": "9372268a7f198d019984db82e5b8f666d7cba0ac",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "No, pues entonces..."
+  },
+  {
+    "pid": "p224",
+    "start_time": 805.1599731445312,
+    "end_time": 807.0599975585938,
+    "sha1": "b3dd58bb8633870dab1505a4575bc62bfb2f1309",
+    "cluster": "c002",
+    "cluster_label": "Uso de herramientas de datos",
+    "text": "Oye, ¿le tenéis metido intervalos de confianza a las variables?"
+  },
+  {
+    "pid": "p225",
+    "start_time": 809.1799926757812,
+    "end_time": 809.5800170898438,
+    "sha1": "b8b9f1367ad6269845f5ec54d66262066092883f",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "No."
+  },
+  {
+    "pid": "p226",
+    "start_time": 810.02001953125,
+    "end_time": 811.7000122070312,
+    "sha1": "ba38e2e38bebe28d743cd357d9a1d27b56779690",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Esa pues es reútil para cachar los outliers."
+  },
+  {
+    "pid": "p227",
+    "start_time": 812.1799926757812,
+    "end_time": 815.6799926757812,
+    "sha1": "7eaa87f0a0370d5f9189c0a6990d521ed2bfd832",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Sí, pero es que el tema es que aquí me están pidiendo hacer lo más precisa posible."
+  },
+  {
+    "pid": "p228",
+    "start_time": 816.97998046875,
+    "end_time": 820.97998046875,
+    "sha1": "279a9bc76a4eefe8e0ff04552d8975d39552265d",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Pero naturalmente hoy no vienen con un P menor a 0 .5."
+  },
+  {
+    "pid": "p229",
+    "start_time": 821.239990234375,
+    "end_time": 821.52001953125,
+    "sha1": "59fbcc99f96d665a60bdcc9061b7b83c3a819bde",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "No, no."
+  },
+  {
+    "pid": "p230",
+    "start_time": 821.77001953125,
+    "end_time": 842.010009765625,
+    "sha1": "b503e5829fae3ba3472c6ed124558fd79cea6785",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "no se viene súper alto yo creo que eso es mucho eso es muy bien yo creo que la carrera no mostró mucho ese giro así que es importante es que yo me acuerdo que nos dijeron así que no se puede venir a 0 .5 siempre que dejarle a 0 .5 y yo siempre quejalo a ese punto pero nunca viene a ese punto siempre lo viene más alta si voy a poner al lado, ¿cierto?"
+  },
+  {
+    "pid": "p231",
+    "start_time": 844.1300048828125,
+    "end_time": 852.1599731445312,
+    "sha1": "791ac4e02b82f8bba0346c8c23ac7451d26f01db",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "oye, ahí estamos el rato y te esperamos, le veo por un helado vayan pues, ahí te conito Qué sabor?"
+  },
+  {
+    "pid": "p232",
+    "start_time": 854.0399780273438,
+    "end_time": 855.0399780273438,
+    "sha1": "3ee9c61ac88d3ba6cf1d439b03510972e2d08f74",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Qué sabor?"
+  },
+  {
+    "pid": "p233",
+    "start_time": 856.1199951171875,
+    "end_time": 857.0,
+    "sha1": "3ee9c61ac88d3ba6cf1d439b03510972e2d08f74",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Qué sabor?"
+  },
+  {
+    "pid": "p234",
+    "start_time": 857.4400024414062,
+    "end_time": 858.4600219726562,
+    "sha1": "3ee9c61ac88d3ba6cf1d439b03510972e2d08f74",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Qué sabor?"
+  },
+  {
+    "pid": "p235",
+    "start_time": 862.280029296875,
+    "end_time": 863.6199951171875,
+    "sha1": "3ee9c61ac88d3ba6cf1d439b03510972e2d08f74",
+    "cluster": "c000",
+    "cluster_label": "Diálogo informal y variado",
+    "text": "Qué sabor?"
+  },
+  {
+    "pid": "p236",
+    "start_time": 880.6400146484375,
+    "end_time": 882.5,
+    "sha1": "fa86d9e9a6c079e8791d5d0d4f0b40b70d375e1b",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "ah bueno primero antes de contarle la mierda"
+  }
+]

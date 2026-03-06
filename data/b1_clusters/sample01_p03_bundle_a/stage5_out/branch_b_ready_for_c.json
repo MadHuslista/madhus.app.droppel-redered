@@ -1,0 +1,8 @@
+{
+  "branch_b": {
+    "clusters": [],
+    "clusters_index": {},
+    "piece_to_cluster": {}
+  },
+  "notes": "This bundle is intended as an input to Branch C summarization (topic summaries + traceability)."
+}

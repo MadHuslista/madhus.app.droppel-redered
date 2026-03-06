@@ -1,0 +1,20 @@
+{
+  "counts": {
+    "pieces_total": 237,
+    "clusters_total": 3,
+    "pieces_assigned": 179,
+    "pieces_unassigned": 58
+  },
+  "warnings": [
+    "58 pieces are unassigned to any cluster (include-noise disabled)."
+  ],
+  "has_duplicates": false,
+  "duplicates_example": [],
+  "artifacts": {
+    "branch_b_clusters_final.json": "branch_b_clusters_final.json",
+    "piece_to_cluster.json": "piece_to_cluster.json",
+    "clusters_index.json": "clusters_index.json",
+    "pieces_with_clusters.json": "pieces_with_clusters.json",
+    "branch_b_ready_for_c.json": "branch_b_ready_for_c.json"
+  }
+}

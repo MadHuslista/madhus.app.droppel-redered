@@ -1,0 +1,50 @@
+{
+  "c000": {
+    "label": "Diálogo informal y variado",
+    "keyword_signature": "sha1:51b2e6bbbdc9a94f5df852f98e46134c0c955fb2",
+    "top_keywords": [
+      "él",
+      "mal",
+      "bicho",
+      "nativo",
+      "sabor",
+      "qué sabor",
+      "güey",
+      "mucho",
+      "sabor qué",
+      "tienen",
+      "ah",
+      "todo"
+    ],
+    "t_first": 13.300000190734863,
+    "t_last": 863.6199951171875,
+    "t_avg": 374.5915555000305,
+    "span_s": 850.3199949264526,
+    "size_units": 39,
+    "size_pieces": 90
+  },
+  "c001": {
+    "label": "Discusión sobre datos y empresa",
+    "keyword_signature": "sha1:8594dccba2234eecbf659209ec87c3cf0b450859",
+    "top_keywords": [
+      "empresa",
+      "de datos",
+      "datos",
+      "pensando",
+      "excel",
+      "que te",
+      "power bi",
+      "power",
+      "es una",
+      "nosotros",
+      "un día",
+      "un excel"
+    ],
+    "t_first": 28.440000534057617,
+    "t_last": 807.0599975585938,
+    "t_avg": 419.7804354515629,
+    "span_s": 778.6199970245361,
+    "size_units": 38,
+    "size_pieces": 69
+  }
+}

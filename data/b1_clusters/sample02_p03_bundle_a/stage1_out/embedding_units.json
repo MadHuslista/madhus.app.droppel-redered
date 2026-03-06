@@ -1,0 +1,1526 @@
+[
+  {
+    "uid": "u0000",
+    "piece_ids": [
+      "p0"
+    ],
+    "start_time": 0.0,
+    "end_time": 5.460000038146973,
+    "text": "Lo que se centra mucho, o por lo que he visto, se centra mucho con la parte de eléctrica.",
+    "n_pieces": 1,
+    "n_chars": 89,
+    "n_words": 19
+  },
+  {
+    "uid": "u0001",
+    "piece_ids": [
+      "p1"
+    ],
+    "start_time": 6.71999979019165,
+    "end_time": 12.199999809265137,
+    "text": "Esta web lo que hace es una simulación casi de pacientes, o sea, la web es un analizador de bombas de inclusión.",
+    "n_pieces": 1,
+    "n_chars": 112,
+    "n_words": 22
+  },
+  {
+    "uid": "u0002",
+    "piece_ids": [
+      "p2",
+      "p3",
+      "p4"
+    ],
+    "start_time": 13.300000190734863,
+    "end_time": 16.65999984741211,
+    "text": "Permiso, ¿puedo ver las otras preguntas? Sí, dale. Nada de ahí, métete ahí.",
+    "n_pieces": 3,
+    "n_chars": 75,
+    "n_words": 13
+  },
+  {
+    "uid": "u0003",
+    "piece_ids": [
+      "p5",
+      "p6"
+    ],
+    "start_time": 17.420000076293945,
+    "end_time": 23.6200008392334,
+    "text": "Entonces, bueno, ¿qué es lo que pasa? Nosotros tenemos en este momento una tecnología que tiene herramientas polacas, ¿cachai?",
+    "n_pieces": 2,
+    "n_chars": 126,
+    "n_words": 19
+  },
+  {
+    "uid": "u0004",
+    "piece_ids": [
+      "p7",
+      "p8",
+      "p9"
+    ],
+    "start_time": 24.219999313354492,
+    "end_time": 28.020000457763672,
+    "text": "¿Ya? La herramienta es por la que me llenca llanta. Están mal hechas, muy mal.",
+    "n_pieces": 3,
+    "n_chars": 78,
+    "n_words": 15
+  },
+  {
+    "uid": "u0005",
+    "piece_ids": [
+      "p10"
+    ],
+    "start_time": 28.440000534057617,
+    "end_time": 31.0,
+    "text": "Entonces un día dije a mi jefe, oye, ¿cuándo vamos a estandarizar esto?",
+    "n_pieces": 1,
+    "n_chars": 71,
+    "n_words": 13
+  },
+  {
+    "uid": "u0006",
+    "piece_ids": [
+      "p11",
+      "p12"
+    ],
+    "start_time": 31.200000762939453,
+    "end_time": 35.439998626708984,
+    "text": "El otro día. Dije, porque, güey, me dio vergüenza el otro día un cliente me había preguntado, oye, ¿y qué está, güey?",
+    "n_pieces": 2,
+    "n_chars": 117,
+    "n_words": 22
+  },
+  {
+    "uid": "u0007",
+    "piece_ids": [
+      "p13",
+      "p14"
+    ],
+    "start_time": 36.47999954223633,
+    "end_time": 39.15999984741211,
+    "text": "Ya, güey. Oye, por si estar acá, porque no se me está haciendo eso.",
+    "n_pieces": 2,
+    "n_chars": 67,
+    "n_words": 14
+  },
+  {
+    "uid": "u0008",
+    "piece_ids": [
+      "p15",
+      "p16"
+    ],
+    "start_time": 41.20000076293945,
+    "end_time": 45.060001373291016,
+    "text": "Hoy tiene un montón de simuladores buenísimos. Sí, pues, güey, si tiene una pila de güeyes, pues.",
+    "n_pieces": 2,
+    "n_chars": 97,
+    "n_words": 17
+  },
+  {
+    "uid": "u0009",
+    "piece_ids": [
+      "p17"
+    ],
+    "start_time": 45.47999954223633,
+    "end_time": 47.52000045776367,
+    "text": "Por eso le van a hablar bien con la marca y ver qué pasa.",
+    "n_pieces": 1,
+    "n_chars": 57,
+    "n_words": 14
+  },
+  {
+    "uid": "u0010",
+    "piece_ids": [
+      "p18",
+      "p19"
+    ],
+    "start_time": 48.81999969482422,
+    "end_time": 56.939998626708984,
+    "text": "¿Qué es lo que pasa? Este nicho es caro, porque bueno, aquí en Chile, yo sé que está Fluke, que lo tiene DM, que es la empresa chilena que tiene Fluke, que es DM, y eso ya está en la calibración y todo.",
+    "n_pieces": 2,
+    "n_chars": 202,
+    "n_words": 43
+  },
+  {
+    "uid": "u0011",
+    "piece_ids": [
+      "p20",
+      "p21",
+      "p22",
+      "p23"
+    ],
+    "start_time": 57.380001068115234,
+    "end_time": 70.0199966430664,
+    "text": "Y luego está... ¿Cómo se llama? ¿Mediplex? Sí, luego es Mediplex, que es el que trae Rígel Medical, que es como similar a Fluke, pero creo que es un pelín más barato.",
+    "n_pieces": 4,
+    "n_chars": 166,
+    "n_words": 32
+  },
+  {
+    "uid": "u0012",
+    "piece_ids": [
+      "p24",
+      "p25"
+    ],
+    "start_time": 71.12000274658203,
+    "end_time": 77.20999908447266,
+    "text": "Pero esto... Podríamos ver que también me trae el nicho, si son más baratos, los hospitales te van a comprarlos.",
+    "n_pieces": 2,
+    "n_chars": 112,
+    "n_words": 20
+  },
+  {
+    "uid": "u0013",
+    "piece_ids": [
+      "p26"
+    ],
+    "start_time": 77.44999694824219,
+    "end_time": 84.7699966430664,
+    "text": "Es que sí, hospitales y clínicas te la van a comprar, que haga la risa, pero sí como clínicas tipo dos carreras, IMET en Punta Arena.",
+    "n_pieces": 1,
+    "n_chars": 133,
+    "n_words": 26
+  },
+  {
+    "uid": "u0014",
+    "piece_ids": [
+      "p27"
+    ],
+    "start_time": 85.94999694824219,
+    "end_time": 89.8499984741211,
+    "text": "clientes que no sean muy grandes como una alemana que ni cagando te va a meter una huella que no sea flujo.",
+    "n_pieces": 1,
+    "n_chars": 107,
+    "n_words": 22
+  },
+  {
+    "uid": "u0015",
+    "piece_ids": [
+      "p28"
+    ],
+    "start_time": 89.87000274658203,
+    "end_time": 96.80999755859375,
+    "text": "Sí, de hecho es un buen nicho porque hasta ahora esa clínica está forzada a comprar flujo o no?",
+    "n_pieces": 1,
+    "n_chars": 95,
+    "n_words": 19
+  },
+  {
+    "uid": "u0016",
+    "piece_ids": [
+      "p29"
+    ],
+    "start_time": 97.43000030517578,
+    "end_time": 103.55000305175781,
+    "text": "No, la verdad es que en verdad es un estándar tonto porque compra esa huella y de repente ni los usuarios se van a ocupar la mierda.",
+    "n_pieces": 1,
+    "n_chars": 132,
+    "n_words": 27
+  },
+  {
+    "uid": "u0017",
+    "piece_ids": [
+      "p30",
+      "p31"
+    ],
+    "start_time": 103.79000091552734,
+    "end_time": 109.66999816894531,
+    "text": "Y eso pasa mucho en Alemania. No, y lo mejor es que estas hueas como son más low cost puedes vendárselo hasta universidades.",
+    "n_pieces": 2,
+    "n_chars": 124,
+    "n_words": 23
+  },
+  {
+    "uid": "u0018",
+    "piece_ids": [
+      "p32"
+    ],
+    "start_time": 110.01000213623047,
+    "end_time": 112.7300033569336,
+    "text": "Es que eso estaba pensando, como que nosotros podríamos ser el segundo tier.",
+    "n_pieces": 1,
+    "n_chars": 76,
+    "n_words": 13
+  },
+  {
+    "uid": "u0019",
+    "piece_ids": [
+      "p33",
+      "p34"
+    ],
+    "start_time": 113.16999816894531,
+    "end_time": 119.20999908447266,
+    "text": "Porque siempre hay tier en los mercados. Si Fluke es el tier 1, no todo el mercado va a estar apuntando a ser el tier 1.",
+    "n_pieces": 2,
+    "n_chars": 120,
+    "n_words": 26
+  },
+  {
+    "uid": "u0020",
+    "piece_ids": [
+      "p35"
+    ],
+    "start_time": 119.58999633789062,
+    "end_time": 123.6500015258789,
+    "text": "Entonces, si nosotros necesitamos el tier 2 o el tier 3, tenemos un mercado bastante grande.",
+    "n_pieces": 1,
+    "n_chars": 92,
+    "n_words": 16
+  },
+  {
+    "uid": "u0021",
+    "piece_ids": [
+      "p36",
+      "p37"
+    ],
+    "start_time": 123.75,
+    "end_time": 127.02999877929688,
+    "text": "Bueno, entonces, ¿qué es lo que me contó mi jefe? De que a esta güey nadie lo trae en Chile.",
+    "n_pieces": 2,
+    "n_chars": 92,
+    "n_words": 20
+  },
+  {
+    "uid": "u0022",
+    "piece_ids": [
+      "p38",
+      "p39"
+    ],
+    "start_time": 127.55000305175781,
+    "end_time": 130.11000061035156,
+    "text": "Entonces yo le dije, ¿pero y que estoy dispiando a comprarlo? Me dijo, no, que alguien lo traiga en Chile.",
+    "n_pieces": 2,
+    "n_chars": 106,
+    "n_words": 20
+  },
+  {
+    "uid": "u0023",
+    "piece_ids": [
+      "p40",
+      "p41"
+    ],
+    "start_time": 130.7899932861328,
+    "end_time": 139.27000427246094,
+    "text": "Y yo... Entonces, lo que yo tengo entendido, porque creo que una vez le pregunté, me dijo, no, porque lo que necesitamos es que nos den factura, creo.",
+    "n_pieces": 2,
+    "n_chars": 150,
+    "n_words": 28
+  },
+  {
+    "uid": "u0024",
+    "piece_ids": [
+      "p42",
+      "p43"
+    ],
+    "start_time": 139.41000366210938,
+    "end_time": 142.14999389648438,
+    "text": "Eso es lo único que necesite. Entonces, ¿qué tiene esa empresa al final?",
+    "n_pieces": 2,
+    "n_chars": 72,
+    "n_words": 13
+  },
+  {
+    "uid": "u0025",
+    "piece_ids": [
+      "p44",
+      "p45"
+    ],
+    "start_time": 143.13999938964844,
+    "end_time": 147.25999450683594,
+    "text": "¿Melón? Eh, para el bicho, pero el bicho se puede sentar aquí porque si no...",
+    "n_pieces": 2,
+    "n_chars": 77,
+    "n_words": 15
+  },
+  {
+    "uid": "u0026",
+    "piece_ids": [
+      "p46"
+    ],
+    "start_time": 147.25999450683594,
+    "end_time": 149.60000610351562,
+    "text": "No sé, estoy sentado acá por mientras, pero cuando llegue el bicho...",
+    "n_pieces": 1,
+    "n_chars": 69,
+    "n_words": 12
+  },
+  {
+    "uid": "u0027",
+    "piece_ids": [
+      "p47",
+      "p48"
+    ],
+    "start_time": 149.60000610351562,
+    "end_time": 151.55999755859375,
+    "text": "¿Esta es de melón? Ah, esa es de melón, ¿esta es de...?",
+    "n_pieces": 2,
+    "n_chars": 55,
+    "n_words": 12
+  },
+  {
+    "uid": "u0028",
+    "piece_ids": [
+      "p49",
+      "p50",
+      "p51",
+      "p52"
+    ],
+    "start_time": 151.55999755859375,
+    "end_time": 154.39999389648438,
+    "text": "Es limonada. Ah, y esta es la mía. ¿Limonada menta? Sí, por favor.",
+    "n_pieces": 4,
+    "n_chars": 66,
+    "n_words": 13
+  },
+  {
+    "uid": "u0029",
+    "piece_ids": [
+      "p53",
+      "p54",
+      "p55",
+      "p56"
+    ],
+    "start_time": 154.60000610351562,
+    "end_time": 160.5800018310547,
+    "text": "No, la de menta mía. La jengibre es la tuya. Gracias. ¿Tienes que endulzarla así?",
+    "n_pieces": 4,
+    "n_chars": 81,
+    "n_words": 15
+  },
+  {
+    "uid": "u0030",
+    "piece_ids": [
+      "p57",
+      "p58",
+      "p59",
+      "p60"
+    ],
+    "start_time": 161.16000366210938,
+    "end_time": 168.94000244140625,
+    "text": "¿Qué? ¿Puede frutilla? Eh, ahí ya. Gracias.",
+    "n_pieces": 4,
+    "n_chars": 43,
+    "n_words": 7
+  },
+  {
+    "uid": "u0031",
+    "piece_ids": [
+      "p61",
+      "p62",
+      "p63"
+    ],
+    "start_time": 169.33999633789062,
+    "end_time": 174.69000244140625,
+    "text": "De nada. Si he hecho un bolada... Después corremos la mesa un poco más para acá.",
+    "n_pieces": 3,
+    "n_chars": 80,
+    "n_words": 16
+  },
+  {
+    "uid": "u0032",
+    "piece_ids": [
+      "p64",
+      "p65"
+    ],
+    "start_time": 174.8699951171875,
+    "end_time": 177.8300018310547,
+    "text": "Es que el sol ahí me llega. Y espérate, ¿empresa en un día?",
+    "n_pieces": 2,
+    "n_chars": 59,
+    "n_words": 13
+  },
+  {
+    "uid": "u0033",
+    "piece_ids": [
+      "p66",
+      "p67"
+    ],
+    "start_time": 178.9499969482422,
+    "end_time": 182.75,
+    "text": "Que eso podría ser, cacho. Eso yo sé que te pueden mentir con factura rápido.",
+    "n_pieces": 2,
+    "n_chars": 77,
+    "n_words": 15
+  },
+  {
+    "uid": "u0034",
+    "piece_ids": [
+      "p68"
+    ],
+    "start_time": 182.91000366210938,
+    "end_time": 189.57000732421875,
+    "text": "Igual tengo un amigo que sabe dar toda la contabilidad y así nos puede ayudar a ver qué onda ahí.",
+    "n_pieces": 1,
+    "n_chars": 97,
+    "n_words": 20
+  },
+  {
+    "uid": "u0035",
+    "piece_ids": [
+      "p69",
+      "p70"
+    ],
+    "start_time": 190.4499969482422,
+    "end_time": 221.77999877929688,
+    "text": "Pero bueno, esa es la oportunidad. Y lo que estoy viendo es como, claro, esto se trae y a lo mejor podemos hacer una empresa de ese estilo, como traer solamente cosas... analizadores porque son chiquititos los analizadores porque son para bombas de infusión quizás esta no sale más barato para importarles que un buen viaje y las traigan una maleta de hecho sí que alguien se pide vacaciones que quiera allá me voy con una mochila y con el banco ya tengo con el banco y me dan una maleta gratis de vuelta",
+    "n_pieces": 2,
+    "n_chars": 504,
+    "n_words": 94
+  },
+  {
+    "uid": "u0036",
+    "piece_ids": [
+      "p71",
+      "p72"
+    ],
+    "start_time": 228.44000244140625,
+    "end_time": 233.63999938964844,
+    "text": "El tema es hablar con la marca. Claro, habría que hacer la presentación.",
+    "n_pieces": 2,
+    "n_chars": 72,
+    "n_words": 13
+  },
+  {
+    "uid": "u0037",
+    "piece_ids": [
+      "p73"
+    ],
+    "start_time": 234.3800048828125,
+    "end_time": 238.63999938964844,
+    "text": "Como decirle, como, oye, mira, si, oye, que eres una empresa que queremos partirlo aquí en Chile con esto.",
+    "n_pieces": 1,
+    "n_chars": 106,
+    "n_words": 19
+  },
+  {
+    "uid": "u0038",
+    "piece_ids": [
+      "p74",
+      "p75"
+    ],
+    "start_time": 239.4199981689453,
+    "end_time": 242.39999389648438,
+    "text": "Nos interesa tu marca y listo. Habría que armar el pitch, ¿no?",
+    "n_pieces": 2,
+    "n_chars": 62,
+    "n_words": 12
+  },
+  {
+    "uid": "u0039",
+    "piece_ids": [
+      "p76",
+      "p77"
+    ],
+    "start_time": 242.66000366210938,
+    "end_time": 246.5399932861328,
+    "text": "Sí, y como posicionar esa marca en Chile. No podemos perder más tiempo, tenemos que hacerlo esta semana.",
+    "n_pieces": 2,
+    "n_chars": 104,
+    "n_words": 18
+  },
+  {
+    "uid": "u0040",
+    "piece_ids": [
+      "p78",
+      "p79",
+      "p80"
+    ],
+    "start_time": 247.13999938964844,
+    "end_time": 253.60000610351562,
+    "text": "¿Ya? ¿Por qué decir eso? Porque hay que aprovechar el infinito que necesitamos del primer cliente.",
+    "n_pieces": 3,
+    "n_chars": 98,
+    "n_words": 16
+  },
+  {
+    "uid": "u0041",
+    "piece_ids": [
+      "p81",
+      "p82"
+    ],
+    "start_time": 254.36000061035156,
+    "end_time": 260.7799987792969,
+    "text": "Pero un cliente seguro, quizás podría mandarme unas muestras Y esperar un poco más sería arriesgar a ese cliente, ya perfecto",
+    "n_pieces": 2,
+    "n_chars": 125,
+    "n_words": 21
+  },
+  {
+    "uid": "u0042",
+    "piece_ids": [
+      "p83",
+      "p84"
+    ],
+    "start_time": 260.7799987792969,
+    "end_time": 266.1199951171875,
+    "text": "Que es un input seguro Sí, pues por lo menos tenerlo y ya...",
+    "n_pieces": 2,
+    "n_chars": 60,
+    "n_words": 13
+  },
+  {
+    "uid": "u0043",
+    "piece_ids": [
+      "p85"
+    ],
+    "start_time": 266.1199951171875,
+    "end_time": 268.8999938964844,
+    "text": "Sí, pues yo también le puedo preguntar a mi jefe que tan urgente lo quiere",
+    "n_pieces": 1,
+    "n_chars": 74,
+    "n_words": 15
+  },
+  {
+    "uid": "u0044",
+    "piece_ids": [
+      "p86",
+      "p87"
+    ],
+    "start_time": 268.8999938964844,
+    "end_time": 274.7200012207031,
+    "text": "De repente me dice sí, de repente... Ya, eso es una buena pregunta, porque en realidad lo está pensando para el próximo año",
+    "n_pieces": 2,
+    "n_chars": 123,
+    "n_words": 23
+  },
+  {
+    "uid": "u0045",
+    "piece_ids": [
+      "p88",
+      "p89",
+      "p90"
+    ],
+    "start_time": 274.7200012207031,
+    "end_time": 278.739990234375,
+    "text": "Sí Y eso nos cagaría Oye, ¿sabes que en verdad yo estaba pensando justo en eso?",
+    "n_pieces": 3,
+    "n_chars": 79,
+    "n_words": 16
+  },
+  {
+    "uid": "u0046",
+    "piece_ids": [
+      "p91",
+      "p92",
+      "p93"
+    ],
+    "start_time": 278.8399963378906,
+    "end_time": 284.42999267578125,
+    "text": "¿Cuál es el gesto? ¿Cuál es el gesto? Si no, yo de hecho no hubiese podido hablar con él, ningún problema.",
+    "n_pieces": 3,
+    "n_chars": 106,
+    "n_words": 21
+  },
+  {
+    "uid": "u0047",
+    "piece_ids": [
+      "p94"
+    ],
+    "start_time": 284.5299987792969,
+    "end_time": 287.510009765625,
+    "text": "Y le pregunta ahí, ¿sabes que estamos pensando en poner una empresa?",
+    "n_pieces": 1,
+    "n_chars": 68,
+    "n_words": 12
+  },
+  {
+    "uid": "u0048",
+    "piece_ids": [
+      "p95",
+      "p96"
+    ],
+    "start_time": 287.69000244140625,
+    "end_time": 293.3299865722656,
+    "text": "Y ¿sabes que estamos buscando un producto? Y podríamos agregar el... agregarlo, no le digáis que hacer sobre eso.",
+    "n_pieces": 2,
+    "n_chars": 113,
+    "n_words": 19
+  },
+  {
+    "uid": "u0049",
+    "piece_ids": [
+      "p97",
+      "p98"
+    ],
+    "start_time": 293.8299865722656,
+    "end_time": 298.07000732421875,
+    "text": "Agregar este tema de los analizadores. ¿Para cuánto más o menos lo estás estimando tú?",
+    "n_pieces": 2,
+    "n_chars": 86,
+    "n_words": 15
+  },
+  {
+    "uid": "u0050",
+    "piece_ids": [
+      "p99"
+    ],
+    "start_time": 298.69000244140625,
+    "end_time": 303.3900146484375,
+    "text": "Ya, porque nosotros estamos pensando el próximo mes ir a Estados Unidos a dar unas cositas.",
+    "n_pieces": 1,
+    "n_chars": 91,
+    "n_words": 16
+  },
+  {
+    "uid": "u0051",
+    "piece_ids": [
+      "p100",
+      "p101"
+    ],
+    "start_time": 306.2900085449219,
+    "end_time": 317.6400146484375,
+    "text": "Y si te dice, ya el próximo mes, o hagámoslo ahora. Si quieren, como yo hablo bien inglés, me contacto con ellos, tenemos una videollamada y nos fijé Estados Unidos.",
+    "n_pieces": 2,
+    "n_chars": 165,
+    "n_words": 30
+  },
+  {
+    "uid": "u0052",
+    "piece_ids": [
+      "p102"
+    ],
+    "start_time": 318.3800048828125,
+    "end_time": 322.8399963378906,
+    "text": "Y de hecho, más allá de hablar bien inglés, ¿tú tenés las habilidades comunicacionales para ese tipo de epilúcio?",
+    "n_pieces": 1,
+    "n_chars": 113,
+    "n_words": 19
+  },
+  {
+    "uid": "u0053",
+    "piece_ids": [
+      "p103",
+      "p104",
+      "p105"
+    ],
+    "start_time": 324.239990234375,
+    "end_time": 326.94000244140625,
+    "text": "¿Tú igual le ponías todo el inglés? Sí. Yo lo pongo en tres veces.",
+    "n_pieces": 3,
+    "n_chars": 66,
+    "n_words": 14
+  },
+  {
+    "uid": "u0054",
+    "piece_ids": [
+      "p106"
+    ],
+    "start_time": 327.1600036621094,
+    "end_time": 331.4599914550781,
+    "text": "Hablar inglés no tengo problema, pero lo que a mí no me están a ver todavía es que está ahí ese tipo de pitch.",
+    "n_pieces": 1,
+    "n_chars": 110,
+    "n_words": 24
+  },
+  {
+    "uid": "u0055",
+    "piece_ids": [
+      "p107",
+      "p108"
+    ],
+    "start_time": 331.5,
+    "end_time": 338.8800048828125,
+    "text": "No, para mí el nativo me mata un poco. O sea, te digo, de esa conversación que podemos tener, vamos a entender el 80%, 50%.",
+    "n_pieces": 2,
+    "n_chars": 123,
+    "n_words": 25
+  },
+  {
+    "uid": "u0056",
+    "piece_ids": [
+      "p109",
+      "p110",
+      "p111"
+    ],
+    "start_time": 339.260009765625,
+    "end_time": 346.760009765625,
+    "text": "Ya. Porque el nativo me mata harto. No, yo estoy acostumbrado porque el mío incluso es nativo y es nativo a francesado.",
+    "n_pieces": 3,
+    "n_chars": 119,
+    "n_words": 22
+  },
+  {
+    "uid": "u0057",
+    "piece_ids": [
+      "p112",
+      "p113",
+      "p114"
+    ],
+    "start_time": 347.1000061035156,
+    "end_time": 352.3399963378906,
+    "text": "A francesado. Me hiciste acordar de mi clase de Power BI. Ya, ¿por qué?",
+    "n_pieces": 3,
+    "n_chars": 71,
+    "n_words": 14
+  },
+  {
+    "uid": "u0058",
+    "piece_ids": [
+      "p115",
+      "p116"
+    ],
+    "start_time": 352.3399963378906,
+    "end_time": 357.8699951171875,
+    "text": "Porque era un indie. Pero los indios tienen esa huella que igual tienen como un nativo.",
+    "n_pieces": 2,
+    "n_chars": 87,
+    "n_words": 16
+  },
+  {
+    "uid": "u0059",
+    "piece_ids": [
+      "p117",
+      "p118"
+    ],
+    "start_time": 358.0299987792969,
+    "end_time": 366.04998779296875,
+    "text": "Pero es más extraño que la mía. No, fellas, are going to see this issue that we have here with your companions.",
+    "n_pieces": 2,
+    "n_chars": 111,
+    "n_words": 22
+  },
+  {
+    "uid": "u0060",
+    "piece_ids": [
+      "p119"
+    ],
+    "start_time": 367.57000732421875,
+    "end_time": 369.9100036621094,
+    "text": "Pero sé que uno lo entiende re bien, me da risa eso.",
+    "n_pieces": 1,
+    "n_chars": 52,
+    "n_words": 12
+  },
+  {
+    "uid": "u0061",
+    "piece_ids": [
+      "p120"
+    ],
+    "start_time": 370.45001220703125,
+    "end_time": 375.1499938964844,
+    "text": "Es que como que marca muy bien las palabras en inglés de alguna manera muy parecida al español.",
+    "n_pieces": 1,
+    "n_chars": 95,
+    "n_words": 18
+  },
+  {
+    "uid": "u0062",
+    "piece_ids": [
+      "p121"
+    ],
+    "start_time": 376.04998779296875,
+    "end_time": 378.8900146484375,
+    "text": "¿Sabes cuál es el único problema de esas cosas que me decía una persona antes?",
+    "n_pieces": 1,
+    "n_chars": 78,
+    "n_words": 15
+  },
+  {
+    "uid": "u0063",
+    "piece_ids": [
+      "p122"
+    ],
+    "start_time": 378.9700012207031,
+    "end_time": 389.0899963378906,
+    "text": "Que cuando te acostumbras mucho a ese inglés, tu inglés empieza a empeorar porque te acuerdas, te empiezas a entender palabras que de verdad no se pronuncian así, pero las entiendes porque estás tú también estudiando inglés y tu inglés se echa a perder.",
+    "n_pieces": 1,
+    "n_chars": 253,
+    "n_words": 44
+  },
+  {
+    "uid": "u0064",
+    "piece_ids": [
+      "p123"
+    ],
+    "start_time": 389.5899963378906,
+    "end_time": 394.04998779296875,
+    "text": "Y me pasaba mucho que Menon, que era un chino que estaba ahí, él hablaba inglés pero hablaba mal.",
+    "n_pieces": 1,
+    "n_chars": 97,
+    "n_words": 19
+  },
+  {
+    "uid": "u0065",
+    "piece_ids": [
+      "p124"
+    ],
+    "start_time": 394.54998779296875,
+    "end_time": 399.45001220703125,
+    "text": "Porque yo lo entendía todo, pero él decía, oye Menon lo entiende todo, me decía sí, pero no te acostumbría él porque él habla mal.",
+    "n_pieces": 1,
+    "n_chars": 130,
+    "n_words": 25
+  },
+  {
+    "uid": "u0066",
+    "piece_ids": [
+      "p125"
+    ],
+    "start_time": 399.7900085449219,
+    "end_time": 403.4100036621094,
+    "text": "Él pronuncia mal, entonces, claro, tú lo entiendes porque estás recién aprendiendo.",
+    "n_pieces": 1,
+    "n_chars": 83,
+    "n_words": 12
+  },
+  {
+    "uid": "u0067",
+    "piece_ids": [
+      "p126"
+    ],
+    "start_time": 403.6300048828125,
+    "end_time": 435.510009765625,
+    "text": "Ah, pero es que... pero igual hay gente que tiene mal inglés por defecto por ejemplo los alemanes como que no les sale y hablen nomás por lo que tienen claro y aparte todo es como que han estudiado demasiado tienen un vocabulario muy amplio en inglés pero el acento como que les vale si como capucca o el otro día vi un streamer vi un streamer como puteando el alemán fue maravilloso fue maravilloso mi amiga Polangelo que vive en Alemania todavía no se acostumbra ¿Qué va?",
+    "n_pieces": 1,
+    "n_chars": 473,
+    "n_words": 88
+  },
+  {
+    "uid": "u0068",
+    "piece_ids": [
+      "p127",
+      "p128",
+      "p129"
+    ],
+    "start_time": 435.6099853515625,
+    "end_time": 440.57000732421875,
+    "text": "¿Va desde su terça cañón ya? Nada, de más. Y que tampoco debe ser simple, otra manera de pensar en el idioma.",
+    "n_pieces": 3,
+    "n_chars": 109,
+    "n_words": 22
+  },
+  {
+    "uid": "u0069",
+    "piece_ids": [
+      "p130"
+    ],
+    "start_time": 440.92999267578125,
+    "end_time": 444.8500061035156,
+    "text": "Es que me dice que el tema de los pronombres y los artículos es un culo.",
+    "n_pieces": 1,
+    "n_chars": 72,
+    "n_words": 16
+  },
+  {
+    "uid": "u0070",
+    "piece_ids": [
+      "p131",
+      "p132",
+      "p133"
+    ],
+    "start_time": 445.3500061035156,
+    "end_time": 456.80999755859375,
+    "text": "Tienen una tabla. El Miss Gender es normal allá. Hacían Miss Gender antes que fuera popular.",
+    "n_pieces": 3,
+    "n_chars": 92,
+    "n_words": 16
+  },
+  {
+    "uid": "u0071",
+    "piece_ids": [
+      "p134",
+      "p135",
+      "p136"
+    ],
+    "start_time": 458.57000732421875,
+    "end_time": 461.8299865722656,
+    "text": "Antes que fuera mainstream. Ya, pues entonces hagamos eso, ¿les parece? ¿Todo el rato?",
+    "n_pieces": 3,
+    "n_chars": 86,
+    "n_words": 14
+  },
+  {
+    "uid": "u0072",
+    "piece_ids": [
+      "p137",
+      "p138"
+    ],
+    "start_time": 462.1300048828125,
+    "end_time": 465.8900146484375,
+    "text": "Entonces el Calle te dice sí. Y hacemos la empresa en un día",
+    "n_pieces": 2,
+    "n_chars": 60,
+    "n_words": 13
+  },
+  {
+    "uid": "u0073",
+    "piece_ids": [
+      "p139",
+      "p140"
+    ],
+    "start_time": 465.8900146484375,
+    "end_time": 472.2099914550781,
+    "text": "¿Qué es lo que más nos conviene? Es que si no tenéis que...",
+    "n_pieces": 2,
+    "n_chars": 59,
+    "n_words": 13
+  },
+  {
+    "uid": "u0074",
+    "piece_ids": [
+      "p141"
+    ],
+    "start_time": 472.2099914550781,
+    "end_time": 476.5899963378906,
+    "text": "Mira, la diferencia entre hacerle a la empresa en un día es una página web del servicio impuesto interno",
+    "n_pieces": 1,
+    "n_chars": 104,
+    "n_words": 19
+  },
+  {
+    "uid": "u0075",
+    "piece_ids": [
+      "p142"
+    ],
+    "start_time": 476.5899963378906,
+    "end_time": 480.8299865722656,
+    "text": "Si no tenéis que ir al servicio impuesto interno y te cobran todos los costos notariales y todo lo que coño",
+    "n_pieces": 1,
+    "n_chars": 107,
+    "n_words": 21
+  },
+  {
+    "uid": "u0076",
+    "piece_ids": [
+      "p143",
+      "p144"
+    ],
+    "start_time": 480.8299865722656,
+    "end_time": 488.95001220703125,
+    "text": "Ya mira, los locos están en California Y podéis pagar entre 500 lucas y un millón",
+    "n_pieces": 2,
+    "n_chars": 81,
+    "n_words": 16
+  },
+  {
+    "uid": "u0077",
+    "piece_ids": [
+      "p145",
+      "p146"
+    ],
+    "start_time": 488.95001220703125,
+    "end_time": 494.20001220703125,
+    "text": "O sea, más que pagar, en declarar Como eso, como acción básica de la empresa.",
+    "n_pieces": 2,
+    "n_chars": 77,
+    "n_words": 15
+  },
+  {
+    "uid": "u0078",
+    "piece_ids": [
+      "p147",
+      "p148",
+      "p149"
+    ],
+    "start_time": 494.44000244140625,
+    "end_time": 505.3800048828125,
+    "text": "¿Cachai? Nosotros empezamos Pablo Vega, Nico Chapagase y Loro Ginosa. Constituyen como la SPA, que es una sociedad por acciones.",
+    "n_pieces": 3,
+    "n_chars": 128,
+    "n_words": 20
+  },
+  {
+    "uid": "u0079",
+    "piece_ids": [
+      "p150",
+      "p151"
+    ],
+    "start_time": 506.82000732421875,
+    "end_time": 512.6799926757812,
+    "text": "XYZ y todos pusieron en total un millón. Y ese es como el capital de inversión inicial.",
+    "n_pieces": 2,
+    "n_chars": 87,
+    "n_words": 17
+  },
+  {
+    "uid": "u0080",
+    "piece_ids": [
+      "p152"
+    ],
+    "start_time": 512.9199829101562,
+    "end_time": 515.7999877929688,
+    "text": "A ver si tú le vayas a pasar más platos después, ya voy a tu guía.",
+    "n_pieces": 1,
+    "n_chars": 66,
+    "n_words": 16
+  },
+  {
+    "uid": "u0081",
+    "piece_ids": [
+      "p153",
+      "p154",
+      "p155",
+      "p156"
+    ],
+    "start_time": 516.1599731445312,
+    "end_time": 524.6400146484375,
+    "text": "¡Claro! ¡Aca, bicho! ¡A la sombra! Gracias.",
+    "n_pieces": 4,
+    "n_chars": 43,
+    "n_words": 7
+  },
+  {
+    "uid": "u0082",
+    "piece_ids": [
+      "p157",
+      "p158",
+      "p159"
+    ],
+    "start_time": 524.9600219726562,
+    "end_time": 532.0800170898438,
+    "text": "Vamos por el rato. Gracias, Luis. A Estados Unidos nos vamos por 300 lucas.",
+    "n_pieces": 3,
+    "n_chars": 75,
+    "n_words": 14
+  },
+  {
+    "uid": "u0083",
+    "piece_ids": [
+      "p160",
+      "p161",
+      "p162"
+    ],
+    "start_time": 532.8800048828125,
+    "end_time": 539.3599853515625,
+    "text": "Terrible low cost. Estamos hablando de negocio. Sí, ese es el tema.",
+    "n_pieces": 3,
+    "n_chars": 67,
+    "n_words": 12
+  },
+  {
+    "uid": "u0084",
+    "piece_ids": [
+      "p163",
+      "p164"
+    ],
+    "start_time": 539.52001953125,
+    "end_time": 545.9199829101562,
+    "text": "También está low cost. Te vais con low cost por 300 lucas, la pasas como la...",
+    "n_pieces": 2,
+    "n_chars": 78,
+    "n_words": 16
+  },
+  {
+    "uid": "u0085",
+    "piece_ids": [
+      "p165",
+      "p166",
+      "p167",
+      "p168"
+    ],
+    "start_time": 545.9199829101562,
+    "end_time": 552.0,
+    "text": "Pero... Somos jóvenes. Y yo, por ejemplo, tengo la esta. La tengo vigente por dos años.",
+    "n_pieces": 4,
+    "n_chars": 87,
+    "n_words": 16
+  },
+  {
+    "uid": "u0086",
+    "piece_ids": [
+      "p169",
+      "p170",
+      "p171"
+    ],
+    "start_time": 552.0599975585938,
+    "end_time": 555.8400268554688,
+    "text": "La visa waiver. Oh, ya. La tengo vigente por dos años, entonces...",
+    "n_pieces": 3,
+    "n_chars": 66,
+    "n_words": 12
+  },
+  {
+    "uid": "u0087",
+    "piece_ids": [
+      "p172",
+      "p173",
+      "p174"
+    ],
+    "start_time": 555.8400268554688,
+    "end_time": 560.5399780273438,
+    "text": "Ah, pero también por... Por Japón, entonces... ¿Ahora está más difícil sacarla?",
+    "n_pieces": 3,
+    "n_chars": 79,
+    "n_words": 12
+  },
+  {
+    "uid": "u0088",
+    "piece_ids": [
+      "p175",
+      "p176",
+      "p177"
+    ],
+    "start_time": 561.2000122070312,
+    "end_time": 566.0399780273438,
+    "text": "Sí, po. Ahora está más difícil sacarla. Primero está más cara y segundo te piden más cosas.",
+    "n_pieces": 3,
+    "n_chars": 91,
+    "n_words": 17
+  },
+  {
+    "uid": "u0089",
+    "piece_ids": [
+      "p178"
+    ],
+    "start_time": 566.8200073242188,
+    "end_time": 570.739990234375,
+    "text": "¿Y van a probar pronto quizás eso de que te tienes que empezar a reasociar?",
+    "n_pieces": 1,
+    "n_chars": 75,
+    "n_words": 15
+  },
+  {
+    "uid": "u0090",
+    "piece_ids": [
+      "p179",
+      "p180",
+      "p181"
+    ],
+    "start_time": 571.280029296875,
+    "end_time": 601.0800170898438,
+    "text": "Hay que pasar incluso, creo que... Contactas de tu familia. ¿Hay alguna idea? de que se puede registrar los correos, no se si eso lo voy a poner pero alguien se le ocurrió ya como que a usted le esta preguntando a ChatGPT de hecho lo traeré, lo puse hoy y dame una forma rápida de instalar bomba y me la puse sin infusión y me la mando a la mierda, entonces me llama la pb no, porque tenes que ocupar dips para eso, los chinos si o cloud, tambien, tambien pero por que tu preferis copilot o ChatGPT?",
+    "n_pieces": 3,
+    "n_chars": 499,
+    "n_words": 99
+  },
+  {
+    "uid": "u0091",
+    "piece_ids": [
+      "p182"
+    ],
+    "start_time": 601.6199951171875,
+    "end_time": 638.3300170898438,
+    "text": "lo que pasa es que yo en la pega tengo copilot entonces lo que más uso es Copilot porque como dice el entorno seguro, el empresarial pero al fin y al cabo es como lo mismo para lo que uno ocupa o sea que yo lo ocupo más que nada como redactame bien eso no yo también eso que me redacte de repente cuando tengo muchos correos que me haga un resumen de los correos y ahora lo estoy usando para Power BI por ejemplo es que ya voy en el siguiente paso ya no estoy mostrándote el dashboard de un Excel que se va actualizando sino que estoy juntando varios pasos de datos Y le estoy diciendo cómo puedo de esta información, por ejemplo, sacar cuál es la causa.",
+    "n_pieces": 1,
+    "n_chars": 654,
+    "n_words": 130
+  },
+  {
+    "uid": "u0092",
+    "piece_ids": [
+      "p183",
+      "p184"
+    ],
+    "start_time": 638.3300170898438,
+    "end_time": 642.22998046875,
+    "text": "Diga que un Excel es una base de datos, por favor. No, estoy hablando de bases de datos.",
+    "n_pieces": 2,
+    "n_chars": 88,
+    "n_words": 18
+  },
+  {
+    "uid": "u0093",
+    "piece_ids": [
+      "p185",
+      "p186"
+    ],
+    "start_time": 642.5499877929688,
+    "end_time": 645.3699951171875,
+    "text": "Ya, muy bien. No, yo asumí que estabais hablando de bases de datos.",
+    "n_pieces": 2,
+    "n_chars": 67,
+    "n_words": 13
+  },
+  {
+    "uid": "u0094",
+    "piece_ids": [
+      "p187",
+      "p188"
+    ],
+    "start_time": 645.6699829101562,
+    "end_time": 653.6300048828125,
+    "text": "No, de un Excel fue de base de datos, dije. El paso cero Power BI es que tú agarrís un Excel y lo pongáis bonito en Power BI.",
+    "n_pieces": 2,
+    "n_chars": 125,
+    "n_words": 28
+  },
+  {
+    "uid": "u0095",
+    "piece_ids": [
+      "p189"
+    ],
+    "start_time": 654.7899780273438,
+    "end_time": 661.7100219726562,
+    "text": "Después ya empezáis a sacar, la segunda que aprendí fue el tema de varios Excel, sacar como una información.",
+    "n_pieces": 1,
+    "n_chars": 108,
+    "n_words": 19
+  },
+  {
+    "uid": "u0096",
+    "piece_ids": [
+      "p190",
+      "p191",
+      "p192"
+    ],
+    "start_time": 662.0700073242188,
+    "end_time": 666.1400146484375,
+    "text": "Claro. Y ahora yo voy en la fase de datos. Pues igual, con Python lo podía hacer, ¿no?",
+    "n_pieces": 3,
+    "n_chars": 86,
+    "n_words": 18
+  },
+  {
+    "uid": "u0097",
+    "piece_ids": [
+      "p193",
+      "p194",
+      "p195"
+    ],
+    "start_time": 666.47998046875,
+    "end_time": 670.4600219726562,
+    "text": "Sí, pero yo no puedo usarlo. O sea, no, no. ¿Por qué no?",
+    "n_pieces": 3,
+    "n_chars": 56,
+    "n_words": 13
+  },
+  {
+    "uid": "u0098",
+    "piece_ids": [
+      "p196"
+    ],
+    "start_time": 670.9600219726562,
+    "end_time": 675.9199829101562,
+    "text": "Es que hermano, mi PowerPoint es carísima la licencia pensando de que me voy a tener la red de ratita que te hace todo vos.",
+    "n_pieces": 1,
+    "n_chars": 123,
+    "n_words": 25
+  },
+  {
+    "uid": "u0099",
+    "piece_ids": [
+      "p197"
+    ],
+    "start_time": 676.1400146484375,
+    "end_time": 679.3800048828125,
+    "text": "Onda, le voy a pedir algo para que te haga el script en Python para que te conecte la fase de datos y está ahí.",
+    "n_pieces": 1,
+    "n_chars": 111,
+    "n_words": 25
+  },
+  {
+    "uid": "u0100",
+    "piece_ids": [
+      "p198",
+      "p199"
+    ],
+    "start_time": 682.3400268554688,
+    "end_time": 687.260009765625,
+    "text": "Bueno, no hablen con Simmons, no hablen conmigo. Pues sí, yo tampoco puedo ocupar nada.",
+    "n_pieces": 2,
+    "n_chars": 87,
+    "n_words": 15
+  },
+  {
+    "uid": "u0101",
+    "piece_ids": [
+      "p200",
+      "p201",
+      "p202"
+    ],
+    "start_time": 688.52001953125,
+    "end_time": 692.8300170898438,
+    "text": "Sé lo frustrante que es, bueno. ¿Qué pasa, bicho? Oye, tenéis sed, bicho.",
+    "n_pieces": 3,
+    "n_chars": 73,
+    "n_words": 13
+  },
+  {
+    "uid": "u0102",
+    "piece_ids": [
+      "p203",
+      "p204"
+    ],
+    "start_time": 695.969970703125,
+    "end_time": 702.22998046875,
+    "text": "Y la cosa es que... Ahora, por ejemplo, descubrí que hay gráficos que te hacen...",
+    "n_pieces": 2,
+    "n_chars": 81,
+    "n_words": 15
+  },
+  {
+    "uid": "u0103",
+    "piece_ids": [
+      "p205",
+      "p206",
+      "p207"
+    ],
+    "start_time": 702.22998046875,
+    "end_time": 705.989990234375,
+    "text": "¿Qué te pasó en el brazo, mi amor? ¿Qué te dejaste? En el izquierdo, justo.",
+    "n_pieces": 3,
+    "n_chars": 75,
+    "n_words": 15
+  },
+  {
+    "uid": "u0104",
+    "piece_ids": [
+      "p208",
+      "p209",
+      "p210"
+    ],
+    "start_time": 706.75,
+    "end_time": 711.1900024414062,
+    "text": "Aquí, en toda esta parte, tengo... Ah, te apoyaste. Lo más probable es que te apoyaste en algo.",
+    "n_pieces": 3,
+    "n_chars": 95,
+    "n_words": 18
+  },
+  {
+    "uid": "u0105",
+    "piece_ids": [
+      "p211",
+      "p212",
+      "p213"
+    ],
+    "start_time": 711.3300170898438,
+    "end_time": 720.010009765625,
+    "text": "Entonces, este fue una bici, anoche. ¿Te acuerdas? Hay unos gráficos que te muestran causalidad, por ejemplo...",
+    "n_pieces": 3,
+    "n_chars": 111,
+    "n_words": 17
+  },
+  {
+    "uid": "u0106",
+    "piece_ids": [
+      "p214",
+      "p215",
+      "p216",
+      "p217"
+    ],
+    "start_time": 720.010009765625,
+    "end_time": 732.0499877929688,
+    "text": "Causalidad? Causalidad. Por ejemplo, explica la demora. Tú le dices, explica por qué tenemos una demora tan alta que está en resolución cuando tenemos este tipo de fallas.",
+    "n_pieces": 4,
+    "n_chars": 171,
+    "n_words": 28
+  },
+  {
+    "uid": "u0107",
+    "piece_ids": [
+      "p218",
+      "p219"
+    ],
+    "start_time": 733.3699951171875,
+    "end_time": 742.469970703125,
+    "text": "Y busca la información en la que tú le subiste. Y te dice, ah, la mayor cantidad de días que demoramos en reparar es cuando la falla es de este tipo.",
+    "n_pieces": 2,
+    "n_chars": 149,
+    "n_words": 31
+  },
+  {
+    "uid": "u0108",
+    "piece_ids": [
+      "p220",
+      "p221"
+    ],
+    "start_time": 742.6699829101562,
+    "end_time": 765.0399780273438,
+    "text": "Oh, qué magia. Por ejemplo en una encontré un resonador que está declarado como un ultrasonido.",
+    "n_pieces": 2,
+    "n_chars": 95,
+    "n_words": 16
+  },
+  {
+    "uid": "u0109",
+    "piece_ids": [
+      "p222"
+    ],
+    "start_time": 768.8400268554688,
+    "end_time": 782.6099853515625,
+    "text": "Porque vi un error era un monto demasiado alto en ultrasonido y dije... ya en chile tenemos 1198",
+    "n_pieces": 1,
+    "n_chars": 96,
+    "n_words": 18
+  },
+  {
+    "uid": "u0110",
+    "piece_ids": [
+      "p223",
+      "p224"
+    ],
+    "start_time": 803.5800170898438,
+    "end_time": 807.0599975585938,
+    "text": "No, pues entonces... Oye, ¿le tenéis metido intervalos de confianza a las variables?",
+    "n_pieces": 2,
+    "n_chars": 84,
+    "n_words": 13
+  },
+  {
+    "uid": "u0111",
+    "piece_ids": [
+      "p225",
+      "p226",
+      "p227"
+    ],
+    "start_time": 809.1799926757812,
+    "end_time": 815.6799926757812,
+    "text": "No. Esa pues es reútil para cachar los outliers. Sí, pero es que el tema es que aquí me están pidiendo hacer lo más precisa posible.",
+    "n_pieces": 3,
+    "n_chars": 132,
+    "n_words": 26
+  },
+  {
+    "uid": "u0112",
+    "piece_ids": [
+      "p228"
+    ],
+    "start_time": 816.97998046875,
+    "end_time": 820.97998046875,
+    "text": "Pero naturalmente hoy no vienen con un P menor a 0 .5.",
+    "n_pieces": 1,
+    "n_chars": 54,
+    "n_words": 12
+  },
+  {
+    "uid": "u0113",
+    "piece_ids": [
+      "p229",
+      "p230"
+    ],
+    "start_time": 821.239990234375,
+    "end_time": 842.010009765625,
+    "text": "No, no. no se viene súper alto yo creo que eso es mucho eso es muy bien yo creo que la carrera no mostró mucho ese giro así que es importante es que yo me acuerdo que nos dijeron así que no se puede venir a 0 .5 siempre que dejarle a 0 .5 y yo siempre quejalo a ese punto pero nunca viene a ese punto siempre lo viene más alta si voy a poner al lado, ¿cierto?",
+    "n_pieces": 2,
+    "n_chars": 359,
+    "n_words": 79
+  },
+  {
+    "uid": "u0114",
+    "piece_ids": [
+      "p231"
+    ],
+    "start_time": 844.1300048828125,
+    "end_time": 852.1599731445312,
+    "text": "oye, ahí estamos el rato y te esperamos, le veo por un helado vayan pues, ahí te conito Qué sabor?",
+    "n_pieces": 1,
+    "n_chars": 98,
+    "n_words": 20
+  },
+  {
+    "uid": "u0115",
+    "piece_ids": [
+      "p232",
+      "p233",
+      "p234",
+      "p235"
+    ],
+    "start_time": 854.0399780273438,
+    "end_time": 863.6199951171875,
+    "text": "Qué sabor? Qué sabor? Qué sabor? Qué sabor?",
+    "n_pieces": 4,
+    "n_chars": 43,
+    "n_words": 8
+  },
+  {
+    "uid": "u0116",
+    "piece_ids": [
+      "p236"
+    ],
+    "start_time": 880.6400146484375,
+    "end_time": 882.5,
+    "text": "ah bueno primero antes de contarle la mierda",
+    "n_pieces": 1,
+    "n_chars": 44,
+    "n_words": 8
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "c000": {
+    "label": "Memorias familiares y roles",
+    "keyword_signature": "sha1:c6c4de714bb4ced6bc1aa0316fb9c2e012d0c4be",
+    "top_keywords": [
+      "abuela",
+      "la abuela",
+      "mamá",
+      "papá",
+      "hijos",
+      "mi mamá",
+      "mi papá",
+      "había",
+      "abuelo",
+      "esa",
+      "murió",
+      "sé"
+    ],
+    "t_first": 1.0700000524520874,
+    "t_last": 934.3499755859375,
+    "t_avg": 556.40944767495,
+    "span_s": 933.2799755334854,
+    "size_units": 36,
+    "size_pieces": 72
+  },
+  "c001": {
+    "label": "Trauma y evasión de la realidad",
+    "keyword_signature": "sha1:86f4426dcbad4808aeaf6e7f011532c11e943aa1",
+    "top_keywords": [
+      "evadiendo",
+      "algo",
+      "trauma",
+      "la tía",
+      "nuestra",
+      "evadiendo evadiendo",
+      "pensando",
+      "no caerse",
+      "tiene que",
+      "chau",
+      "tiene",
+      "con la"
+    ],
+    "t_first": 69.0199966430664,
+    "t_last": 941.8499755859375,
+    "t_avg": 488.41871858254456,
+    "span_s": 872.8299789428711,
+    "size_units": 26,
+    "size_pieces": 39
+  }
+}

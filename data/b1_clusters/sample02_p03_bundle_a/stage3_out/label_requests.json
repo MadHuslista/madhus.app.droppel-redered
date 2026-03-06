@@ -1,0 +1,181 @@
+{
+  "task": "topic_labeling",
+  "notes": "Send each cluster to your LLM (e.g., Qwen) to generate a short human-readable label.",
+  "clusters": [
+    {
+      "cid": "c000",
+      "top_keywords": [
+        "él",
+        "mal",
+        "bicho",
+        "nativo",
+        "sabor",
+        "qué sabor",
+        "güey",
+        "mucho",
+        "sabor qué",
+        "tienen",
+        "ah",
+        "todo"
+      ],
+      "snippets": [
+        {
+          "uid": "u0007",
+          "piece_ids": [
+            "p13",
+            "p14"
+          ],
+          "t0": 36.47999954223633,
+          "t1": 39.15999984741211,
+          "snippet": "Ya, güey. Oye, por si estar acá, porque no se me está haciendo eso."
+        },
+        {
+          "uid": "u0053",
+          "piece_ids": [
+            "p103",
+            "p104",
+            "p105"
+          ],
+          "t0": 324.239990234375,
+          "t1": 326.94000244140625,
+          "snippet": "¿Tú igual le ponías todo el inglés? Sí. Yo lo pongo en tres veces."
+        },
+        {
+          "uid": "u0028",
+          "piece_ids": [
+            "p49",
+            "p50",
+            "p51",
+            "p52"
+          ],
+          "t0": 151.55999755859375,
+          "t1": 154.39999389648438,
+          "snippet": "Es limonada. Ah, y esta es la mía. ¿Limonada menta? Sí, por favor."
+        },
+        {
+          "uid": "u0056",
+          "piece_ids": [
+            "p109",
+            "p110",
+            "p111"
+          ],
+          "t0": 339.260009765625,
+          "t1": 346.760009765625,
+          "snippet": "Ya. Porque el nativo me mata harto. No, yo estoy acostumbrado porque el mío incluso es nativo y es nativo a francesado."
+        },
+        {
+          "uid": "u0068",
+          "piece_ids": [
+            "p127",
+            "p128",
+            "p129"
+          ],
+          "t0": 435.6099853515625,
+          "t1": 440.57000732421875,
+          "snippet": "¿Va desde su terça cañón ya? Nada, de más. Y que tampoco debe ser simple, otra manera de pensar en el idioma."
+        },
+        {
+          "uid": "u0101",
+          "piece_ids": [
+            "p200",
+            "p201",
+            "p202"
+          ],
+          "t0": 688.52001953125,
+          "t1": 692.8300170898438,
+          "snippet": "Sé lo frustrante que es, bueno. ¿Qué pasa, bicho? Oye, tenéis sed, bicho."
+        }
+      ],
+      "stats": {
+        "t_first": 13.300000190734863,
+        "t_last": 863.6199951171875,
+        "size_units": 39,
+        "size_pieces": 90
+      }
+    },
+    {
+      "cid": "c001",
+      "top_keywords": [
+        "empresa",
+        "de datos",
+        "datos",
+        "pensando",
+        "excel",
+        "que te",
+        "power bi",
+        "power",
+        "es una",
+        "nosotros",
+        "un día",
+        "un excel"
+      ],
+      "snippets": [
+        {
+          "uid": "u0036",
+          "piece_ids": [
+            "p71",
+            "p72"
+          ],
+          "t0": 228.44000244140625,
+          "t1": 233.63999938964844,
+          "snippet": "El tema es hablar con la marca. Claro, habría que hacer la presentación."
+        },
+        {
+          "uid": "u0093",
+          "piece_ids": [
+            "p185",
+            "p186"
+          ],
+          "t0": 642.5499877929688,
+          "t1": 645.3699951171875,
+          "snippet": "Ya, muy bien. No, yo asumí que estabais hablando de bases de datos."
+        },
+        {
+          "uid": "u0044",
+          "piece_ids": [
+            "p86",
+            "p87"
+          ],
+          "t0": 268.8999938964844,
+          "t1": 274.7200012207031,
+          "snippet": "De repente me dice sí, de repente... Ya, eso es una buena pregunta, porque en realidad lo está pensando para el próximo año"
+        },
+        {
+          "uid": "u0032",
+          "piece_ids": [
+            "p64",
+            "p65"
+          ],
+          "t0": 174.8699951171875,
+          "t1": 177.8300018310547,
+          "snippet": "Es que el sol ahí me llega. Y espérate, ¿empresa en un día?"
+        },
+        {
+          "uid": "u0034",
+          "piece_ids": [
+            "p68"
+          ],
+          "t0": 182.91000366210938,
+          "t1": 189.57000732421875,
+          "snippet": "Igual tengo un amigo que sabe dar toda la contabilidad y así nos puede ayudar a ver qué onda ahí."
+        },
+        {
+          "uid": "u0051",
+          "piece_ids": [
+            "p100",
+            "p101"
+          ],
+          "t0": 306.2900085449219,
+          "t1": 317.6400146484375,
+          "snippet": "Y si te dice, ya el próximo mes, o hagámoslo ahora. Si quieren, como yo hablo bien inglés, me contacto con ellos, tenemos una videollamada y nos fijé Estados Unidos."
+        }
+      ],
+      "stats": {
+        "t_first": 28.440000534057617,
+        "t_last": 807.0599975585938,
+        "size_units": 38,
+        "size_pieces": 69
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+# Branch B — Semantic Reorganization (UNLABELED)
+> Debug artifact: clusters are labeled by cid + keywords only.
+
+## [c000] él, mal, bicho, nativo, sabor, qué sabor, güey, mucho, sabor qué, tienen
+- time: 13.30s → 863.62s
+- units: 39, pieces: 90
+
+- **[p2]** Permiso, ¿puedo ver las otras preguntas?
+- **[p3]** Sí, dale.
+- **[p4]** Nada de ahí, métete ahí.
+- **[p7]** ¿Ya?
+- **[p8]** La herramienta es por la que me llenca llanta.
+- **[p9]** Están mal hechas, muy mal.
+- **[p11]** El otro día.
+- **[p12]** Dije, porque, güey, me dio vergüenza el otro día un cliente me había preguntado, oye, ¿y qué está, güey?
+- **[p13]** Ya, güey.
+- **[p14]** Oye, por si estar acá, porque no se me está haciendo eso.
+- **[p36]** Bueno, entonces, ¿qué es lo que me contó mi jefe?
+- **[p37]** De que a esta güey nadie lo trae en Chile.
+- **[p38]** Entonces yo le dije, ¿pero y que estoy dispiando a comprarlo?
+- **[p39]** Me dijo, no, que alguien lo traiga en Chile.
+- **[p40]** Y yo...
+- **[p41]** Entonces, lo que yo tengo entendido, porque creo que una vez le pregunté, me dijo, no, porque lo que necesitamos es que nos den factura, creo.
+- **[p44]** ¿Melón?
+- **[p45]** Eh, para el bicho, pero el bicho se puede sentar aquí porque si no...
+- **[p47]** ¿Esta es de melón?
+- **[p48]** Ah, esa es de melón, ¿esta es de...?
+- **[p49]** Es limonada.
+- **[p50]** Ah, y esta es la mía.
+- **[p51]** ¿Limonada menta?
+- **[p52]** Sí, por favor.
+- **[p53]** No, la de menta mía.
+- **[p54]** La jengibre es la tuya.
+- **[p55]** Gracias.
+- **[p56]** ¿Tienes que endulzarla así?
+- **[p57]** ¿Qué?
+- **[p58]** ¿Puede frutilla?
+- **[p59]** Eh, ahí ya.
+- **[p60]** Gracias.
+- **[p61]** De nada.
+- **[p62]** Si he hecho un bolada...
+- **[p63]** Después corremos la mesa un poco más para acá.
+- **[p91]** ¿Cuál es el gesto?
+- **[p92]** ¿Cuál es el gesto?
+- **[p93]** Si no, yo de hecho no hubiese podido hablar con él, ningún problema.
+- **[p102]** Y de hecho, más allá de hablar bien inglés, ¿tú tenés las habilidades comunicacionales para ese tipo de epilúcio?
+- **[p103]** ¿Tú igual le ponías todo el inglés?
+- **[p104]** Sí.
+- **[p105]** Yo lo pongo en tres veces.
+- **[p106]** Hablar inglés no tengo problema, pero lo que a mí no me están a ver todavía es que está ahí ese tipo de pitch.
+- **[p107]** No, para mí el nativo me mata un poco.
+- **[p108]** O sea, te digo, de esa conversación que podemos tener, vamos a entender el 80%, 50%.
+- **[p109]** Ya.
+- **[p110]** Porque el nativo me mata harto.
+- **[p111]** No, yo estoy acostumbrado porque el mío incluso es nativo y es nativo a francesado.
+- **[p115]** Porque era un indie.
+- **[p116]** Pero los indios tienen esa huella que igual tienen como un nativo.
+- **[p117]** Pero es más extraño que la mía.
+- **[p118]** No, fellas, are going to see this issue that we have here with your companions.
+- **[p120]** Es que como que marca muy bien las palabras en inglés de alguna manera muy parecida al español.
+- **[p122]** Que cuando te acostumbras mucho a ese inglés, tu inglés empieza a empeorar porque te acuerdas, te empiezas a entender palabras que de verdad no se pronuncian así, pero las entiendes porque estás tú también estudiando inglés y tu inglés se echa a perder.
+- **[p123]** Y me pasaba mucho que Menon, que era un chino que estaba ahí, él hablaba inglés pero hablaba mal.
+- **[p124]** Porque yo lo entendía todo, pero él decía, oye Menon lo entiende todo, me decía sí, pero no te acostumbría él porque él habla mal.
+- **[p125]** Él pronuncia mal, entonces, claro, tú lo entiendes porque estás recién aprendiendo.
+- **[p126]** Ah, pero es que... pero igual hay gente que tiene mal inglés por defecto por ejemplo los alemanes como que no les sale y hablen nomás por lo que tienen claro y aparte todo es como que han estudiado demasiado tienen un vocabulario muy amplio en inglés pero el acento como que les vale si como capucca o el otro día vi un streamer vi un streamer como puteando el alemán fue maravilloso fue maravilloso mi amiga Polangelo que vive en Alemania todavía no se acostumbra ¿Qué va?
+- **[p127]** ¿Va desde su terça cañón ya?
+- **[p128]** Nada, de más.
+- **[p129]** Y que tampoco debe ser simple, otra manera de pensar en el idioma.
+- **[p153]** ¡Claro!
+- **[p154]** ¡Aca, bicho!
+- **[p155]** ¡A la sombra!
+- **[p156]** Gracias.
+- **[p172]** Ah, pero también por...
+- **[p173]** Por Japón, entonces...
+- **[p174]** ¿Ahora está más difícil sacarla?
+- **[p193]** Sí, pero yo no puedo usarlo.
+- **[p194]** O sea, no, no.
+- **[p195]** ¿Por qué no?
+- **[p198]** Bueno, no hablen con Simmons, no hablen conmigo.
+- **[p199]** Pues sí, yo tampoco puedo ocupar nada.
+- **[p200]** Sé lo frustrante que es, bueno.
+- **[p201]** ¿Qué pasa, bicho?
+- **[p202]** Oye, tenéis sed, bicho.
+- **[p205]** ¿Qué te pasó en el brazo, mi amor?
+- **[p206]** ¿Qué te dejaste?
+- **[p207]** En el izquierdo, justo.
+- **[p225]** No.
+- **[p226]** Esa pues es reútil para cachar los outliers.
+- **[p227]** Sí, pero es que el tema es que aquí me están pidiendo hacer lo más precisa posible.
+- **[p228]** Pero naturalmente hoy no vienen con un P menor a 0 .5.
+- **[p229]** No, no.
+- **[p230]** no se viene súper alto yo creo que eso es mucho eso es muy bien yo creo que la carrera no mostró mucho ese giro así que es importante es que yo me acuerdo que nos dijeron así que no se puede venir a 0 .5 siempre que dejarle a 0 .5 y yo siempre quejalo a ese punto pero nunca viene a ese punto siempre lo viene más alta si voy a poner al lado, ¿cierto?
+- **[p231]** oye, ahí estamos el rato y te esperamos, le veo por un helado vayan pues, ahí te conito Qué sabor?
+- **[p232]** Qué sabor?
+- **[p233]** Qué sabor?
+- **[p234]** Qué sabor?
+- **[p235]** Qué sabor?
+
+## [c001] empresa, de datos, datos, pensando, excel, que te, power bi, power, es una, nosotros
+- time: 28.44s → 807.06s
+- units: 38, pieces: 69
+
+- **[p10]** Entonces un día dije a mi jefe, oye, ¿cuándo vamos a estandarizar esto?
+- **[p17]** Por eso le van a hablar bien con la marca y ver qué pasa.
+- **[p32]** Es que eso estaba pensando, como que nosotros podríamos ser el segundo tier.
+- **[p35]** Entonces, si nosotros necesitamos el tier 2 o el tier 3, tenemos un mercado bastante grande.
+- **[p42]** Eso es lo único que necesite.
+- **[p43]** Entonces, ¿qué tiene esa empresa al final?
+- **[p64]** Es que el sol ahí me llega.
+- **[p65]** Y espérate, ¿empresa en un día?
+- **[p68]** Igual tengo un amigo que sabe dar toda la contabilidad y así nos puede ayudar a ver qué onda ahí.
+- **[p71]** El tema es hablar con la marca.
+- **[p72]** Claro, habría que hacer la presentación.
+- **[p73]** Como decirle, como, oye, mira, si, oye, que eres una empresa que queremos partirlo aquí en Chile con esto.
+- **[p74]** Nos interesa tu marca y listo.
+- **[p75]** Habría que armar el pitch, ¿no?
+- **[p76]** Sí, y como posicionar esa marca en Chile.
+- **[p77]** No podemos perder más tiempo, tenemos que hacerlo esta semana.
+- **[p78]** ¿Ya?
+- **[p79]** ¿Por qué decir eso?
+- **[p80]** Porque hay que aprovechar el infinito que necesitamos del primer cliente.
+- **[p83]** Que es un input seguro
+- **[p84]** Sí, pues por lo menos tenerlo y ya...
+- **[p85]** Sí, pues yo también le puedo preguntar a mi jefe que tan urgente lo quiere
+- **[p86]** De repente me dice sí, de repente...
+- **[p87]** Ya, eso es una buena pregunta, porque en realidad lo está pensando para el próximo año
+- **[p88]** Sí
+- **[p89]** Y eso nos cagaría
+- **[p90]** Oye, ¿sabes que en verdad yo estaba pensando justo en eso?
+- **[p94]** Y le pregunta ahí, ¿sabes que estamos pensando en poner una empresa?
+- **[p99]** Ya, porque nosotros estamos pensando el próximo mes ir a Estados Unidos a dar unas cositas.
+- **[p100]** Y si te dice, ya el próximo mes, o hagámoslo ahora.
+- **[p101]** Si quieren, como yo hablo bien inglés, me contacto con ellos, tenemos una videollamada y nos fijé Estados Unidos.
+- **[p112]** A francesado.
+- **[p113]** Me hiciste acordar de mi clase de Power BI.
+- **[p114]** Ya, ¿por qué?
+- **[p137]** Entonces el Calle te dice sí.
+- **[p138]** Y hacemos la empresa en un día
+- **[p139]** ¿Qué es lo que más nos conviene?
+- **[p140]** Es que si no tenéis que...
+- **[p141]** Mira, la diferencia entre hacerle a la empresa en un día es una página web del servicio impuesto interno
+- **[p145]** O sea, más que pagar, en declarar
+- **[p146]** Como eso, como acción básica de la empresa.
+- **[p147]** ¿Cachai?
+- **[p148]** Nosotros empezamos Pablo Vega, Nico Chapagase y Loro Ginosa.
+- **[p149]** Constituyen como la SPA, que es una sociedad por acciones.
+- **[p150]** XYZ y todos pusieron en total un millón.
+- **[p151]** Y ese es como el capital de inversión inicial.
+- **[p178]** ¿Y van a probar pronto quizás eso de que te tienes que empezar a reasociar?
+- **[p179]** Hay que pasar incluso, creo que...
+- **[p180]** Contactas de tu familia.
+- **[p181]** ¿Hay alguna idea? de que se puede registrar los correos, no se si eso lo voy a poner pero alguien se le ocurrió ya como que a usted le esta preguntando a ChatGPT de hecho lo traeré, lo puse hoy y dame una forma rápida de instalar bomba y me la puse sin infusión y me la mando a la mierda, entonces me llama la pb no, porque tenes que ocupar dips para eso, los chinos si o cloud, tambien, tambien pero por que tu preferis copilot o ChatGPT?
+- **[p182]** lo que pasa es que yo en la pega tengo copilot entonces lo que más uso es Copilot porque como dice el entorno seguro, el empresarial pero al fin y al cabo es como lo mismo para lo que uno ocupa o sea que yo lo ocupo más que nada como redactame bien eso no yo también eso que me redacte de repente cuando tengo muchos correos que me haga un resumen de los correos y ahora lo estoy usando para Power BI por ejemplo es que ya voy en el siguiente paso ya no estoy mostrándote el dashboard de un Excel que se va actualizando sino que estoy juntando varios pasos de datos Y le estoy diciendo cómo puedo de esta información, por ejemplo, sacar cuál es la causa.
+- **[p183]** Diga que un Excel es una base de datos, por favor.
+- **[p184]** No, estoy hablando de bases de datos.
+- **[p185]** Ya, muy bien.
+- **[p186]** No, yo asumí que estabais hablando de bases de datos.
+- **[p187]** No, de un Excel fue de base de datos, dije.
+- **[p188]** El paso cero Power BI es que tú agarrís un Excel y lo pongáis bonito en Power BI.
+- **[p189]** Después ya empezáis a sacar, la segunda que aprendí fue el tema de varios Excel, sacar como una información.
+- **[p190]** Claro.
+- **[p191]** Y ahora yo voy en la fase de datos.
+- **[p192]** Pues igual, con Python lo podía hacer, ¿no?
+- **[p197]** Onda, le voy a pedir algo para que te haga el script en Python para que te conecte la fase de datos y está ahí.
+- **[p203]** Y la cosa es que...
+- **[p204]** Ahora, por ejemplo, descubrí que hay gráficos que te hacen...
+- **[p211]** Entonces, este fue una bici, anoche.
+- **[p212]** ¿Te acuerdas?
+- **[p213]** Hay unos gráficos que te muestran causalidad, por ejemplo...
+- **[p223]** No, pues entonces...
+- **[p224]** Oye, ¿le tenéis metido intervalos de confianza a las variables?
+

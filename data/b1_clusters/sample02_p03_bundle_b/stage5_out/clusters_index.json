@@ -1,0 +1,74 @@
+{
+  "c000": {
+    "label": "Diálogo informal y variado",
+    "keyword_signature": "sha1:0e7c3a1744d08c3b2692232789a206d59eb43af3",
+    "top_keywords": [
+      "pero",
+      "inglés",
+      "se",
+      "sí",
+      "está",
+      "mucho",
+      "todo",
+      "los",
+      "lo que",
+      "mal",
+      "bicho",
+      "él"
+    ],
+    "t_first": 0.0,
+    "t_last": 863.6199951171875,
+    "t_avg": 350.7176424739807,
+    "span_s": 863.6199951171875,
+    "size_units": 57,
+    "size_pieces": 123
+  },
+  "c001": {
+    "label": "Discusión sobre creación de empresa",
+    "keyword_signature": "sha1:f84e9f8fb776ac92dae08a16d65a0157dbc2f7f3",
+    "top_keywords": [
+      "empresa",
+      "un día",
+      "marca",
+      "sí",
+      "día",
+      "en un",
+      "empresa en",
+      "pensando",
+      "nos",
+      "la empresa",
+      "la marca",
+      "nosotros"
+    ],
+    "t_first": 28.440000534057617,
+    "t_last": 570.739990234375,
+    "t_avg": 312.3003225634175,
+    "span_s": 542.2999897003174,
+    "size_units": 19,
+    "size_pieces": 31
+  },
+  "c002": {
+    "label": "Uso de herramientas de datos",
+    "keyword_signature": "sha1:b5cb3654317d90775992503422a8c90b0e20338a",
+    "top_keywords": [
+      "datos",
+      "de datos",
+      "excel",
+      "un excel",
+      "power bi",
+      "power",
+      "bi",
+      "para",
+      "estoy",
+      "se",
+      "por ejemplo",
+      "ejemplo"
+    ],
+    "t_first": 347.1000061035156,
+    "t_last": 807.0599975585938,
+    "t_avg": 627.6828002929688,
+    "span_s": 459.9599914550781,
+    "size_units": 12,
+    "size_pieces": 25
+  }
+}

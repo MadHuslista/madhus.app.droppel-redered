@@ -1,0 +1,25 @@
+{
+  "deepinfra": {
+    "base_url": "https://api.deepinfra.com/v1/openai",
+    "embeddings_url": "https://api.deepinfra.com/v1/openai/embeddings",
+    "model": "BAAI/bge-m3",
+    "encoding_format": "float"
+  },
+  "counts": {
+    "pieces": 237,
+    "embedding_units": 117,
+    "embedding_batches": 2
+  },
+  "stats": {
+    "pieces_chars_min_max": [
+      2,
+      654
+    ],
+    "pieces_chars_avg": 54.438818565400844,
+    "units_chars_min_max": [
+      43,
+      654
+    ],
+    "units_chars_avg": 111.2991452991453
+  }
+}

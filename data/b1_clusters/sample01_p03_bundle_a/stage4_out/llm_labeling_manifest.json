@@ -1,0 +1,19 @@
+{
+  "model": "Qwen/Qwen2.5-72B-Instruct",
+  "endpoint": "https://api.deepinfra.com/v1/openai/chat/completions",
+  "counts": {
+    "clusters_total": 0,
+    "calls_made": 0,
+    "labels_returned_unique": 0,
+    "missing_labels": 0,
+    "parse_errors": 0
+  },
+  "missing_cids": [],
+  "artifacts": {
+    "raw_responses_jsonl": "qwen_label_responses.jsonl",
+    "labels_json": "branch_b_labels.json",
+    "labels_by_cid_json": "branch_b_labels_by_cid.json",
+    "branch_b_view_labeled_json": "branch_b_view_labeled.json"
+  },
+  "parse_errors_detail": []
+}

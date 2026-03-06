@@ -1,0 +1,17 @@
+{
+  "started_at": "2026-03-06T07:58:07.781601+00:00",
+  "finished_at": "2026-03-06T07:58:13.287110+00:00",
+  "indir": null,
+  "outdir": null,
+  "counts": {
+    "total_jobs": 2,
+    "ran": 2,
+    "skipped_existing": 0,
+    "failed_http": 0,
+    "responses_present": 2
+  },
+  "responses": [
+    "b0000.json",
+    "b0001.json"
+  ]
+}

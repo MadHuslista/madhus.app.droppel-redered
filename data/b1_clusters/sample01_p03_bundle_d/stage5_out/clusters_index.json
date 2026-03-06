@@ -1,0 +1,50 @@
+{
+  "c000": {
+    "label": "Memorias familiares y abuela",
+    "keyword_signature": "sha1:d38bb9adabba6034bdacd4df6c5ee3a40d71d214",
+    "top_keywords": [
+      "la abuela",
+      "papá",
+      "tuvo",
+      "ella",
+      "mi papá",
+      "tenía",
+      "cáncer",
+      "había",
+      "esa",
+      "sé",
+      "iba",
+      "no sé"
+    ],
+    "t_first": 1.0700000524520874,
+    "t_last": 934.3499755859375,
+    "t_avg": 555.7400027142988,
+    "span_s": 933.2799755334854,
+    "size_units": 37,
+    "size_pieces": 74
+  },
+  "c001": {
+    "label": "Trauma y evitación personal",
+    "keyword_signature": "sha1:5351c8439692384bea19317cd437f67162acbc25",
+    "top_keywords": [
+      "evadiendo",
+      "algo",
+      "trauma",
+      "nuestra",
+      "evadiendo evadiendo",
+      "ningún hijo",
+      "ningún",
+      "no caerse",
+      "caerse",
+      "tiene",
+      "chau",
+      "tiene que"
+    ],
+    "t_first": 69.0199966430664,
+    "t_last": 941.8499755859375,
+    "t_avg": 472.03350086212157,
+    "span_s": 872.8299789428711,
+    "size_units": 26,
+    "size_pieces": 40
+  }
+}

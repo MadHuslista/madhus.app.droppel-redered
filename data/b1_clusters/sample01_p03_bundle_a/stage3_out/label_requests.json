@@ -1,0 +1,5 @@
+{
+  "task": "topic_labeling",
+  "notes": "Send each cluster to your LLM (e.g., Qwen) to generate a short human-readable label.",
+  "clusters": []
+}

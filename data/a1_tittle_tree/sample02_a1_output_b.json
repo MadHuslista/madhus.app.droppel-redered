@@ -1,0 +1,29 @@
+[
+  {
+    "id": "chatcmpl-RNdaEG3daRasIt8syhMxJvUI",
+    "object": "chat.completion",
+    "created": 1772697142,
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "```json\n{\n  \"document\": { \"title\": \"Oportunidades de Negocio en Equipos Médicos\", \"level\": 1 }, \n  \"sections\": [\n    { \"title\": \"Introducción y Contexto\", \"level\": 2, \"start\": 0, \"end\": 11 },\n    { \"title\": \"Estandarización de Herramientas\", \"level\": 2, \"start\": 12, \"end\": 18 },\n    { \"title\": \"Mercado y Competencia\", \"level\": 2, \"start\": 19, \"end\": 35 },\n    { \"title\": \"Oportunidad de Negocio en Chile\", \"level\": 2, \"start\": 36, \"end\": 58 },\n    { \"title\": \"Planificación de la Empresa\", \"level\": 2, \"start\": 59, \"end\": 82 },\n    { \"title\": \"Comentarios sobre Inglés y Comunicación\", \"level\": 2, \"start\": 83, \"end\": 134 },\n    { \"title\": \"Estructura y Costos de la Empresa\", \"level\": 2, \"start\": 135, \"end\": 155 },\n    { \"title\": \"Viaje a Estados Unidos\", \"level\": 2, \"start\": 156, \"end\": 176 },\n    { \"title\": \"Visa y Requisitos\", \"level\": 2, \"start\": 177, \"end\": 182 },\n    { \"title\": \"Uso de Herramientas Tecnológicas\", \"level\": 2, \"start\": 183, \"end\": 219 },\n    { \"title\": \"Estadísticas y Análisis de Datos\", \"level\": 2, \"start\": 220, \"end\": 236 },\n    { \"title\": \"Cierre y Agradecimientos\", \"level\": 2, \"start\": 237, \"end\": 236 }\n  ],\n  \"paragraph_breaks\": [\n    { \"after\": 1 },\n    { \"after\": 3 },\n    { \"after\": 9 },\n    { \"after\": 18 },\n    { \"after\": 24 },\n    { \"after\": 33 },\n    { \"after\": 44 },\n    { \"after\": 57 },\n    { \"after\": 74 },\n    { \"after\": 86 },\n    { \"after\": 100 },\n    { \"after\": 119 },\n    { \"after\": 145 },\n    { \"after\": 165 },\n    { \"after\": 182 },\n    { \"after\": 209 },\n    { \"after\": 228 }\n  ]\n}\n```",
+          "reasoning_content": null,
+          "name": null,
+          "tool_calls": null
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 8424,
+      "total_tokens": 9054,
+      "completion_tokens": 630,
+      "estimated_cost": 0.00125658,
+      "prompt_tokens_details": null
+    }
+  }
+]

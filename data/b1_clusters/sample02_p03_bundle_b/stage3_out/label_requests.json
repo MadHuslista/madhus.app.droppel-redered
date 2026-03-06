@@ -1,0 +1,261 @@
+{
+  "task": "topic_labeling",
+  "notes": "Send each cluster to your LLM (e.g., Qwen) to generate a short human-readable label.",
+  "clusters": [
+    {
+      "cid": "c000",
+      "top_keywords": [
+        "pero",
+        "inglés",
+        "se",
+        "sí",
+        "está",
+        "mucho",
+        "todo",
+        "los",
+        "lo que",
+        "mal",
+        "bicho",
+        "él"
+      ],
+      "snippets": [
+        {
+          "uid": "u0007",
+          "piece_ids": [
+            "p13",
+            "p14"
+          ],
+          "t0": 36.47999954223633,
+          "t1": 39.15999984741211,
+          "snippet": "Ya, güey. Oye, por si estar acá, porque no se me está haciendo eso."
+        },
+        {
+          "uid": "u0033",
+          "piece_ids": [
+            "p66",
+            "p67"
+          ],
+          "t0": 178.9499969482422,
+          "t1": 182.75,
+          "snippet": "Que eso podría ser, cacho. Eso yo sé que te pueden mentir con factura rápido."
+        },
+        {
+          "uid": "u0055",
+          "piece_ids": [
+            "p107",
+            "p108"
+          ],
+          "t0": 331.5,
+          "t1": 338.8800048828125,
+          "snippet": "No, para mí el nativo me mata un poco. O sea, te digo, de esa conversación que podemos tener, vamos a entender el 80%, 50%."
+        },
+        {
+          "uid": "u0028",
+          "piece_ids": [
+            "p49",
+            "p50",
+            "p51",
+            "p52"
+          ],
+          "t0": 151.55999755859375,
+          "t1": 154.39999389648438,
+          "snippet": "Es limonada. Ah, y esta es la mía. ¿Limonada menta? Sí, por favor."
+        },
+        {
+          "uid": "u0088",
+          "piece_ids": [
+            "p175",
+            "p176",
+            "p177"
+          ],
+          "t0": 561.2000122070312,
+          "t1": 566.0399780273438,
+          "snippet": "Sí, po. Ahora está más difícil sacarla. Primero está más cara y segundo te piden más cosas."
+        },
+        {
+          "uid": "u0022",
+          "piece_ids": [
+            "p38",
+            "p39"
+          ],
+          "t0": 127.55000305175781,
+          "t1": 130.11000061035156,
+          "snippet": "Entonces yo le dije, ¿pero y que estoy dispiando a comprarlo? Me dijo, no, que alguien lo traiga en Chile."
+        }
+      ],
+      "stats": {
+        "t_first": 0.0,
+        "t_last": 863.6199951171875,
+        "size_units": 57,
+        "size_pieces": 123
+      }
+    },
+    {
+      "cid": "c001",
+      "top_keywords": [
+        "empresa",
+        "un día",
+        "marca",
+        "sí",
+        "día",
+        "en un",
+        "empresa en",
+        "pensando",
+        "nos",
+        "la empresa",
+        "la marca",
+        "nosotros"
+      ],
+      "snippets": [
+        {
+          "uid": "u0036",
+          "piece_ids": [
+            "p71",
+            "p72"
+          ],
+          "t0": 228.44000244140625,
+          "t1": 233.63999938964844,
+          "snippet": "El tema es hablar con la marca. Claro, habría que hacer la presentación."
+        },
+        {
+          "uid": "u0047",
+          "piece_ids": [
+            "p94"
+          ],
+          "t0": 284.5299987792969,
+          "t1": 287.510009765625,
+          "snippet": "Y le pregunta ahí, ¿sabes que estamos pensando en poner una empresa?"
+        },
+        {
+          "uid": "u0032",
+          "piece_ids": [
+            "p64",
+            "p65"
+          ],
+          "t0": 174.8699951171875,
+          "t1": 177.8300018310547,
+          "snippet": "Es que el sol ahí me llega. Y espérate, ¿empresa en un día?"
+        },
+        {
+          "uid": "u0037",
+          "piece_ids": [
+            "p73"
+          ],
+          "t0": 234.3800048828125,
+          "t1": 238.63999938964844,
+          "snippet": "Como decirle, como, oye, mira, si, oye, que eres una empresa que queremos partirlo aquí en Chile con esto."
+        },
+        {
+          "uid": "u0043",
+          "piece_ids": [
+            "p85"
+          ],
+          "t0": 266.1199951171875,
+          "t1": 268.8999938964844,
+          "snippet": "Sí, pues yo también le puedo preguntar a mi jefe que tan urgente lo quiere"
+        },
+        {
+          "uid": "u0072",
+          "piece_ids": [
+            "p137",
+            "p138"
+          ],
+          "t0": 462.1300048828125,
+          "t1": 465.8900146484375,
+          "snippet": "Entonces el Calle te dice sí. Y hacemos la empresa en un día"
+        }
+      ],
+      "stats": {
+        "t_first": 28.440000534057617,
+        "t_last": 570.739990234375,
+        "size_units": 19,
+        "size_pieces": 31
+      }
+    },
+    {
+      "cid": "c002",
+      "top_keywords": [
+        "datos",
+        "de datos",
+        "excel",
+        "un excel",
+        "power bi",
+        "power",
+        "bi",
+        "para",
+        "estoy",
+        "se",
+        "por ejemplo",
+        "ejemplo"
+      ],
+      "snippets": [
+        {
+          "uid": "u0093",
+          "piece_ids": [
+            "p185",
+            "p186"
+          ],
+          "t0": 642.5499877929688,
+          "t1": 645.3699951171875,
+          "snippet": "Ya, muy bien. No, yo asumí que estabais hablando de bases de datos."
+        },
+        {
+          "uid": "u0091",
+          "piece_ids": [
+            "p182"
+          ],
+          "t0": 601.6199951171875,
+          "t1": 638.3300170898438,
+          "snippet": "lo que pasa es que yo en la pega tengo copilot entonces lo que más uso es Copilot porque como dice el entorno seguro, el empresarial pero al fin y al cabo es como lo mismo para lo que uno ocupa o sea que yo lo ocupo más que nada como redactame bien eso no yo también eso que me r…"
+        },
+        {
+          "uid": "u0095",
+          "piece_ids": [
+            "p189"
+          ],
+          "t0": 654.7899780273438,
+          "t1": 661.7100219726562,
+          "snippet": "Después ya empezáis a sacar, la segunda que aprendí fue el tema de varios Excel, sacar como una información."
+        },
+        {
+          "uid": "u0105",
+          "piece_ids": [
+            "p211",
+            "p212",
+            "p213"
+          ],
+          "t0": 711.3300170898438,
+          "t1": 720.010009765625,
+          "snippet": "Entonces, este fue una bici, anoche. ¿Te acuerdas? Hay unos gráficos que te muestran causalidad, por ejemplo..."
+        },
+        {
+          "uid": "u0096",
+          "piece_ids": [
+            "p190",
+            "p191",
+            "p192"
+          ],
+          "t0": 662.0700073242188,
+          "t1": 666.1400146484375,
+          "snippet": "Claro. Y ahora yo voy en la fase de datos. Pues igual, con Python lo podía hacer, ¿no?"
+        },
+        {
+          "uid": "u0094",
+          "piece_ids": [
+            "p187",
+            "p188"
+          ],
+          "t0": 645.6699829101562,
+          "t1": 653.6300048828125,
+          "snippet": "No, de un Excel fue de base de datos, dije. El paso cero Power BI es que tú agarrís un Excel y lo pongáis bonito en Power BI."
+        }
+      ],
+      "stats": {
+        "t_first": 347.1000061035156,
+        "t_last": 807.0599975585938,
+        "size_units": 12,
+        "size_pieces": 25
+      }
+    }
+  ]
+}

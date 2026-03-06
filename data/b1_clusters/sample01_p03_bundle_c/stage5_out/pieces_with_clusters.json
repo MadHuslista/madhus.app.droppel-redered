@@ -1,0 +1,1190 @@
+[
+  {
+    "pid": "p0",
+    "start_time": 1.0700000524520874,
+    "end_time": 67.86000061035156,
+    "sha1": "dd1d8f755219d7040533942dcdea9a0589046030",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "y para ser justo que se me había ido tu abuela de parte papá la abuela y la mamá de mi papá ella murió de cáncer y ella murió de cáncer y el cáncer que ella tuvo fue leucemia y fue severo y ahí fue cuando ella murió dejo a nueve hijos no siete creo que eran siete hijos ahí sí bueno mi abuelo se fue con una estupenda rubia de ojos que era la abuela rosario que era la abuelita que yo contaba la historia que yo fui la única que elijo abuela y fue todo el escándalo en la familia este y así me signifique como la hija de la carlota como mi mamá era sin filtro y Y yo como tenía esa impronta, aunque nunca fui muy parecida a mi mamá, pero sí tenía lejos de mi mamá y los tengo."
+  },
+  {
+    "pid": "p1",
+    "start_time": 69.0199966430664,
+    "end_time": 74.04000091552734,
+    "sha1": "2cc94c16712ab47cc7a03bc35170674461c5f9ba",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Con orgullo, aunque algunos tengo que mejorarlos siempre, constantemente ahí con la rienda tomar."
+  },
+  {
+    "pid": "p2",
+    "start_time": 77.5,
+    "end_time": 78.13999938964844,
+    "sha1": "bbff63b8d8649aff2e54b6cdeb71891e11f36336",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Pero..."
+  },
+  {
+    "pid": "p3",
+    "start_time": 78.13999938964844,
+    "end_time": 82.0999984741211,
+    "sha1": "833ebd06ff7fc06b8bf028c9ad0a526f3cd95b6c",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "La abuela..."
+  },
+  {
+    "pid": "p4",
+    "start_time": 82.0999984741211,
+    "end_time": 87.37999725341797,
+    "sha1": "5948ee3ab8a27a923f2e334a954a7d06dbf48131",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Ana se llama tu bisabuela por parte de abuelo."
+  },
+  {
+    "pid": "p5",
+    "start_time": 87.94000244140625,
+    "end_time": 89.41999816894531,
+    "sha1": "653564a8cee191e4380c47038689065aa803f928",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Y ella..."
+  },
+  {
+    "pid": "p6",
+    "start_time": 89.26000213623047,
+    "end_time": 93.45999908447266,
+    "sha1": "8d5611ffd6964f1a274782a5cc767dd7e0c5c132",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Murió de cáncer de lucemia mía, se me había ido medio cuesta."
+  },
+  {
+    "pid": "p7",
+    "start_time": 95.26000213623047,
+    "end_time": 100.54000091552734,
+    "sha1": "8a5ffad5e42c52608ae89291df0e161c4ad7f0c7",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Así que sí, la abuela, ella falleció."
+  },
+  {
+    "pid": "p8",
+    "start_time": 100.66000366210938,
+    "end_time": 106.5,
+    "sha1": "1234f7854b6f1deba3e9c9afe8072237e9482991",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Mi papá fue el que vivió todo el proceso de enfermedad de la abuela y agonía."
+  },
+  {
+    "pid": "p9",
+    "start_time": 107.26000213623047,
+    "end_time": 108.44000244140625,
+    "sha1": "343d94ba45152dbf3ad6cfb9eced9b18d817075f",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Por eso yo paquio con mucho trauma."
+  },
+  {
+    "pid": "p10",
+    "start_time": 108.81999969482422,
+    "end_time": 115.9000015258789,
+    "sha1": "4db3ee0b80fa798e48cdb629fe0378f83b6e002c",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "No trauma en el sentido de cómo hoy día se maneja el trauma, aunque el trauma siempre ha sido trauma, pero..."
+  },
+  {
+    "pid": "p11",
+    "start_time": 116.87999725341797,
+    "end_time": 125.27999877929688,
+    "sha1": "af43b91234c22e8871ad4426c257829f1e6b36da",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "En el sentido de que fue el mayor y el que tuvo que lidiar en rogarle a mi abuelo que le dieran cosas y ese tipo de cuestiones."
+  },
+  {
+    "pid": "p12",
+    "start_time": 126.22000122070312,
+    "end_time": 127.5999984741211,
+    "sha1": "9c20de4a6a40ee48b785c5d0861fa68c141be265",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y el abuelo ahí con sus cuestiones."
+  },
+  {
+    "pid": "p13",
+    "start_time": 128.3800048828125,
+    "end_time": 140.52000427246094,
+    "sha1": "c975b8a2880c7990686a62090f1f4c0a33e21e9a",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y ahí hay historias que recordar que a lo mejor es bueno recordar siempre por el hecho de que la historia uno la lleva sin conocerla."
+  },
+  {
+    "pid": "p14",
+    "start_time": 140.72000122070312,
+    "end_time": 146.9499969482422,
+    "sha1": "aa4bd7e2ad8430ba34f70ac6d9b2dfb6373c8182",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Entonces ahí hay que conocerla para poder, el que no conoce su historia, No avanza en el presente."
+  },
+  {
+    "pid": "p15",
+    "start_time": 148.72999572753906,
+    "end_time": 150.72999572753906,
+    "sha1": "5599e329dcb1c173df818eef90ad2c4f108e0b74",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Los buenos historiadores dicen eso."
+  },
+  {
+    "pid": "p16",
+    "start_time": 150.9499969482422,
+    "end_time": 155.25,
+    "sha1": "c54acc2fb7e8608dfa59be8f901accc5b552b440",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Es por eso que la humanidad siempre se cae en la misma piedra."
+  },
+  {
+    "pid": "p17",
+    "start_time": 155.5500030517578,
+    "end_time": 156.2100067138672,
+    "sha1": "477ed134d2c2bfe25acfae1f7ff89ac554491521",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "¿Por qué?"
+  },
+  {
+    "pid": "p18",
+    "start_time": 156.42999267578125,
+    "end_time": 157.7100067138672,
+    "sha1": "d31db2553db00a652197a701adad1d3510009e83",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Porque no se acuerda de su historia."
+  },
+  {
+    "pid": "p19",
+    "start_time": 158.1300048828125,
+    "end_time": 160.02999877929688,
+    "sha1": "085689a5fe0e80329c3cf130d74531cf9bd39e0c",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Yo por lo menos trato de hacer ese ejercicio."
+  },
+  {
+    "pid": "p20",
+    "start_time": 160.49000549316406,
+    "end_time": 164.50999450683594,
+    "sha1": "0608a838d4c0e1dfa8ccb37d2cb22b56e4fb0933",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Y así todo me caigo, pero por lo menos me caigo no tan terrible."
+  },
+  {
+    "pid": "p21",
+    "start_time": 165.3699951171875,
+    "end_time": 166.52999877929688,
+    "sha1": "0249eb41cbd3d7afb83ca97fd46b7189b64a1215",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Así que eso."
+  },
+  {
+    "pid": "p22",
+    "start_time": 167.4499969482422,
+    "end_time": 169.8300018310547,
+    "sha1": "273dba55ac63ad7c9f28acd34c0bf6fc1d33cef8",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Hay que tratar de no caerse hasta no caerse."
+  },
+  {
+    "pid": "p23",
+    "start_time": 169.9499969482422,
+    "end_time": 174.92999267578125,
+    "sha1": "a963c00f36d158617c209e7513148ed45b126270",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Porque el no caerse significa que aprendimos la prueba y ya, ok, van a venir otras."
+  },
+  {
+    "pid": "p24",
+    "start_time": 175.2899932861328,
+    "end_time": 189.6699981689453,
+    "sha1": "318be37ce260e9f9313744d98e77150e580dc769",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "pero que no va a tener que ser con nuestra historia pasada por culpa de ello, de nuestra negligencia, sino que por parte de nuestra propia naturaleza, nuestra realidad que estamos construyendo con lo que tenemos adicional, no con la historia que traemos."
+  },
+  {
+    "pid": "p25",
+    "start_time": 190.4499969482422,
+    "end_time": 203.88999938964844,
+    "sha1": "0fa88caa0950028b8651f5e774687d38b200ed18",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "No sé si me logré entender, pero bueno, creo que ni siquiera me voy a pescar en ello, pero sí, la abuelita, la abuela Ana, yo no la conocí, la conocí por foto, y conocí la historia, la historia de parte de un papá."
+  },
+  {
+    "pid": "p26",
+    "start_time": 204.63999938964844,
+    "end_time": 262.4800109863281,
+    "sha1": "54e36f789b80991882288c6972a8999708ec1066",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "una que otra vez historia por ahí de parte de algunos tíos pero muy raro que así no se hablaba de ella en realidad y eso es peor a alguien nunca yo escuché una historia cuando estaba en reuniones con los otros tíos de la mamá siempre el papá pero la mamá no la abuela me refiero a los hijos de esa abuela porque después tuvo también hijo el abuelo y otros otros más no sé si fueron cinco o seis hijos más bueno y cuando y tuvo también hijos con una tercera esa fue buena esa historia de la puerta así que es como es como que traje icónico que fue como la historia de el abuelo murió y en el funeral se enteraron todos que tenían un hermano ya dos hermanos más de ya la prole que ya había entonces"
+  },
+  {
+    "pid": "p27",
+    "start_time": 263.260009765625,
+    "end_time": 272.4200134277344,
+    "sha1": "df6fa51e74f853cba04504efceeb035704f6735a",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y mi mamá, para colmo, como era mucho más observadora, como tú dices, como nosotros, como personas totalmente distintas, que hablamos más."
+  },
+  {
+    "pid": "p28",
+    "start_time": 273.2799987792969,
+    "end_time": 277.3999938964844,
+    "sha1": "58edf04e5a1d7bb17c25ec9e8d2a3e408d2273b6",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Mi mamá había sacado la película hace muchos años y se lo había dicho mi papá."
+  },
+  {
+    "pid": "p29",
+    "start_time": 277.6400146484375,
+    "end_time": 279.2799987792969,
+    "sha1": "faeebb0cd0b0938c38b8933c7ad5239ad4b43421",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Mi papá negacionista total."
+  },
+  {
+    "pid": "p30",
+    "start_time": 279.82000732421875,
+    "end_time": 282.0,
+    "sha1": "dcaf793712ecc0ba7013a57015c5f3b118cf8ad4",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "No, ¿cómo puede ser mi papá?"
+  },
+  {
+    "pid": "p31",
+    "start_time": 282.1600036621094,
+    "end_time": 322.1499938964844,
+    "sha1": "32e9ccc97748907d8907c9fbefae3c2b93c26edc",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Aunque su padre era como el pip, pero mi papá tenía eso de que como que trataba de, de ver lo mejor de las personas a pesar de todo lo malo trataba de ver lo mejor entonces mi papá tenía como esa forma de ver las cosas mi mamá no, mi mamá era de las que la realidad tal cual era entonces mi mamá tenía como el lado totalmente opuesto entonces a mi mamá le faltaban más cosas de mi papá para poder decir las cosas pero no de una manera tan radicalmente duras y crueles"
+  },
+  {
+    "pid": "p32",
+    "start_time": 322.4599914550781,
+    "end_time": 333.1000061035156,
+    "sha1": "a91f3e4c5df0b27a17bacfd9e9791f44ebeabdf0",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Que a veces la verdad, el ser humano de por sí es algo que le cuesta y usted debe más que nadie saber aceptar verdades."
+  },
+  {
+    "pid": "p33",
+    "start_time": 333.3800048828125,
+    "end_time": 348.29998779296875,
+    "sha1": "462dfd8b4f674d14591f10f15a6eb0c67b9fc676",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Entonces, esas cosas a veces vemos naturaleza que nos cuesta y hay otras que realmente, ok, es así, ya estamos, lo aceptamos, duele, sí, nos bancamos el dolor, sí, ya, listo, ya."
+  },
+  {
+    "pid": "p34",
+    "start_time": 349.55999755859375,
+    "end_time": 354.1600036621094,
+    "sha1": "e0fb57f5ef22b0aadbf578db1b3a4ed9c8aca69b",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Y se agradece de repente que se digan las verdades con la mayoría, pero que se digan."
+  },
+  {
+    "pid": "p35",
+    "start_time": 355.0799865722656,
+    "end_time": 358.2799987792969,
+    "sha1": "6cffb8a89a95c1c87d9e42010b4c40d6c9ea1d92",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Y hay otras naturalezas que simplemente, literalmente van con..."
+  },
+  {
+    "pid": "p36",
+    "start_time": 358.2799987792969,
+    "end_time": 359.4599914550781,
+    "sha1": "a67d5f840d317d6aa3ed7f901ca9ab872e01f3a4",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "¿Cómo la ves tú?"
+  },
+  {
+    "pid": "p37",
+    "start_time": 361.29998779296875,
+    "end_time": 372.8399963378906,
+    "sha1": "b76faff81a27d9a7d49ff811313f25415aa15dda",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Tratando de guardar la cabeza, el pensamiento, todo, evadiendo, evadiendo, evadiendo, evadiendo, evadiendo en tele, evadiendo en radio, en películas, en actitudes desconstructivas."
+  },
+  {
+    "pid": "p38",
+    "start_time": 374.1600036621094,
+    "end_time": 375.8399963378906,
+    "sha1": "411148cb47ec3595e23f383a781877d72b2fa674",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Sí, está bien, desconstructiva."
+  },
+  {
+    "pid": "p39",
+    "start_time": 376.9200134277344,
+    "end_time": 377.82000732421875,
+    "sha1": "cb45cced70907707c61354479125400ca7dd9f28",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Tú me entendís."
+  },
+  {
+    "pid": "p40",
+    "start_time": 378.0799865722656,
+    "end_time": 406.4599914550781,
+    "sha1": "b649c375417583ff9f02cb894c7c7264b4310470",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "que es desordenada y no aceptan la realidad porque en el fondo es difícil y se creen débiles que no pueden y resulta que han habido otras personas como el ejemplo de mi mamá de la familia de mi mamá de mi abuela que ningún hijo se le fue ladrón ningún hijo que se le fue prostituta ningún hijo se le fue desbandado y sola sacó lavando nueve hijos"
+  },
+  {
+    "pid": "p41",
+    "start_time": 406.9100036621094,
+    "end_time": 414.4700012207031,
+    "sha1": "7f231271488d97046b7338b6b7d2b84cbc871c4d",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y uno va como enfermo mental, o sea, para resumirlo, con una falta de desarrollo neurológico."
+  },
+  {
+    "pid": "p42",
+    "start_time": 414.7900085449219,
+    "end_time": 422.7300109863281,
+    "sha1": "988a195291147ea7e14730a32b9fcb57d1272799",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y yo he cristalizado a un niño, pero creció hombre, y manejarlo, y controlarlo, y hacerlo todo bien."
+  },
+  {
+    "pid": "p43",
+    "start_time": 422.8500061035156,
+    "end_time": 424.42999267578125,
+    "sha1": "467aa257ff9e8c6b5a9b680b28b57dceec1ad3d8",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "O sea, mi abuela fue una mujer de carácter."
+  },
+  {
+    "pid": "p44",
+    "start_time": 425.6300048828125,
+    "end_time": 427.9100036621094,
+    "sha1": "a536d18285336602e45540160c66d95ca5af6026",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Y débil a la vez."
+  },
+  {
+    "pid": "p45",
+    "start_time": 429.010009765625,
+    "end_time": 430.57000732421875,
+    "sha1": "c97dc8ac931ea5714c4db33edbd91402c9c2a4bf",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Y sacó adelante todo."
+  },
+  {
+    "pid": "p46",
+    "start_time": 431.30999755859375,
+    "end_time": 446.1700134277344,
+    "sha1": "2286972dbde39eef952aac60d1d48c4f507d4130",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Y se bancó humillaciones, se bancó todo, se bancó el maltrato, se bancó, o sea, mi abuela vivió toda la época de los 40 cuando las mujeres, la única forma de trabajo que tenían eran, porque era la vida de ese momento, era el contexto, era lavar."
+  },
+  {
+    "pid": "p47",
+    "start_time": 447.1099853515625,
+    "end_time": 453.7099914550781,
+    "sha1": "24c6ca718c318c85efb8c3ffeb33f566f8cf36e1",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y la historia ahí, ahí está, la manera de cómo salían adelante las mujeres era lavando, porque no existía la lavadora."
+  },
+  {
+    "pid": "p48",
+    "start_time": 455.92999267578125,
+    "end_time": 456.45001220703125,
+    "sha1": "b4288a4d2eee503809e1b625de5dda0d3adff7ae",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Entonces..."
+  },
+  {
+    "pid": "p49",
+    "start_time": 458.45001220703125,
+    "end_time": 465.42999267578125,
+    "sha1": "e2c40981593ebf6708af1d3220b13e7c571a6ba7",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "La abuela sacó adelante y además sabía cocinar rico, trabajaba en hoteles, haciendo cocina."
+  },
+  {
+    "pid": "p50",
+    "start_time": 466.3299865722656,
+    "end_time": 470.6700134277344,
+    "sha1": "c07d0718432b018926a1ca3568e325c63d1068fc",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Entonces, y la abuela nunca tuvo nombre."
+  },
+  {
+    "pid": "p51",
+    "start_time": 471.25,
+    "end_time": 472.7699890136719,
+    "sha1": "dd0466c305f3ab2e4d7e8e1dc5b6522f420d69dc",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Nunca llevó un nombre a la casa."
+  },
+  {
+    "pid": "p52",
+    "start_time": 472.8900146484375,
+    "end_time": 474.0899963378906,
+    "sha1": "c6dd12d377e1e5d9e80e79e756880df1803539a5",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Si los tuvo, los tuvo por fuera."
+  },
+  {
+    "pid": "p53",
+    "start_time": 474.6499938964844,
+    "end_time": 539.1599731445312,
+    "sha1": "a7280b0df26954a937e4e9444b2d089369dd83f7",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Y la abuela ahí, o sea, a los mayores cuidando a los más chicos y genial, no se la llamaba la abuela, pues, llamando y... mi mamá me contaba alguna historia en las cuales que aprovecho contar esto porque estas cosas veces no salen hasta la oportunidad o no quiere escuchar es que la abuela carla que se contaba decía que no había para comer pues ya había que salir a comprar pero la abuela era pero taxativa nunca robar nunca acá, nunca allá y imagínate una mujer trabajadora con todo el contexto que ya te acabo de contar viuda, joven y viuda no porque el marido se le enfermó sino que realmente hubo un accidente y se le fue nomás y vivir todo eso, toda esa precariedad y ver a sus hijos de haber sufrido un montón y nunca tuvo un cáncer o sea tenía que estar para ahí porque en fin En cambio, las historias de los hijos de la abuela, ahí hay otras cosas."
+  },
+  {
+    "pid": "p54",
+    "start_time": 539.760009765625,
+    "end_time": 541.2999877929688,
+    "sha1": "c0eba14279d095be775d8b1fc5cb7de0d9ed98d5",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Tú me voy a decir la justificación."
+  },
+  {
+    "pid": "p55",
+    "start_time": 541.6400146484375,
+    "end_time": 548.8800048828125,
+    "sha1": "f468b3cc48a09fc4a3c46c27cc7957a7dd118b5c",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Por ejemplo, la tía que tuvo cáncer, la tía que tuvo cáncer constituye que ella no iba a sufrir."
+  },
+  {
+    "pid": "p56",
+    "start_time": 549.5999755859375,
+    "end_time": 553.280029296875,
+    "sha1": "1068457ee953fad8297d7d41805294e7f11504f5",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Ella no iba a sufrir porque en realidad ella no nació para eso."
+  },
+  {
+    "pid": "p57",
+    "start_time": 553.3400268554688,
+    "end_time": 555.47998046875,
+    "sha1": "d12c2f2673f2b29040455d3f7f494c42cdefe0e3",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Ella sufrió suficiente y ya no va."
+  },
+  {
+    "pid": "p58",
+    "start_time": 555.6199951171875,
+    "end_time": 559.8599853515625,
+    "sha1": "db8e5b1b031ece98e9f4dce5a70990891e73eff5",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Entonces ella tuvo sus hijos y tuvo problemas con su marido, su pareja."
+  },
+  {
+    "pid": "p59",
+    "start_time": 560.6199951171875,
+    "end_time": 561.5399780273438,
+    "sha1": "420e56bfde055cc09badfb404234c8d7a1666e84",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Ellos se casaron."
+  },
+  {
+    "pid": "p60",
+    "start_time": 562.3499755859375,
+    "end_time": 566.8300170898438,
+    "sha1": "847681da13c065e9653c9c1dbbe2dc2f2cfd489c",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Y resulta que decidió, se separaron."
+  },
+  {
+    "pid": "p61",
+    "start_time": 567.7100219726562,
+    "end_time": 571.3300170898438,
+    "sha1": "a5b65249c6b36c5fae88403f174006ec3c1af050",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Pero parece que ahí el problema no era el caballero, sino que era la señora."
+  },
+  {
+    "pid": "p62",
+    "start_time": 572.5900268554688,
+    "end_time": 580.3900146484375,
+    "sha1": "eb98909fa066c48e35b07c918edbbb8d334fcb67",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Y resulta que dejó a sus hijos votados, se iba a trabajar."
+  },
+  {
+    "pid": "p63",
+    "start_time": 580.7899780273438,
+    "end_time": 587.0700073242188,
+    "sha1": "e055415e541011f000fbfe7cecf5cb9c6601486c",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Se iba a trabajar, no sé, a otra ciudad y dejaba a los hijos, digamos, al cuidado del mayor."
+  },
+  {
+    "pid": "p64",
+    "start_time": 588.22998046875,
+    "end_time": 591.1300048828125,
+    "sha1": "717b11d412c2880fd98a3604601351b2086bf5a6",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "El mayor realmente tenía que hacer..."
+  },
+  {
+    "pid": "p65",
+    "start_time": 591.47998046875,
+    "end_time": 595.9600219726562,
+    "sha1": "68af7a385854dbb58862035532071cdec3409a0b",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "No sé, de repente la plata no llegaba, no llegaba nunca y trataba de ayudarse."
+  },
+  {
+    "pid": "p66",
+    "start_time": 597.1799926757812,
+    "end_time": 606.8599853515625,
+    "sha1": "d04523065b0deb1c98a76e8c6b0b17509819c8dd",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Yo soy fiel de eso porque mi papá como era esos tipos, mi papá era muy maternal, muy paternal."
+  },
+  {
+    "pid": "p67",
+    "start_time": 608.9000244140625,
+    "end_time": 612.0800170898438,
+    "sha1": "feb3c1d2d0993437e0d630c3b15b6ace78136d3a",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Tengo un papá así como..."
+  },
+  {
+    "pid": "p68",
+    "start_time": 612.0800170898438,
+    "end_time": 613.4000244140625,
+    "sha1": "a26e51a92a70c27089158afb9acf26e00bfc9e09",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Bueno, echó a mi papá."
+  },
+  {
+    "pid": "p69",
+    "start_time": 614.6199951171875,
+    "end_time": 616.02001953125,
+    "sha1": "5fec3b169938a87ff83cf5a0933fc4c7121f4efd",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "En realidad ni tanto, ¿eh?"
+  },
+  {
+    "pid": "p70",
+    "start_time": 616.5800170898438,
+    "end_time": 617.8200073242188,
+    "sha1": "47dfcc3fd08e778fd80c4e6d788d42ea30ad5c68",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Ahora cuándo es el tiempo."
+  },
+  {
+    "pid": "p71",
+    "start_time": 618.7000122070312,
+    "end_time": 626.239990234375,
+    "sha1": "86a19cbc43b195a1ce3767cdd4ca6a2985df98dd",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Y mi mamá no tenía nada de materno ni paterno, pero lo que hizo, lo hizo bien."
+  },
+  {
+    "pid": "p72",
+    "start_time": 629.5399780273438,
+    "end_time": 643.219970703125,
+    "sha1": "356ea57420ff2f33b1b599dcf56552557524fa3f",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Pero lo que voy es que esta tía, al final de la vuelta que se dio pensando que lo hacía mejor, fue totalmente una salida de no enfrentar la realidad que ella tenía."
+  },
+  {
+    "pid": "p73",
+    "start_time": 644.4000244140625,
+    "end_time": 646.5399780273438,
+    "sha1": "4fffc81d559cb8c1351ecc7fa29219398d5632d1",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Porque no quiso vivir lo que vivió su mamá."
+  },
+  {
+    "pid": "p74",
+    "start_time": 647.760009765625,
+    "end_time": 650.9400024414062,
+    "sha1": "f8a39980551495b579baae415fd130ea4f4194ee",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "La abuela, en este sentido, nunca dejó botados a los cabros."
+  },
+  {
+    "pid": "p75",
+    "start_time": 651.239990234375,
+    "end_time": 651.52001953125,
+    "sha1": "e9f87457bc1fb0f3a340288dd0c677476c99e18e",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Nunca."
+  },
+  {
+    "pid": "p76",
+    "start_time": 651.9199829101562,
+    "end_time": 653.260009765625,
+    "sha1": "868357e45ecd3c5825862ec9bd98213d0a3df977",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Nunca los abandonó."
+  },
+  {
+    "pid": "p77",
+    "start_time": 655.280029296875,
+    "end_time": 664.6599731445312,
+    "sha1": "ae20120f5f07b537e5717ad23cc67d717bf6125d",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Y siendo que la abuela venía de un abandono total, pues a mi abuela la habían dejado abandonada en un lugar y la criaron hacia la que te vive, en el casco, por allá."
+  },
+  {
+    "pid": "p78",
+    "start_time": 665.739990234375,
+    "end_time": 666.7000122070312,
+    "sha1": "751d56de4557f21f87ef2b350e5b181e480eee0c",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Y bueno."
+  },
+  {
+    "pid": "p79",
+    "start_time": 667.6799926757812,
+    "end_time": 675.0599975585938,
+    "sha1": "4a0740e3f8f22a39683a866f8e021d8c3417ad26",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Entonces, y esta tía literalmente tenía conducta bastante subgénero."
+  },
+  {
+    "pid": "p80",
+    "start_time": 676.2000122070312,
+    "end_time": 676.760009765625,
+    "sha1": "b4288a4d2eee503809e1b625de5dda0d3adff7ae",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Entonces..."
+  },
+  {
+    "pid": "p81",
+    "start_time": 678.5700073242188,
+    "end_time": 686.510009765625,
+    "sha1": "71b9b207deceafaed9a99268d5ecbdc987bf7dd6",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "No era justificable porque realmente tú puedes tener tus ideas, pero tenías que hacer este cargo así o así de lo que te corresponde."
+  },
+  {
+    "pid": "p82",
+    "start_time": 687.3699951171875,
+    "end_time": 696.489990234375,
+    "sha1": "3029868d69bf2eca590308eecd9f4cc3f3a229aa",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Pero hay personas que literalmente tienen un ego mucho más elevado, porque eso tiene que ver con el ego, no tiene que ver con pobrecita la persona."
+  },
+  {
+    "pid": "p83",
+    "start_time": 697.1500244140625,
+    "end_time": 704.989990234375,
+    "sha1": "101332bfb16766ddcece57eb8fdbe32a3586fbe9",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "O sea, uno lee la historia y se da cuenta de personas que, o de historias de películas también basadas en hechos reales."
+  },
+  {
+    "pid": "p84",
+    "start_time": 705.4400024414062,
+    "end_time": 767.1500244140625,
+    "sha1": "b0d789884f0f0c9df5c550fea2c8821c3a0d33c0",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "en que podrían haberse zafado del ámbito que vivían y decidieron tomar la realidad en sus manos y es ese cargo eso los condujo a ser personas totalmente íntegras pero no exentan del lado del lado como se dice amargo a la vida pero tomaron la decisión apropiada y correcta ya vemos otras personas que no, porque tratamos de zafar y vimos la vida como que aquí no ha pasado nada y resulta que sí o sí se cobra la vida, la vida te cobra sí o sí todo lo que uno en la metida pata que hace y lamentablemente de tanto vuelta que vio la tía al final la tía terminó enfermándose y Y nunca a pesar de la enfermedad."
+  },
+  {
+    "pid": "p85",
+    "start_time": 767.6099853515625,
+    "end_time": 769.030029296875,
+    "sha1": "29cced3d8fdfed2f989fdb29afac5bd47359faa5",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Tratado de enmendar las cosas."
+  },
+  {
+    "pid": "p86",
+    "start_time": 770.5499877929688,
+    "end_time": 771.7100219726562,
+    "sha1": "56558206ceb194017a46c608e4d23c7780f24376",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Seguía como el avestru."
+  },
+  {
+    "pid": "p87",
+    "start_time": 772.1900024414062,
+    "end_time": 773.1300048828125,
+    "sha1": "643e506fe8ea722c96faecffff61aacf24f9c4ef",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y hasta el final."
+  },
+  {
+    "pid": "p88",
+    "start_time": 774.2100219726562,
+    "end_time": 775.0499877929688,
+    "sha1": "c7207404fb8e31fb1c5608fdc9215d22eda02e51",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Hasta el final."
+  },
+  {
+    "pid": "p89",
+    "start_time": 777.1500244140625,
+    "end_time": 779.1699829101562,
+    "sha1": "636115e4ac03ca71a7251371c25d771b31487a77",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Sus hijos eran como los hijos de otros."
+  },
+  {
+    "pid": "p90",
+    "start_time": 779.6900024414062,
+    "end_time": 780.3499755859375,
+    "sha1": "4d6af435ba3a684cf8ccac34654b1b444716baa7",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "No de ella."
+  },
+  {
+    "pid": "p91",
+    "start_time": 780.72998046875,
+    "end_time": 782.1099853515625,
+    "sha1": "accffeb55ba082d5ee08344824da816486ff6494",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Los venía a visitar."
+  },
+  {
+    "pid": "p92",
+    "start_time": 782.530029296875,
+    "end_time": 783.530029296875,
+    "sha1": "071b5896bfb4eb911cc5623625fc832863d780c5",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Extraía cosas."
+  },
+  {
+    "pid": "p93",
+    "start_time": 783.8300170898438,
+    "end_time": 784.4299926757812,
+    "sha1": "90dc2d47c7e7c583891b4e4cdcdb7cd6ee3e7c14",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Y después se iba."
+  },
+  {
+    "pid": "p94",
+    "start_time": 785.4500122070312,
+    "end_time": 786.4099731445312,
+    "sha1": "8417578b4b0983207f98acd71e9b26051257037c",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Nunca se hizo cargo."
+  },
+  {
+    "pid": "p95",
+    "start_time": 788.1500244140625,
+    "end_time": 788.8900146484375,
+    "sha1": "0578382bc634fc8266e7b5f3efa140ca810752bb",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Era como."
+  },
+  {
+    "pid": "p96",
+    "start_time": 790.8099975585938,
+    "end_time": 791.8499755859375,
+    "sha1": "0c35cdca254bfa0b79e905d2aa5a678f68979479",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Como cuestionable."
+  },
+  {
+    "pid": "p97",
+    "start_time": 792.010009765625,
+    "end_time": 792.7100219726562,
+    "sha1": "e18ecc0ad3d3bc6afcfa01cd86c245f4eac17d13",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Pero era su vida."
+  },
+  {
+    "pid": "p98",
+    "start_time": 792.8499755859375,
+    "end_time": 793.8900146484375,
+    "sha1": "4c64c52ae1484a16abf8fb13bcd15b06a3925274",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Su forma de hacer las cosas."
+  },
+  {
+    "pid": "p99",
+    "start_time": 794.0900268554688,
+    "end_time": 794.3900146484375,
+    "sha1": "7cfab5eca4e4f6d0292ab7762a4bb7ce9764fca3",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y en fin."
+  },
+  {
+    "pid": "p100",
+    "start_time": 795.1799926757812,
+    "end_time": 819.780029296875,
+    "sha1": "0f082dd3388b23905c858cb204c74da82da8507f",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "se conforma con poco para sus hijos no yo yo de lejos vi todo eso porque mis papás siempre tuvieron contacto con los con estos hijos trataban de ayudarlos trataban de guiarlos trataban de incluso gracias a mis papás uno de ellos alguien sin miedo que está a punto de perderse y fue ingeniero este cabrón"
+  },
+  {
+    "pid": "p101",
+    "start_time": 820.8900146484375,
+    "end_time": 848.7899780273438,
+    "sha1": "83decb4a694a48af74fa142635107cc9373cd602",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Este primo resultó ser, incluso tuvo un cargo importante en el Ministerio de Obras Públicas en su momento, no sé ahora en qué estará, pero en su momento estuvo a cargo de las zonas en Rancagua, por allá, por esos lados que se fue a vivir, hizo familia y logró tener como gobernador del Ministerio de la zona, porque él era eléctrico."
+  },
+  {
+    "pid": "p102",
+    "start_time": 851.0,
+    "end_time": 878.8200073242188,
+    "sha1": "91813df3330f54a8016c3fe242a020c114bbde9d",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "yo nunca más aquí porque en realidad éramos muy muy conocidos muy amigos en su momento pero él hizo algo muy feo cuestionable y era propio porque en realidad ni algo que si te interesa pero contar no tengo ni un drama no hay ninguna tranca no hay nada no es no te imaginé algo horrible no algo cuestionable que yo para mí no era según mi visión"
+  },
+  {
+    "pid": "p103",
+    "start_time": 879.6199951171875,
+    "end_time": 886.219970703125,
+    "sha1": "afacf635c22ad17db9d7d1d531fb98a817da00d2",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Así que no tengo un bolo más la pide porque debe estar diciendo, ay mi mamá le pregunté por cáncer y me está contando la historia de toda la familia."
+  },
+  {
+    "pid": "p104",
+    "start_time": 887.1799926757812,
+    "end_time": 888.239990234375,
+    "sha1": "ad3366116ed813c8ae119f3ec8127e6b7297aa14",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "¿Qué tiene que ver eso?"
+  },
+  {
+    "pid": "p105",
+    "start_time": 888.3400268554688,
+    "end_time": 900.7999877929688,
+    "sha1": "cf16668d79d3b8aabec4b3994539b42a07a02d1d",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Bueno, yo digo que sí porque en realidad no tienes oportunidad de conocer, no desean estas instancias y esta fue una ocasión en la cual a mis recuerdos vinieron estas cosas y te las transmito para que tú conozcas."
+  },
+  {
+    "pid": "p106",
+    "start_time": 901.9400024414062,
+    "end_time": 905.9600219726562,
+    "sha1": "f80439b982f961371c22ec25209c33547e5b1945",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Así que a pesar de que no te guste, ahí ya está."
+  },
+  {
+    "pid": "p107",
+    "start_time": 907.1799926757812,
+    "end_time": 910.72998046875,
+    "sha1": "3706aab673e148d9c4e55daf7aef47ff6405aca2",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Así que sí, la abuelita La abuela por parte de papá."
+  },
+  {
+    "pid": "p108",
+    "start_time": 910.77001953125,
+    "end_time": 911.530029296875,
+    "sha1": "df214732f0b69b5ba80225ea0db1ac74059fba81",
+    "cluster": "c000",
+    "cluster_label": "Historias familiares y abuela",
+    "text": "Tuvo cáncer."
+  },
+  {
+    "pid": "p109",
+    "start_time": 911.6699829101562,
+    "end_time": 912.3300170898438,
+    "sha1": "db4d057c22c4d2673021ee0e53022acfc848fe9c",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y fue a la euseña."
+  },
+  {
+    "pid": "p110",
+    "start_time": 912.6099853515625,
+    "end_time": 912.9099731445312,
+    "sha1": "d87b528f154ebd37d7eaa636af4b555c3ea71bec",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Ahí está."
+  },
+  {
+    "pid": "p111",
+    "start_time": 913.4299926757812,
+    "end_time": 914.27001953125,
+    "sha1": "427fe728d237f26de07211de0d3cf0c2a487754a",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y murió."
+  },
+  {
+    "pid": "p112",
+    "start_time": 914.6500244140625,
+    "end_time": 916.1699829101562,
+    "sha1": "9e8d286095672e9a3ca23d270cb90b6ccde4c799",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Dejando a todo su hijito."
+  },
+  {
+    "pid": "p113",
+    "start_time": 916.6699829101562,
+    "end_time": 918.0900268554688,
+    "sha1": "c9c89d9a8ed6817a912595538fdcba07a0c789d6",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Y a hijos chicos."
+  },
+  {
+    "pid": "p114",
+    "start_time": 918.469970703125,
+    "end_time": 918.9099731445312,
+    "sha1": "75f5599c8747a939379e01a8890631d0ef643494",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Guagua."
+  },
+  {
+    "pid": "p115",
+    "start_time": 919.4299926757812,
+    "end_time": 919.6300048828125,
+    "sha1": "b444aae70b7895eaf6fea64ef275b17e071b2787",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Ahí."
+  },
+  {
+    "pid": "p116",
+    "start_time": 919.8699951171875,
+    "end_time": 920.7100219726562,
+    "sha1": "5fe740822cff688f895a824561e15d105addd933",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "A merced."
+  },
+  {
+    "pid": "p117",
+    "start_time": 921.3699951171875,
+    "end_time": 921.8900146484375,
+    "sha1": "5fd148ed9a5a0f2a2d86bc8bcd136ac86177640a",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "De."
+  },
+  {
+    "pid": "p118",
+    "start_time": 922.6099853515625,
+    "end_time": 923.1099853515625,
+    "sha1": "f897e27ad740fb84c93a36ec3885c00f0743e3fd",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "El."
+  },
+  {
+    "pid": "p119",
+    "start_time": 923.530029296875,
+    "end_time": 924.0499877929688,
+    "sha1": "a970c5b930ebd580d2a002a855b816beec0176c7",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Abuelo."
+  },
+  {
+    "pid": "p120",
+    "start_time": 925.0499877929688,
+    "end_time": 925.5700073242188,
+    "sha1": "50c3f1238f31d9594eddcbbc46e8dc9df7ced2f4",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Gustazo."
+  },
+  {
+    "pid": "p121",
+    "start_time": 926.1099853515625,
+    "end_time": 926.7100219726562,
+    "sha1": "ab19b51310667bf0bdd24806269d148fc46d219a",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Chau chau."
+  },
+  {
+    "pid": "p122",
+    "start_time": 926.989990234375,
+    "end_time": 927.8499755859375,
+    "sha1": "4ce64152fdf81826fbc35cb16339ab4a92c6c2e4",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Que tengan buen día."
+  },
+  {
+    "pid": "p123",
+    "start_time": 928.5499877929688,
+    "end_time": 929.77001953125,
+    "sha1": "1adeb42e48418911e38c08931604227afd523539",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Y espero que no."
+  },
+  {
+    "pid": "p124",
+    "start_time": 929.9500122070312,
+    "end_time": 931.22998046875,
+    "sha1": "982eaf5fabe357800d32cba093436da65ae44031",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Pase por tu mente ese pensamiento."
+  },
+  {
+    "pid": "p125",
+    "start_time": 931.3900146484375,
+    "end_time": 932.4099731445312,
+    "sha1": "1081e71e3d0b6b78a2322c1dab46e72f806c02db",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Ay que lata mi mamá."
+  },
+  {
+    "pid": "p126",
+    "start_time": 932.489990234375,
+    "end_time": 933.2899780273438,
+    "sha1": "76781fb441b84677a75e993fd6f300040ec8e1dc",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Me está haciendo todo."
+  },
+  {
+    "pid": "p127",
+    "start_time": 933.4500122070312,
+    "end_time": 933.9500122070312,
+    "sha1": "2ea3f1df7e8fcf62ef57fbd8f25045b9c9c89432",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Una perorata."
+  },
+  {
+    "pid": "p128",
+    "start_time": 934.1900024414062,
+    "end_time": 934.3499755859375,
+    "sha1": "d87b528f154ebd37d7eaa636af4b555c3ea71bec",
+    "cluster": null,
+    "cluster_label": null,
+    "text": "Ahí está."
+  },
+  {
+    "pid": "p129",
+    "start_time": 935.0900268554688,
+    "end_time": 935.6099853515625,
+    "sha1": "002dee6817c70d54e2b87658bf44b14a2447694d",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Chau."
+  },
+  {
+    "pid": "p130",
+    "start_time": 935.8300170898438,
+    "end_time": 936.3099975585938,
+    "sha1": "b84a52605d1ade6595221d2abdb074d39955f22d",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "Besos."
+  },
+  {
+    "pid": "p131",
+    "start_time": 936.75,
+    "end_time": 941.8499755859375,
+    "sha1": "105b43dbee56aa6a3229d34df8116b497739d7d9",
+    "cluster": "c001",
+    "cluster_label": "Trauma y evitación personal",
+    "text": "me enojo yo sola conmigo mismo por pensar que tú estáis pensando lo que estáis pensando y a lo mejor no es"
+  }
+]

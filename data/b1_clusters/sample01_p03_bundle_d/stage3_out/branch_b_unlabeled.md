@@ -1,0 +1,127 @@
+# Branch B — Semantic Reorganization (UNLABELED)
+> Debug artifact: clusters are labeled by cid + keywords only.
+
+## [c000] la abuela, papá, tuvo, ella, mi papá, tenía, cáncer, había, esa, sé
+- time: 1.07s → 934.35s
+- units: 37, pieces: 74
+
+- **[p0]** y para ser justo que se me había ido tu abuela de parte papá la abuela y la mamá de mi papá ella murió de cáncer y ella murió de cáncer y el cáncer que ella tuvo fue leucemia y fue severo y ahí fue cuando ella murió dejo a nueve hijos no siete creo que eran siete hijos ahí sí bueno mi abuelo se fue con una estupenda rubia de ojos que era la abuela rosario que era la abuelita que yo contaba la historia que yo fui la única que elijo abuela y fue todo el escándalo en la familia este y así me signifique como la hija de la carlota como mi mamá era sin filtro y Y yo como tenía esa impronta, aunque nunca fui muy parecida a mi mamá, pero sí tenía lejos de mi mamá y los tengo.
+- **[p2]** Pero...
+- **[p3]** La abuela...
+- **[p4]** Ana se llama tu bisabuela por parte de abuelo.
+- **[p5]** Y ella...
+- **[p6]** Murió de cáncer de lucemia mía, se me había ido medio cuesta.
+- **[p7]** Así que sí, la abuela, ella falleció.
+- **[p8]** Mi papá fue el que vivió todo el proceso de enfermedad de la abuela y agonía.
+- **[p11]** En el sentido de que fue el mayor y el que tuvo que lidiar en rogarle a mi abuelo que le dieran cosas y ese tipo de cuestiones.
+- **[p25]** No sé si me logré entender, pero bueno, creo que ni siquiera me voy a pescar en ello, pero sí, la abuelita, la abuela Ana, yo no la conocí, la conocí por foto, y conocí la historia, la historia de parte de un papá.
+- **[p26]** una que otra vez historia por ahí de parte de algunos tíos pero muy raro que así no se hablaba de ella en realidad y eso es peor a alguien nunca yo escuché una historia cuando estaba en reuniones con los otros tíos de la mamá siempre el papá pero la mamá no la abuela me refiero a los hijos de esa abuela porque después tuvo también hijo el abuelo y otros otros más no sé si fueron cinco o seis hijos más bueno y cuando y tuvo también hijos con una tercera esa fue buena esa historia de la puerta así que es como es como que traje icónico que fue como la historia de el abuelo murió y en el funeral se enteraron todos que tenían un hermano ya dos hermanos más de ya la prole que ya había entonces
+- **[p27]** Y mi mamá, para colmo, como era mucho más observadora, como tú dices, como nosotros, como personas totalmente distintas, que hablamos más.
+- **[p28]** Mi mamá había sacado la película hace muchos años y se lo había dicho mi papá.
+- **[p29]** Mi papá negacionista total.
+- **[p30]** No, ¿cómo puede ser mi papá?
+- **[p31]** Aunque su padre era como el pip, pero mi papá tenía eso de que como que trataba de, de ver lo mejor de las personas a pesar de todo lo malo trataba de ver lo mejor entonces mi papá tenía como esa forma de ver las cosas mi mamá no, mi mamá era de las que la realidad tal cual era entonces mi mamá tenía como el lado totalmente opuesto entonces a mi mamá le faltaban más cosas de mi papá para poder decir las cosas pero no de una manera tan radicalmente duras y crueles
+- **[p43]** O sea, mi abuela fue una mujer de carácter.
+- **[p44]** Y débil a la vez.
+- **[p45]** Y sacó adelante todo.
+- **[p46]** Y se bancó humillaciones, se bancó todo, se bancó el maltrato, se bancó, o sea, mi abuela vivió toda la época de los 40 cuando las mujeres, la única forma de trabajo que tenían eran, porque era la vida de ese momento, era el contexto, era lavar.
+- **[p47]** Y la historia ahí, ahí está, la manera de cómo salían adelante las mujeres era lavando, porque no existía la lavadora.
+- **[p48]** Entonces...
+- **[p49]** La abuela sacó adelante y además sabía cocinar rico, trabajaba en hoteles, haciendo cocina.
+- **[p50]** Entonces, y la abuela nunca tuvo nombre.
+- **[p51]** Nunca llevó un nombre a la casa.
+- **[p52]** Si los tuvo, los tuvo por fuera.
+- **[p53]** Y la abuela ahí, o sea, a los mayores cuidando a los más chicos y genial, no se la llamaba la abuela, pues, llamando y... mi mamá me contaba alguna historia en las cuales que aprovecho contar esto porque estas cosas veces no salen hasta la oportunidad o no quiere escuchar es que la abuela carla que se contaba decía que no había para comer pues ya había que salir a comprar pero la abuela era pero taxativa nunca robar nunca acá, nunca allá y imagínate una mujer trabajadora con todo el contexto que ya te acabo de contar viuda, joven y viuda no porque el marido se le enfermó sino que realmente hubo un accidente y se le fue nomás y vivir todo eso, toda esa precariedad y ver a sus hijos de haber sufrido un montón y nunca tuvo un cáncer o sea tenía que estar para ahí porque en fin En cambio, las historias de los hijos de la abuela, ahí hay otras cosas.
+- **[p54]** Tú me voy a decir la justificación.
+- **[p55]** Por ejemplo, la tía que tuvo cáncer, la tía que tuvo cáncer constituye que ella no iba a sufrir.
+- **[p56]** Ella no iba a sufrir porque en realidad ella no nació para eso.
+- **[p57]** Ella sufrió suficiente y ya no va.
+- **[p58]** Entonces ella tuvo sus hijos y tuvo problemas con su marido, su pareja.
+- **[p59]** Ellos se casaron.
+- **[p60]** Y resulta que decidió, se separaron.
+- **[p61]** Pero parece que ahí el problema no era el caballero, sino que era la señora.
+- **[p62]** Y resulta que dejó a sus hijos votados, se iba a trabajar.
+- **[p63]** Se iba a trabajar, no sé, a otra ciudad y dejaba a los hijos, digamos, al cuidado del mayor.
+- **[p64]** El mayor realmente tenía que hacer...
+- **[p65]** No sé, de repente la plata no llegaba, no llegaba nunca y trataba de ayudarse.
+- **[p66]** Yo soy fiel de eso porque mi papá como era esos tipos, mi papá era muy maternal, muy paternal.
+- **[p67]** Tengo un papá así como...
+- **[p68]** Bueno, echó a mi papá.
+- **[p69]** En realidad ni tanto, ¿eh?
+- **[p70]** Ahora cuándo es el tiempo.
+- **[p71]** Y mi mamá no tenía nada de materno ni paterno, pero lo que hizo, lo hizo bien.
+- **[p73]** Porque no quiso vivir lo que vivió su mamá.
+- **[p74]** La abuela, en este sentido, nunca dejó botados a los cabros.
+- **[p75]** Nunca.
+- **[p76]** Nunca los abandonó.
+- **[p77]** Y siendo que la abuela venía de un abandono total, pues a mi abuela la habían dejado abandonada en un lugar y la criaron hacia la que te vive, en el casco, por allá.
+- **[p78]** Y bueno.
+- **[p79]** Entonces, y esta tía literalmente tenía conducta bastante subgénero.
+- **[p80]** Entonces...
+- **[p88]** Hasta el final.
+- **[p89]** Sus hijos eran como los hijos de otros.
+- **[p90]** No de ella.
+- **[p91]** Los venía a visitar.
+- **[p92]** Extraía cosas.
+- **[p93]** Y después se iba.
+- **[p94]** Nunca se hizo cargo.
+- **[p99]** Y en fin.
+- **[p100]** se conforma con poco para sus hijos no yo yo de lejos vi todo eso porque mis papás siempre tuvieron contacto con los con estos hijos trataban de ayudarlos trataban de guiarlos trataban de incluso gracias a mis papás uno de ellos alguien sin miedo que está a punto de perderse y fue ingeniero este cabrón
+- **[p101]** Este primo resultó ser, incluso tuvo un cargo importante en el Ministerio de Obras Públicas en su momento, no sé ahora en qué estará, pero en su momento estuvo a cargo de las zonas en Rancagua, por allá, por esos lados que se fue a vivir, hizo familia y logró tener como gobernador del Ministerio de la zona, porque él era eléctrico.
+- **[p103]** Así que no tengo un bolo más la pide porque debe estar diciendo, ay mi mamá le pregunté por cáncer y me está contando la historia de toda la familia.
+- **[p107]** Así que sí, la abuelita La abuela por parte de papá.
+- **[p108]** Tuvo cáncer.
+- **[p113]** Y a hijos chicos.
+- **[p114]** Guagua.
+- **[p115]** Ahí.
+- **[p116]** A merced.
+- **[p125]** Ay que lata mi mamá.
+- **[p126]** Me está haciendo todo.
+- **[p127]** Una perorata.
+- **[p128]** Ahí está.
+
+## [c001] evadiendo, algo, trauma, nuestra, evadiendo evadiendo, ningún hijo, ningún, no caerse, caerse, tiene
+- time: 69.02s → 941.85s
+- units: 26, pieces: 40
+
+- **[p1]** Con orgullo, aunque algunos tengo que mejorarlos siempre, constantemente ahí con la rienda tomar.
+- **[p9]** Por eso yo paquio con mucho trauma.
+- **[p10]** No trauma en el sentido de cómo hoy día se maneja el trauma, aunque el trauma siempre ha sido trauma, pero...
+- **[p14]** Entonces ahí hay que conocerla para poder, el que no conoce su historia, No avanza en el presente.
+- **[p15]** Los buenos historiadores dicen eso.
+- **[p16]** Es por eso que la humanidad siempre se cae en la misma piedra.
+- **[p17]** ¿Por qué?
+- **[p18]** Porque no se acuerda de su historia.
+- **[p19]** Yo por lo menos trato de hacer ese ejercicio.
+- **[p20]** Y así todo me caigo, pero por lo menos me caigo no tan terrible.
+- **[p21]** Así que eso.
+- **[p22]** Hay que tratar de no caerse hasta no caerse.
+- **[p23]** Porque el no caerse significa que aprendimos la prueba y ya, ok, van a venir otras.
+- **[p24]** pero que no va a tener que ser con nuestra historia pasada por culpa de ello, de nuestra negligencia, sino que por parte de nuestra propia naturaleza, nuestra realidad que estamos construyendo con lo que tenemos adicional, no con la historia que traemos.
+- **[p32]** Que a veces la verdad, el ser humano de por sí es algo que le cuesta y usted debe más que nadie saber aceptar verdades.
+- **[p33]** Entonces, esas cosas a veces vemos naturaleza que nos cuesta y hay otras que realmente, ok, es así, ya estamos, lo aceptamos, duele, sí, nos bancamos el dolor, sí, ya, listo, ya.
+- **[p34]** Y se agradece de repente que se digan las verdades con la mayoría, pero que se digan.
+- **[p35]** Y hay otras naturalezas que simplemente, literalmente van con...
+- **[p36]** ¿Cómo la ves tú?
+- **[p37]** Tratando de guardar la cabeza, el pensamiento, todo, evadiendo, evadiendo, evadiendo, evadiendo, evadiendo en tele, evadiendo en radio, en películas, en actitudes desconstructivas.
+- **[p38]** Sí, está bien, desconstructiva.
+- **[p39]** Tú me entendís.
+- **[p40]** que es desordenada y no aceptan la realidad porque en el fondo es difícil y se creen débiles que no pueden y resulta que han habido otras personas como el ejemplo de mi mamá de la familia de mi mamá de mi abuela que ningún hijo se le fue ladrón ningún hijo que se le fue prostituta ningún hijo se le fue desbandado y sola sacó lavando nueve hijos
+- **[p41]** Y uno va como enfermo mental, o sea, para resumirlo, con una falta de desarrollo neurológico.
+- **[p42]** Y yo he cristalizado a un niño, pero creció hombre, y manejarlo, y controlarlo, y hacerlo todo bien.
+- **[p81]** No era justificable porque realmente tú puedes tener tus ideas, pero tenías que hacer este cargo así o así de lo que te corresponde.
+- **[p82]** Pero hay personas que literalmente tienen un ego mucho más elevado, porque eso tiene que ver con el ego, no tiene que ver con pobrecita la persona.
+- **[p83]** O sea, uno lee la historia y se da cuenta de personas que, o de historias de películas también basadas en hechos reales.
+- **[p84]** en que podrían haberse zafado del ámbito que vivían y decidieron tomar la realidad en sus manos y es ese cargo eso los condujo a ser personas totalmente íntegras pero no exentan del lado del lado como se dice amargo a la vida pero tomaron la decisión apropiada y correcta ya vemos otras personas que no, porque tratamos de zafar y vimos la vida como que aquí no ha pasado nada y resulta que sí o sí se cobra la vida, la vida te cobra sí o sí todo lo que uno en la metida pata que hace y lamentablemente de tanto vuelta que vio la tía al final la tía terminó enfermándose y Y nunca a pesar de la enfermedad.
+- **[p102]** yo nunca más aquí porque en realidad éramos muy muy conocidos muy amigos en su momento pero él hizo algo muy feo cuestionable y era propio porque en realidad ni algo que si te interesa pero contar no tengo ni un drama no hay ninguna tranca no hay nada no es no te imaginé algo horrible no algo cuestionable que yo para mí no era según mi visión
+- **[p104]** ¿Qué tiene que ver eso?
+- **[p105]** Bueno, yo digo que sí porque en realidad no tienes oportunidad de conocer, no desean estas instancias y esta fue una ocasión en la cual a mis recuerdos vinieron estas cosas y te las transmito para que tú conozcas.
+- **[p106]** Así que a pesar de que no te guste, ahí ya está.
+- **[p121]** Chau chau.
+- **[p122]** Que tengan buen día.
+- **[p123]** Y espero que no.
+- **[p124]** Pase por tu mente ese pensamiento.
+- **[p129]** Chau.
+- **[p130]** Besos.
+- **[p131]** me enojo yo sola conmigo mismo por pensar que tú estáis pensando lo que estáis pensando y a lo mejor no es
+

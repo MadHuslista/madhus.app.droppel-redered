@@ -1,0 +1,29 @@
+[
+  {
+    "id": "chatcmpl-Rp32mgnQcptQs4smE7X2FXBl",
+    "object": "chat.completion",
+    "created": 1772695214,
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"document\": { \"title\": Oportunidades de negocio en el mercado de analizadores médicos, \"level\": 1 },\n  \"sections\": [\n    { \"title\": Introducción y contexto del mercado, \"level\": 2, \"start\": 0, \"end\": 19 },\n    { \"title\": Competidores y precios en el mercado chileno, \"level\": 2, \"start\": 20, \"end\": 39 },\n    { \"title\": Nicho de mercado y estrategias de entrada, \"level\": 2, \"start\": 40, \"end\": 75 },\n    { \"title\": Consideraciones prácticas para el negocio, \"level\": 2, \"start\": 76, \"end\": 104 },\n    { \"title\": Reflexiones sobre el idioma y comunicación, \"level\": 2, \"start\": 105, \"end\": 146 },\n    { \"title\": Formalización de la empresa y aspectos legales, \"level\": 2, \"start\": 147, \"end\": 164 },\n    { \"title\": Preparativos para el viaje a Estados Unidos, \"level\": 2, \"start\": 165, \"end\": 180 },\n    { \"title\": Herramientas y tecnología auxiliares, \"level\": 2, \"start\": 181, \"end\": 204 },\n    { \"title\": Cierre y agradecimientos, \"level\": 2, \"start\": 205, \"end\": 236 }\n  ],\n  \"paragraph_breaks\": [\n    { \"after\": 1 },\n    { \"after\": 6 },\n    { \"after\": 12 },\n    { \"after\": 19 },\n    { \"after\": 25 },\n    { \"after\": 33 },\n    { \"after\": 38 },\n    { \"after\": 45 },\n    { \"after\": 52 },\n    { \"after\": 60 },\n    { \"after\": 70 },\n    { \"after\": 75 },\n    { \"after\": 82 },\n    { \"after\": 95 },\n    { \"after\": 103 },\n    { \"after\": 118 },\n    { \"after\": 127 },\n    { \"after\": 135 },\n    { \"after\": 144 },\n    { \"after\": 153 },\n    { \"after\": 161 },\n    { \"after\": 172 },\n    { \"after\": 180 },\n    { \"after\": 189 },\n    { \"after\": 198 },\n    { \"after\": 202 },\n    { \"after\": 209 },\n    { \"after\": 216 },\n    { \"after\": 225 },\n    { \"after\": 231 }\n  ]\n}",
+          "reasoning_content": null,
+          "name": null,
+          "tool_calls": null
+        },
+        "finish_reason": "stop",
+        "logprobs": null
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 8422,
+      "total_tokens": 9075,
+      "completion_tokens": 653,
+      "estimated_cost": 0.00126531,
+      "prompt_tokens_details": null
+    }
+  }
+]
