@@ -108,31 +108,31 @@ Those later addendums are allowed only as placeholders or extension points.
 
 ## 2.1 Layered phases
 
-| Phase | Goal | Visible output | Primary validation |
-|---|---|---|---|
-| P0 | Boot app skeleton and app shell | App boots, shell page renders | `/healthz`, `/ui`, static CSS/JS load |
-| P1 | Local document catalog and loader | Sidebar with sample documents | Document list renders from sample data |
-| P2 | Render manifest packaging | Deterministic normalized manifests | CLI packager outputs JSON manifests |
-| P3 | Branch A reader + audio overlay | Piece hover, tooltip, audio seek | Hover highlights exact piece; audio starts at piece timestamp |
-| P4 | Branch B cluster overlay | Cluster toggles and cluster highlighting | Cluster hover/click affects relevant pieces |
-| P5 | Branch C reader + cross-view navigation | Summary sentence citations and jumps | Summary → transcript jump works |
-| P6 | User auth + ownership + preferences | Login, user-scoped docs, saved reader prefs | Auth flow works; prefs persist |
-| P7 | Cloud-ready adapters + async extension points | Same app can run against GCS/Firestore | Local and cloud adapters both pass the contract tests |
+| Phase | Goal                                          | Visible output                              | Primary validation                                            |
+| ----- | --------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------- |
+| P0    | Boot app skeleton and app shell               | App boots, shell page renders               | `/healthz`, `/ui`, static CSS/JS load                         |
+| P1    | Local document catalog and loader             | Sidebar with sample documents               | Document list renders from sample data                        |
+| P2    | Render manifest packaging                     | Deterministic normalized manifests          | CLI packager outputs JSON manifests                           |
+| P3    | Branch A reader + audio overlay               | Piece hover, tooltip, audio seek            | Hover highlights exact piece; audio starts at piece timestamp |
+| P4    | Branch B cluster overlay                      | Cluster toggles and cluster highlighting    | Cluster hover/click affects relevant pieces                   |
+| P5    | Branch C reader + cross-view navigation       | Summary sentence citations and jumps        | Summary → transcript jump works                               |
+| P6    | User auth + ownership + preferences           | Login, user-scoped docs, saved reader prefs | Auth flow works; prefs persist                                |
+| P7    | Cloud-ready adapters + async extension points | Same app can run against GCS/Firestore      | Local and cloud adapters both pass the contract tests         |
 
 ## 2.2 Parallel module lanes
 
 These module lanes are designed to be implemented in parallel after P0 contracts are frozen.
 
-| Lane | Purpose | First meaningful phase |
-|---|---|---|
-| L1 `core-contracts` | Shared schemas, IDs, errors, service interfaces | P0 |
-| L2 `catalog-and-storage` | Local/GCS artifact discovery and load | P1 |
-| L3 `manifest-packager` | Normalize raw/sample artifacts into renderer manifests | P2 |
-| L4 `reader-branch-a` | Branch A rendering, hover, tooltip, audio overlay | P3 |
-| L5 `reader-clusters` | Branch B cluster color logic and overlay panel | P4 |
-| L6 `reader-branch-c` | Summary rendering, sentence citations, cross-view jump | P5 |
-| L7 `auth-and-prefs` | Firebase auth integration and preference persistence | P6 |
-| L8 `cloud-adapters` | Firestore, GCS, Cloud Run-friendly adapters | P7 |
+| Lane                     | Purpose                                                | First meaningful phase |
+| ------------------------ | ------------------------------------------------------ | ---------------------- |
+| L1 `core-contracts`      | Shared schemas, IDs, errors, service interfaces        | P0                     |
+| L2 `catalog-and-storage` | Local/GCS artifact discovery and load                  | P1                     |
+| L3 `manifest-packager`   | Normalize raw/sample artifacts into renderer manifests | P2                     |
+| L4 `reader-branch-a`     | Branch A rendering, hover, tooltip, audio overlay      | P3                     |
+| L5 `reader-clusters`     | Branch B cluster color logic and overlay panel         | P4                     |
+| L6 `reader-branch-c`     | Summary rendering, sentence citations, cross-view jump | P5                     |
+| L7 `auth-and-prefs`      | Firebase auth integration and preference persistence   | P6                     |
+| L8 `cloud-adapters`      | Firestore, GCS, Cloud Run-friendly adapters            | P7                     |
 
 ## 2.3 Phase dependency graph
 
@@ -470,29 +470,29 @@ These endpoints are sufficient for the PoC.
 
 ### 4.3.1 UI routes
 
-| Route | Method | Purpose |
-|---|---|---|
-| `/ui` | GET | shell/home |
-| `/ui/documents/{document_id}` | GET | open default document page |
-| `/ui/documents/{document_id}/branch-a` | GET | Branch A reader fragment/page |
-| `/ui/documents/{document_id}/branch-c` | GET | Branch C reader fragment/page |
-| `/ui/documents/{document_id}/clusters` | GET | cluster panel fragment |
-| `/ui/login` | GET | login page |
+| Route                                  | Method | Purpose                       |
+| -------------------------------------- | ------ | ----------------------------- |
+| `/ui`                                  | GET    | shell/home                    |
+| `/ui/documents/{document_id}`          | GET    | open default document page    |
+| `/ui/documents/{document_id}/branch-a` | GET    | Branch A reader fragment/page |
+| `/ui/documents/{document_id}/branch-c` | GET    | Branch C reader fragment/page |
+| `/ui/documents/{document_id}/clusters` | GET    | cluster panel fragment        |
+| `/ui/login`                            | GET    | login page                    |
 
 ### 4.3.2 API routes
 
-| Route | Method | Purpose |
-|---|---|---|
-| `/healthz` | GET | health |
-| `/api/documents` | GET | list documents |
-| `/api/documents/{document_id}` | GET | metadata |
-| `/api/documents/{document_id}/reader/branch-a` | GET | Branch A JSON or HTML partial |
-| `/api/documents/{document_id}/reader/branch-c` | GET | Branch C JSON or HTML partial |
-| `/api/documents/{document_id}/clusters` | GET | cluster metadata |
-| `/api/documents/{document_id}/piece/{piece_id}` | GET | piece detail for tooltip |
-| `/api/documents/{document_id}/jump/by-piece/{piece_id}` | GET | resolve transcript anchor |
-| `/api/prefs` | GET/PUT | reader preferences |
-| `/api/auth/session` | GET | current session info |
+| Route                                                   | Method  | Purpose                       |
+| ------------------------------------------------------- | ------- | ----------------------------- |
+| `/healthz`                                              | GET     | health                        |
+| `/api/documents`                                        | GET     | list documents                |
+| `/api/documents/{document_id}`                          | GET     | metadata                      |
+| `/api/documents/{document_id}/reader/branch-a`          | GET     | Branch A JSON or HTML partial |
+| `/api/documents/{document_id}/reader/branch-c`          | GET     | Branch C JSON or HTML partial |
+| `/api/documents/{document_id}/clusters`                 | GET     | cluster metadata              |
+| `/api/documents/{document_id}/piece/{piece_id}`         | GET     | piece detail for tooltip      |
+| `/api/documents/{document_id}/jump/by-piece/{piece_id}` | GET     | resolve transcript anchor     |
+| `/api/prefs`                                            | GET/PUT | reader preferences            |
+| `/api/auth/session`                                     | GET     | current session info          |
 
 ### 4.3.3 Frontend DOM contracts
 
@@ -721,12 +721,12 @@ uvicorn app.main:app --reload
 
 ## 5.5 Failure modes and interpretation
 
-| Symptom | Likely cause | Action |
-|---|---|---|
-| `TemplateNotFound` | wrong template path | verify `app/templates` and route template names |
-| static 404 | static mount path wrong | verify `app.mount("/static", ...)` |
-| app boots but `/ui` 500s | Jinja context or template syntax error | inspect traceback, simplify template |
-| shell loads without CSS | incorrect `<link>` path | verify `/static/css/app.css` exists |
+| Symptom                  | Likely cause                           | Action                                          |
+| ------------------------ | -------------------------------------- | ----------------------------------------------- |
+| `TemplateNotFound`       | wrong template path                    | verify `app/templates` and route template names |
+| static 404               | static mount path wrong                | verify `app.mount("/static", ...)`              |
+| app boots but `/ui` 500s | Jinja context or template syntax error | inspect traceback, simplify template            |
+| shell loads without CSS  | incorrect `<link>` path                | verify `/static/css/app.css` exists             |
 
 ## 5.6 Exit criteria
 
@@ -938,11 +938,11 @@ A stable shell with:
 
 ## 6.10 Failure modes
 
-| Symptom | Likely cause | Action |
-|---|---|---|
-| no docs appear | importer failed or repo path mismatch | inspect `sample_data/imported` |
-| doc page 404 | route mismatch or missing document manifest | verify `document_id` emitted by repo |
-| sidebar order unstable | filesystem iteration not sorted | enforce deterministic sort |
+| Symptom                | Likely cause                                | Action                               |
+| ---------------------- | ------------------------------------------- | ------------------------------------ |
+| no docs appear         | importer failed or repo path mismatch       | inspect `sample_data/imported`       |
+| doc page 404           | route mismatch or missing document manifest | verify `document_id` emitted by repo |
+| sidebar order unstable | filesystem iteration not sorted             | enforce deterministic sort           |
 
 ## 6.11 Exit criteria
 
@@ -1115,11 +1115,11 @@ Expected:
 
 ## 7.9 Failure modes
 
-| Symptom | Likely cause | Action |
-|---|---|---|
-| missing pieces in Branch A render | packager failed to align pieces | add explicit packager diagnostics showing orphaned piece IDs |
-| malformed JSON | non-serializable object leaked from service | normalize types before write |
-| repeated runs differ | non-deterministic ordering | sort everywhere before write |
+| Symptom                           | Likely cause                                | Action                                                       |
+| --------------------------------- | ------------------------------------------- | ------------------------------------------------------------ |
+| missing pieces in Branch A render | packager failed to align pieces             | add explicit packager diagnostics showing orphaned piece IDs |
+| malformed JSON                    | non-serializable object leaked from service | normalize types before write                                 |
+| repeated runs differ              | non-deterministic ordering                  | sort everywhere before write                                 |
 
 ## 7.10 Exit criteria
 
@@ -1337,12 +1337,12 @@ This is the first phase where the app already looks like the intended product.
 
 ## 8.10 Failure modes
 
-| Symptom | Likely cause | Action |
-|---|---|---|
-| only part of a piece highlights | piece DOM split incorrectly | verify paragraph rendering preserves one span per piece |
-| tooltip flickers | mouseenter/mouseleave logic too granular | use delegated events and debounced hide |
-| audio starts at 0 | timestamp parsing issue | inspect `data-start-s` and API payload |
-| hover breaks reading | highlight style too strong | soften background/outline and reduce animation |
+| Symptom                         | Likely cause                             | Action                                                  |
+| ------------------------------- | ---------------------------------------- | ------------------------------------------------------- |
+| only part of a piece highlights | piece DOM split incorrectly              | verify paragraph rendering preserves one span per piece |
+| tooltip flickers                | mouseenter/mouseleave logic too granular | use delegated events and debounced hide                 |
+| audio starts at 0               | timestamp parsing issue                  | inspect `data-start-s` and API payload                  |
+| hover breaks reading            | highlight style too strong               | soften background/outline and reduce animation          |
 
 ## 8.11 Exit criteria
 
@@ -1478,11 +1478,11 @@ Example:
 
 ## 9.8 Failure modes
 
-| Symptom | Likely cause | Action |
-|---|---|---|
-| pinned highlights never clear | state cleanup bug | treat DOM recompute as source of truth |
-| cluster hover is slow | too many DOM writes | batch updates with `requestAnimationFrame` |
-| reader becomes unreadable | colors too saturated | reduce alpha and border emphasis |
+| Symptom                       | Likely cause         | Action                                     |
+| ----------------------------- | -------------------- | ------------------------------------------ |
+| pinned highlights never clear | state cleanup bug    | treat DOM recompute as source of truth     |
+| cluster hover is slow         | too many DOM writes  | batch updates with `requestAnimationFrame` |
+| reader becomes unreadable     | colors too saturated | reduce alpha and border emphasis           |
 
 ## 9.9 Exit criteria
 
@@ -1579,11 +1579,11 @@ This behavior must be implemented client-side in `reader.js`.
 
 ## 10.7 Failure modes
 
-| Symptom | Likely cause | Action |
-|---|---|---|
-| summary sentence has no cites | fixture or real Branch C render malformed | validate `cited_piece_ids` non-empty in contract tests |
-| jump lands on wrong transcript area | bad `piece_id` / DOM anchor mismatch | ensure `dom_anchor` in `pieces_index` matches rendered IDs |
-| new tab opens but no pulse | query parsing missing in JS init | add a startup URL handler |
+| Symptom                             | Likely cause                              | Action                                                     |
+| ----------------------------------- | ----------------------------------------- | ---------------------------------------------------------- |
+| summary sentence has no cites       | fixture or real Branch C render malformed | validate `cited_piece_ids` non-empty in contract tests     |
+| jump lands on wrong transcript area | bad `piece_id` / DOM anchor mismatch      | ensure `dom_anchor` in `pieces_index` matches rendered IDs |
+| new tab opens but no pulse          | query parsing missing in JS init          | add a startup URL handler                                  |
 
 ## 10.8 Exit criteria
 
@@ -1676,11 +1676,11 @@ Cloud:
 
 ## 11.7 Failure modes
 
-| Symptom | Likely cause | Action |
-|---|---|---|
+| Symptom                                    | Likely cause                                   | Action                                         |
+| ------------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
 | signed-in user still sees fake tenant docs | dependency injection still points to fake auth | verify environment-dependent adapter selection |
-| prefs save but do not load | repo write/read key mismatch | standardize `tenant_id` primary key |
-| backend accepts unauthenticated request | auth dependency not mounted on route | require auth dependency on protected routes |
+| prefs save but do not load                 | repo write/read key mismatch                   | standardize `tenant_id` primary key            |
+| backend accepts unauthenticated request    | auth dependency not mounted on route           | require auth dependency on protected routes    |
 
 ## 11.8 Exit criteria
 

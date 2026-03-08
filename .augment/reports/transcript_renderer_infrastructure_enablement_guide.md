@@ -103,30 +103,30 @@ The reference list is at the end of this guide.
 
 ## 3.1 Required services
 
-| Service | Purpose | Free-tier relevance |
-|---|---|---|
-| Google Cloud project + billing | required foundation | mandatory even for Free Tier |
-| Cloud Run | web app hosting | strong always-free fit |
-| Cloud Build | source/Git builds | useful free allowance |
-| Artifact Registry | container artifacts if needed | minimal storage use only |
-| Cloud Storage (GCS) | audio + render artifacts | always-free in selected US regions |
-| Firestore | metadata + preferences | good free quota for PoC |
-| Firebase project linkage | enables Auth / frontend SDK ergonomics | needed for auth path |
-| Firebase Authentication | Google + email/password auth | good fit for PoC |
-| Secret Manager | service secrets if needed | small usage likely within free allowance |
-| Cloud Logging / Monitoring | observability | use lightly in PoC |
-| Cloud Run Jobs (optional) | future async packaging | supported, not required on day one |
+| Service                        | Purpose                                | Free-tier relevance                      |
+| ------------------------------ | -------------------------------------- | ---------------------------------------- |
+| Google Cloud project + billing | required foundation                    | mandatory even for Free Tier             |
+| Cloud Run                      | web app hosting                        | strong always-free fit                   |
+| Cloud Build                    | source/Git builds                      | useful free allowance                    |
+| Artifact Registry              | container artifacts if needed          | minimal storage use only                 |
+| Cloud Storage (GCS)            | audio + render artifacts               | always-free in selected US regions       |
+| Firestore                      | metadata + preferences                 | good free quota for PoC                  |
+| Firebase project linkage       | enables Auth / frontend SDK ergonomics | needed for auth path                     |
+| Firebase Authentication        | Google + email/password auth           | good fit for PoC                         |
+| Secret Manager                 | service secrets if needed              | small usage likely within free allowance |
+| Cloud Logging / Monitoring     | observability                          | use lightly in PoC                       |
+| Cloud Run Jobs (optional)      | future async packaging                 | supported, not required on day one       |
 
 ## 3.2 Explicitly excluded for initial PoC
 
-| Service | Why excluded |
-|---|---|
-| Cloud SQL | too easy to create recurring cost, unnecessary now |
-| GKE | too much operational and billing surface |
-| Firebase Storage | not needed; plain GCS is simpler and avoids bucket-plan confusion |
-| Pub/Sub | defer unless async orchestration becomes necessary |
-| Load balancer / CDN stack | unnecessary before traffic or custom domain pressure |
-| Memorystore / Redis | not required for this UX |
+| Service                   | Why excluded                                                      |
+| ------------------------- | ----------------------------------------------------------------- |
+| Cloud SQL                 | too easy to create recurring cost, unnecessary now                |
+| GKE                       | too much operational and billing surface                          |
+| Firebase Storage          | not needed; plain GCS is simpler and avoids bucket-plan confusion |
+| Pub/Sub                   | defer unless async orchestration becomes necessary                |
+| Load balancer / CDN stack | unnecessary before traffic or custom domain pressure              |
+| Memorystore / Redis       | not required for this UX                                          |
 
 ---
 
@@ -134,13 +134,13 @@ The reference list is at the end of this guide.
 
 Use these regions unless there is a documented reason to change:
 
-| Component | Region |
-|---|---|
-| Cloud Run service | `us-central1` |
-| Cloud Run jobs | `us-central1` |
-| GCS bucket | `us-central1` |
-| Firestore | closest compatible low-complexity region; prefer same US footprint for PoC |
-| Artifact Registry | `us-central1` |
+| Component         | Region                                                                     |
+| ----------------- | -------------------------------------------------------------------------- |
+| Cloud Run service | `us-central1`                                                              |
+| Cloud Run jobs    | `us-central1`                                                              |
+| GCS bucket        | `us-central1`                                                              |
+| Firestore         | closest compatible low-complexity region; prefer same US footprint for PoC |
+| Artifact Registry | `us-central1`                                                              |
 
 Why:
 - aligns with strong free-tier assumptions
@@ -156,15 +156,15 @@ Do not spread the PoC across multiple regions unless required.
 
 This is the primary coordination table between this guide and the implementation plan.
 
-| Infra Phase | Enables | Required by implementation phases |
-|---|---|---|
-| I0 | local-only work, no cloud | P0, P1, P2, large parts of P3/P4/P5 |
-| I1 | GCP project, billing, APIs, CLI access | required before any cloud test |
-| I2 | Firebase + Auth + Firestore foundations | required before P6 cloud auth |
-| I3 | GCS buckets + IAM + service accounts | required before P7 cloud adapters |
-| I4 | Cloud Run service deploy path | required before first hosted staging test |
-| I5 | CI/CD + budgets + alerts + secrets | required before team-facing PoC |
-| I6 | Optional Cloud Run Jobs path | only required for later async packaging/ingestion |
+| Infra Phase | Enables                                 | Required by implementation phases                 |
+| ----------- | --------------------------------------- | ------------------------------------------------- |
+| I0          | local-only work, no cloud               | P0, P1, P2, large parts of P3/P4/P5               |
+| I1          | GCP project, billing, APIs, CLI access  | required before any cloud test                    |
+| I2          | Firebase + Auth + Firestore foundations | required before P6 cloud auth                     |
+| I3          | GCS buckets + IAM + service accounts    | required before P7 cloud adapters                 |
+| I4          | Cloud Run service deploy path           | required before first hosted staging test         |
+| I5          | CI/CD + budgets + alerts + secrets      | required before team-facing PoC                   |
+| I6          | Optional Cloud Run Jobs path            | only required for later async packaging/ingestion |
 
 ---
 
@@ -303,11 +303,11 @@ gcloud services list --enabled
 
 ## 7.6 Common failure modes
 
-| Symptom | Likely cause | Action |
-|---|---|---|
-| Cloud Run deploy blocked | billing not enabled | link billing, confirm project context |
-| Firestore creation unavailable | API not enabled or wrong project | re-check active project and API list |
-| team member cannot enable service | missing IAM role | use Owner/Admin temporarily for bootstrap, reduce later |
+| Symptom                           | Likely cause                     | Action                                                  |
+| --------------------------------- | -------------------------------- | ------------------------------------------------------- |
+| Cloud Run deploy blocked          | billing not enabled              | link billing, confirm project context                   |
+| Firestore creation unavailable    | API not enabled or wrong project | re-check active project and API list                    |
+| team member cannot enable service | missing IAM role                 | use Owner/Admin temporarily for bootstrap, reduce later |
 
 ---
 
@@ -387,11 +387,11 @@ Alternative denormalized pattern is acceptable, but keep these rules:
 
 ## 8.8 Failure modes
 
-| Symptom | Likely cause | Action |
-|---|---|---|
-| frontend login succeeds but backend sees anonymous user | backend token verification not configured | wire Firebase Admin credentials and auth dependency |
-| Firestore reads fail in Cloud Run | service account missing Firestore access | update IAM on runtime service account |
-| auth works locally only | wrong web app config or redirect domain mismatch | verify Firebase web config and authorized domains |
+| Symptom                                                 | Likely cause                                     | Action                                              |
+| ------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------- |
+| frontend login succeeds but backend sees anonymous user | backend token verification not configured        | wire Firebase Admin credentials and auth dependency |
+| Firestore reads fail in Cloud Run                       | service account missing Firestore access         | update IAM on runtime service account               |
+| auth works locally only                                 | wrong web app config or redirect domain mismatch | verify Firebase web config and authorized domains   |
 
 ---
 
@@ -466,11 +466,11 @@ gcloud iam service-accounts list
 
 ## 9.7 Failure modes
 
-| Symptom | Likely cause | Action |
-|---|---|---|
-| app can read local files but not GCS | wrong adapter config or missing credentials | verify env vars and runtime service account |
-| signed URLs fail | service account permissions or wrong path | verify bucket/object path and signing method |
-| bucket charges appear unexpectedly | region or egress assumptions wrong | confirm region and keep browser/media access patterns tight |
+| Symptom                              | Likely cause                                | Action                                                      |
+| ------------------------------------ | ------------------------------------------- | ----------------------------------------------------------- |
+| app can read local files but not GCS | wrong adapter config or missing credentials | verify env vars and runtime service account                 |
+| signed URLs fail                     | service account permissions or wrong path   | verify bucket/object path and signing method                |
+| bucket charges appear unexpectedly   | region or egress assumptions wrong          | confirm region and keep browser/media access patterns tight |
 
 ---
 
@@ -562,12 +562,12 @@ Heavy long-running work belongs later in Cloud Run Jobs, not in user-facing web 
 
 ## 10.9 Failure modes
 
-| Symptom | Likely cause | Action |
-|---|---|---|
-| deploy succeeds but service 500s | app startup mismatch / env vars missing | inspect revision logs |
-| service cannot access Firestore | runtime SA missing permissions | adjust IAM |
-| service cannot serve static assets | buildpack entrypoint or template/static path issue | verify root `main.py`, `Procfile`, static mount |
-| branch reader loads but media fails | bucket path or signed URL issue | inspect app logs and browser network panel |
+| Symptom                             | Likely cause                                       | Action                                          |
+| ----------------------------------- | -------------------------------------------------- | ----------------------------------------------- |
+| deploy succeeds but service 500s    | app startup mismatch / env vars missing            | inspect revision logs                           |
+| service cannot access Firestore     | runtime SA missing permissions                     | adjust IAM                                      |
+| service cannot serve static assets  | buildpack entrypoint or template/static path issue | verify root `main.py`, `Procfile`, static mount |
+| branch reader loads but media fails | bucket path or signed URL issue                    | inspect app logs and browser network panel      |
 
 ---
 
@@ -723,29 +723,29 @@ Do not jump from broken local straight into cloud debugging. That is slow and mi
 
 ## 15. What must be finished before enabling each infrastructure piece
 
-| Infrastructure piece | Do not enable before this code exists |
-|---|---|
-| Firestore for real app data | repository interfaces frozen, P6 auth/prefs contract exists |
-| GCS artifact path | artifact store contract frozen, packager output paths defined |
-| Cloud Run staging deploy | app boots cleanly, P0 complete |
-| Public demo URL | at least P3 complete and basic auth story understood |
-| GitHub auto-deploy | one manual deploy already succeeded |
-| Cloud Run Jobs | packager logic already works locally |
+| Infrastructure piece        | Do not enable before this code exists                         |
+| --------------------------- | ------------------------------------------------------------- |
+| Firestore for real app data | repository interfaces frozen, P6 auth/prefs contract exists   |
+| GCS artifact path           | artifact store contract frozen, packager output paths defined |
+| Cloud Run staging deploy    | app boots cleanly, P0 complete                                |
+| Public demo URL             | at least P3 complete and basic auth story understood          |
+| GitHub auto-deploy          | one manual deploy already succeeded                           |
+| Cloud Run Jobs              | packager logic already works locally                          |
 
 ---
 
 ## 16. What infrastructure must be ready before each implementation phase can be cloud-tested
 
-| Implementation phase | Infra needed for local test | Infra needed for cloud test |
-|---|---|---|
-| P0 | none | I1 + I4 |
-| P1 | none | I1 + I4 |
-| P2 | none | I1 + I3 + I4 only if packaging is exercised in cloud |
-| P3 | none | I1 + I3 + I4 |
-| P4 | none | I1 + I3 + I4 |
-| P5 | none | I1 + I3 + I4 |
-| P6 | fake auth only | I1 + I2 + I4 |
-| P7 | optional | I1 + I2 + I3 + I4 |
+| Implementation phase | Infra needed for local test | Infra needed for cloud test                          |
+| -------------------- | --------------------------- | ---------------------------------------------------- |
+| P0                   | none                        | I1 + I4                                              |
+| P1                   | none                        | I1 + I4                                              |
+| P2                   | none                        | I1 + I3 + I4 only if packaging is exercised in cloud |
+| P3                   | none                        | I1 + I3 + I4                                         |
+| P4                   | none                        | I1 + I3 + I4                                         |
+| P5                   | none                        | I1 + I3 + I4                                         |
+| P6                   | fake auth only              | I1 + I2 + I4                                         |
+| P7                   | optional                    | I1 + I2 + I3 + I4                                    |
 
 ---
 
