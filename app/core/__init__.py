@@ -1,0 +1,1 @@
+"""Core types, contracts, and normalization logic."""

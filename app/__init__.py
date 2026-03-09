@@ -1,0 +1,1 @@
+"""Transcript renderer application package."""

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block body %}
+<div class="app-shell" data-phase="p0">
+  <aside class="sidebar">
+    <div class="sidebar__title">Documents</div>
+    <div class="sidebar__empty">Catalog not loaded yet.</div>
+  </aside>
+
+  <main class="main-pane">
+    <header class="topbar">
+      <h1>Transcript Renderer</h1>
+      <p class="topbar__subtitle">Contract-first and local-first foundation.</p>
+    </header>
+
+    <section class="hero-card">
+      <h2>Phase 0 foundation</h2>
+      <ul>
+        <li>Runtime contracts frozen in <code>app/core/contracts</code></li>
+        <li>Sample normalization rules frozen in <code>app/core/sample_normalization.py</code></li>
+        <li>Rendered artifact outputs standardized under <code>sample_data/rendered/&lt;document_id&gt;/</code></li>
+      </ul>
+    </section>
+  </main>
+</div>
+{% endblock %}
