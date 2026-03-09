@@ -1,0 +1,1 @@
+web: gunicorn -b :$PORT -w 1 -k uvicorn_worker.UvicornWorker main:app
