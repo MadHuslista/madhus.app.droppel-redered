@@ -1,0 +1,10 @@
+fastapi[standard]
+jinja2
+gunicorn
+uvicorn-worker
+pydantic
+pydantic-settings
+python-multipart
+httpx
+pytest
+pytest-cov
